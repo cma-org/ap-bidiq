@@ -1,0 +1,59 @@
+CORRIGENDUM-1
+
+Corrigendum -1, Date XXXXXX to Tender Notice NoXXXXX, Dt.XXXXX 
+Name of Work: Name of work , Location ON ENGINEERING, PROCUREMENT AND CONSTRUCTION CONTRACT BASIS
+
+S.No
+Description 
+For
+Read
+1
+Vol-1,Section-1, (B)   Financial Capacity:   
+
+(B)   Financial Capacity:   
+(1) The Bidder should satisfy the following financial requirement as per their latest audited Financial Statements/Balance Sheets:   
+	•	Minimum Average Annual Turnover: The bidder should have satisfactorily completed as prime contractor in civil engineering category in any one financial year ending( Date) of value not less than Rs. XXXX. For this purpose, only the Turnover income from operations shall be considered. 
+(2) The AvailableBid capacity of the Tenderer shall be more than the total Bid Value. The Available Bid Capacity will be calculated as under:
+Assessed Available Bid Capacity= A*N*3-B, where
+‘N’ = Number of years prescribed for completion of the subject Contract 
+‘A’ = maximum value of works executed in any one year during last Five  years (at current price level). 
+
+‘B’ = value at current price level of existing commitments and ongoing works to be completed in the next ‘N’ years.
+The Tenderer shall furnish statements showing the value of existing commitments and on-going works as well as the stipulated period of completion remaining for each of the works, which shall be certified by a Chartered Accountant.
+
+(B)   Financial Capacity:   
+(1) The Bidder should satisfy the following financial requirement as per their latest audited Financial Statements/Balance Sheets:   
+	•	Minimum Average Annual Turnover: The bidder should have satisfactorily completed as prime contractor in civil engineering category in any one financial year ending ( Date) of value not less than Rs. XXXX. For this purpose, only the Turnover income from operations shall be considered. 
+(2) The AvailableBid capacity of the Tenderer shall be more than the total Bid Value. The Available Bid Capacity will be calculated as under:
+Assessed Available Bid Capacity= A*N*3-B, where
+‘N’ = Number of years prescribed for completion of the subject Contract 
+‘A’ = maximum value of works executed in any one year during last Ten years (at current price level). 
+
+‘B’ = value at current price level of existing commitments and ongoing works to be completed in the next ‘N’ years.
+The Tenderer shall furnish statements showing the value of existing commitments and on-going works as well as the stipulated period of completion remaining for each of the works, which shall be certified by a Chartered Accountant.
+
+2
+
+	•	Extra Items:
+	•	40.1 
+	•	Extra items of work shall not vitiate the contract. This being a lump sum contract on Turnkey (EPC) basis for a firm lump sum price quoted and on single source responsibility basis, the contractor shall be bound to execute any items of work contingent to main work for completion in full shape as directed by the Engineer-in-Charge.
+	•	
+	•	Whenever additional items not contingent on the main work and outside the scope of original contract are to be entrusted to the Contractor, entrustment of such items and the price to be paid shall be referred to the government for final decision. 
+	•	
+	•	The contractor shall before the 15th day of each month, submit in writing to the Employer/ Employer’s representative a statement of extra items if any that they have executed during the preceding month failing which the contractor shall not be entitled to claim any
+	•	Extra Items:
+	•	40.1 
+	•	Extra items of work shall not vitiate the contract. This being a lump sum contract on Turnkey (EPC) basis for a firm lump sum price quoted and on single source responsibility basis, the contractor shall be bound to execute any items of work contingent to main work for completion in full shape as directed by the Engineer-in-Charge.
+
+	•	Payment in such cases where the designs approved result in “Substantial Reduction” i.e 10% in equatities of that component from the estimated quantities, the Payment schedule will be adjusted to the actual quantities only and limited as per estimate rates for that component. Payment schedule will remain unchanged in case of increase up to 10% in the quantities in a component and in all the cases approval of EPC Committee-3 is necessary.
+	•	Entrustment of the additional items contingent to the main work and within the scope of contract will be authorized by the Employer and the contractor shall be bound to execute such additional items at no extra cost to the Employer and the cost of such items shall be deemed to have been included in the contract price quoted subject to what is specified in Clause 40.3.1 above. Entrustment of the additional items of work contingent to main work and outside the scope of the contract will be authorized by the employer with the prior approval of the Government and the contractor shall be bound to execute such additional items and shall be compensated at the price decided by the Government.
+	•	
+	•	Whenever additional items not contingent on the main work and outside the scope of original contract are to be entrusted to the Contractor, entrustment of such items and the price to be paid shall be referred to the government for final decision. 
+	•	
+The contractor shall before the 15th day of each month, submit in writing to the Employer/ Employer’s representative a statement of extra items if any that they have executed during the preceding month failing which the contractor shall not be entitled to claim any
+
+
+
+													
+													            Designation 
+												    Name of Firm 

@@ -1,0 +1,604 @@
+
+
+
+
+
+
+
+
+VOLUME – II
+SECTION – 6C DESIGN CRITERIA
+
+
+
+6C DESIGN CRITERIA / INTENT
+General
+The Employer has provided concept details in the Tender Document to provide the Contractor with sufficient information so as to clearly understand the Employer’s intent, goals and objectives in execution of the works. The Contractor will be required to adopt the general concepts, as provided, and expand and develop the same to produce complete, thorough, comprehensive and high-quality designs, working drawings, and specifications for review and approval of the Employer. 
+While developing the complete and final designs and specifications, the Contractor shall review the concept details, planning and specifications provided by the Employer to become intimately familiar and fully understand the Employer’s intent and also to identify betterments or improvements, if any, which may be considered, and incorporated, to better achieve the Employer’s goals and objectives in providing highly efficient and functional facilities. These betterments, if any, shall be submitted by the Contractor for review and subsequent approval by the Employer prior to the commencement of final design. 
+List of General Codes and References
+Codes and Standards
+The codes and standards stated here below or elsewhere shall be the latest editions. All materials, testing, design and execution shall be in conformity with these codes and standards unless otherwise stated in the specifications. Indian Standards shall generally be followed. In case, any work or item is not covered by the Indian Standards, following standards shall be adopted in order of preference.
+1.	British Standards 
+2.	American Standards
+3.	General Standards
+Table 6.1 provides a list of the primary codes and guidelines which will be used for the structural design of the marine structures, training walls and onshore facilities. A consistent set of standards will be used for each element of the works, with supplementary codes and guidelines used where additional requirements are needed.
+Table 6.1	Codes and Standards
+Dredging and Reclamation
+BS 6349; Part 5 
+Code of Practice for Dredging and Land Reclamation
+IS 4651 – Part I 
+Code of Practice for Planning and Design of Ports and Harbours – Site Investigation
+
+CIRIA Manual
+
+Coastal Engineering Manual
+BS 812 & BS 1377
+Testing of Fill materials
+ISO: 12956
+Determination of Opening size O90 Geotextile
+ISO: 9863
+Determination of Thickness OF Nonwoven fabrics - Textiles
+ISO: 11058
+Determination of Permeability (H = 50mm)
+ISO: 12958
+Determination of horizontal water flow (20kPa)
+PIANC
+Guidelines for the Design of Armoured Slopes under Open Piles Quay Walls
+Training Walls
+
+Eurotop - Manual on wave overtopping of sea defences and related structures
+
+Guide to Design and Construction of Breakwaters.
+
+Shore Protection Manual
+
+Coastal Engineering Manual
+
+CIRIA Manual
+Civil and Marine Works
+IS 456: 2000
+Plain and Reinforced Concrete – Code of Practice
+IS 800: 2007
+General Construction in Steel – Code of Practice
+IS 1893 (Part I)
+Criteria for Earthquake Resistant Design of Structures - Part 1: General Provisions and Buildings
+IS 4651 (Part II)
+Code of Practice for Planning and Design of Ports and Harbours, Part II Earth Pressures
+IS 4651 (Part III)
+Code of Practice for Planning and Design of Ports and Harbours, Part III Loading, 
+IS 4651 (Part IV)
+Code of Practice for Planning and Design of Ports and Harbours, Part IV, General Design Considerations
+IS 4651(Part V)
+Code for Planning and Design of Ports and Harbours Part V, Layout and Functional Requirements
+IS 2911 (Part 1/Sec2)
+Code of Practice for Design and Construction of Bored Cast InSitu Piles
+IS 2911 (Part 4)
+Load Test on Piles
+IS 13920
+Ductile detailing of reinforced concrete structures subjected to seismic forces
+IS 6403 :1981
+Code of Practice for Determination of Bearing Capacity of Shallow Foundations
+BS 6349; Part 4 
+Code of Practice for Design of Fendering and Mooring Systems
+IRC: 6-2017
+Standard Specifications and Code of Practice for Road Bridges, Section II: Loads and Stresses, Fifth Revision
+EN 1998
+Eurocode 8: Design of structures for Earthquake resistance
+PIANC
+PIANC Guidelines for the Design of Fender System, 2002
+SP-16
+Design Aids for Reinforced Concrete to IS 456-1978
+IS 875	
+Code of Practice for Design Loads for Buildings and Structures – (Part 1 – 5)
+IS 3370
+Code of Practice for Concrete Structures for the Storage of Liquids
+IRC 37
+Guideline for the Design of Flexible Pavements
+IS 13920
+Ductile Detailing of Reinforced Concrete Structures subjected to Seismic Forces – Code of Practice
+IS 4326
+Earthquake Resistant Design & Construction of Buildings – Code of Practice
+
+National Building Code
+Relevant codes for Utilities items like water supply, power supply, drainage, lighting as indicated in Specifications.
+Dredging Works
+Dredging works shall be required to the lines and levels as shown in the tender drawings, to provide access for the safe navigation of the design ships visiting the Port.
+The Tenderer shall satisfy himself as to the nature of the material to be dredged by understanding the site and study data obtained for the Project. The Tenderer shall make its own interpretation of any information provided by the Client, which is given for information only and without prejudice. The Tenderer is also free to carry out any surveys and investigations at the project site prior to submitting the bid. The selected Contractor shall carry out any further investigations necessary to enable him to assess and foresee the nature of the material and to decide on the most suitable type of equipment and method of dredging.
+Complying with Scope and Regulations
+Dredging shall be carried out in any type of material which may be encountered, which may include natural bed materials, rock in varying states of weathering including fresh rock, and materials or items of a manufactured nature, such as, inter alia., chains, wires, cables, ropes, anchors, pipes, castings, steelwork, concrete, timber, tyres or similar. The suspended solid content anywhere in the water column measured from the dredging site shall be in compliance with the requirements of the Environmental Impact Assessment.
+Prior to commencement of works, the Contractor shall submit to the Employer a comprehensive method statement for environmental mitigation measures and monitoring in compliance with the requirements of Environmental Clearance.
+Dredging Criteria
+	•	The equipment to be used for dredging works shall be as per the specifications in BS: 6349
+	•	Over dredging alongside berth structures shall be as specified in BS:6349 Part 5 and shall satisfy as per the requirements.
+	•	The Contractor shall maintain the side slopes of the dredged area and its stability.
+	•	Underwater/ Surface Blasting if deemed necessary, shall be done in accordance withBS:6349 Part 5, IS: 4081 and BS:5607.
+Pre and Post Dredging Surveys and Measurements
+The contractor shall follow standards and guidelines for pre and post dredging surveys and measurements as specified in BS:6349 Part 5 and other relevant standards. The Raw Survey data shall be provided by the Contractor to the Employer, if requested by the Employer
+Environmental Monitoring during Dredging
+The Contractor shall be responsible for environmental monitoring during dredging activities as per the requirements of the Environmental Impact Assessment and MoEF guidelines.
+Safety Requirements
+The Contractor shall follow the following safety standards and specification:
+	•	IMO International Maritime Organization
+	•	ISM International Safety Management Code
+	•	SOLAS 74 International Convention for the Safety of Lives at Sea (as amended)
+	•	STWC International Convention on Standards of Training Certification and Watch Keeping for Seafarers.
+Fishing Jetty
+The Fishing jetty shall be sized and designed in accordance with the approved layout and arrangement. The location and orientation of the jetty shall be as per the approved location plan.
+Design Life
+The permanent works shall be designed and constructed to give the following design lives:
+	•	Fish Landing Jetty					- 50 years
+	•	Fenders and Bollards 				- 10 years
+Above design lives are defined as a period within which the asset will continue to be serviceable for design loads without collapse.
+Design Vessels
+The design vessel sizes range and characteristics to be considered for the design of FLC Jetty are provided in Table 7.2.
+Table 7.2	Design Vessels for Fishing Jetty
+Name of Vessel
+Beam (m)
+Draft (m)
+FRP Boats
+1.5
+1
+Gill Netter
+3.2
+1.7
+Salient Levels
+Finished Deck level						:	(+) 3.00 m CD 
+Highest High-Water Level (HHWL)			:	(+) 1.50 m CD
+Mean High Water Spring (MHWS)			:	(+) 1.20 m CD
+Mean High Water Neap (MHWN)				:	(+) 1.00 m CD
+Mean Sea Level (MSL)					:	(+) 0.90 m CD 
+Mean Low Water Neap (MLWN)				:	(+) 0.70 m CD
+Design dredged level at seaside of jetty			:	(-) 2.50 m CD 
+Loads
+Dead Load
+The dead loads shall be assessed based upon the volume of the material using the following densities:
+Concrete (Reinforced)	: 25.00 kN/m3
+Concrete (Plain)		: 24.00 kN/m3
+Sea water			: 10.25 kN/m3
+Steel				: 78.50 kN/m3
+The dead load due to the following shall be used in design:
+	•	Substructure and Superstructure 
+	•	Superimposed Dead load
+	•	Miscellaneous items such as fenders, services, ladder, railing, light poles, etc.
+Live Load
+The live load to be considered for FLC jetty shall be 1.5 T/m2 
+Note: 
+i.	An impact factor of minimum 25% shall be considered for design of beams and deck slab and an impact factor of minimum 15% shall be considered in the design of pile caps.
+ii.	No impact factor in the design of pile.
+iv.	An earth pressure of 5 T/m2 from the backup area is to be considered in the design of fish landing jetty.
+Vehicular Load
+Vehicular loads are not considered for the design of jetty and Quay structure to ensure the free movement of fishermen. However vehicular loads shall be considered for pavement and cross 
+drainage works design. The loads and load combinations shall pertain to relevant IRC codes.
+Wind Load
+Wind loads shall be considered in accordance with IS 875: Part3
+Basic wind speed of 20.0 m/s and 55 m/s shall be considered for operating (service) condition and survival (extreme) condition respectively.
+Seismic Load
+Seismic force shall be calculated according to IS 1893. As per IS code, (proposed location) is under Zone III. Following factors shall be considered in seismic force calculations:
+Zone factor, Z			= 0.16
+Importance factor, I			= 1.5
+Response reduction factor, R	= 3.0
+Current Load
+Water current force corresponding to current speed of 0.5 m/s in operating as well as storm conditions shall be considered. 
+Temperature& Shrinkage Loads
+Mean Effective Temperature					: 27.5o C
+Design Range of Effective temperature variation 		: ± 25 o C 
+Shrinkage: For shrinkage strain of ε = 0.00015 & coefficient of thermal expansion of α = 12x10-6, equivalent temperature fall for temperature of t = ε/α = 13°C shall be considered additionally with temperature fall.
+Load Factor and Load Combinations
+The Partial Load factors and Load combinations shall be in accordance with Table 1.0 of IS:4651 (Part 4):2023.
+Marine Growth
+An allowance in dimension of the submerged structures due to marine growth shall be taken into account. For design 50 mm thick marine growth shall be added to the dimension of any submerged element. 
+Deflection Limits
+Deflection shall conform to IS 4651 Part 4: 2023. Horizontal deflection check for long term effect shall be limited to L/250, where L shall be from point of zero deflection below dredge level till top idealized.Further, the permissible deflection shall comply with the crane/equipment manufacturer’s specifications.
+Crack width Limits
+Crack width for reinforced concrete structures shall be as recommended in Table-3 of IS 4651: Part 4:2023.
+Materials
+Material suggested for construction of new jetty structure and their specification is given in Table 7.3.
+
+Table 7.3	Material Specifications
+Structural Concrete
+M-40
+Bored Cast Insitu Piles / Diaphragm walls
+M-40
+Reinforcement
+Thermo-mechanically treated corrosion resistant steel of grade equivalent to Fe-500D
+Cement
+Ordinary Portland Cement of minimum grade 53 as per IS:12269
+Structural Steel
+As per IS:2062 (Grade-A) with minimum thickness of 10 mm
+Protective coating to structural steel
+MinimumDFTof240micronsaftersand blasting to SA 2.5 grade
+Screed
+M-40
+Minimum Cover
+Clear cover to any reinforcement shall be as per IS 4651 part 4 – 2023 – Table 4.
+Atmospheric Zone	: 50 mm
+Splash Zone		: 75 mm
+Immersion Zone	: 75 mm
+Below Seabed level	: 75 mm
+Training Walls
+The Design criteria provided herein for the design of training walls shall also be applicable to the design for shore protection works to be provided to the extent applicable.
+The Contractor shall design the sections of North and South breakwaters and also for shore protection works, for every 1 m variation in the level of seabed from the root to the Roundhead using the empirical formulae as provided in CIRIA manual.
+Design Life
+Design life of Training wall is 100 years
+TidalLevels
+Highest High-Water Level (HHWL)			:	(+) 1.50 m CD
+Mean High Water Spring (MHWS)			:	(+) 1.20 m CD
+Mean High Water Neap (MHWN)				:	(+) 1.00 m CD
+Mean Sea Level (MSL)					:	(+) 0.90 m CD 
+Mean Low Water Neap (MLWN)				:	(+) 0.70 m CD
+Materials and Permissible Damage Limits
+The damage to the rubble mound breakwater under design conditions shall not exceed the values as indicated in Table 7.4
+Table 7.4: 	Allowable Damage to Rubble Mound Breakwater under design conditions
+Element
+Maximum	allowabledamage under design conditions
+Maximum allowable damage under overload conditions (1.25 Hs)
+Primary armour
+5% (Rock)
+7% (Rock)
+Rear armour
+5%
+7%
+Toe protection
+5%
+7%
+
+Materials to be considered for the design are provided below:
+Rock
+Density of rock considered shall be as per the test reports
+Core, Primary, Secondary layers and Armour Protection
+The details Tender Drawings are indicative. The Contractor is free to select his own type of armour units and arrangement of layers suiting the codal requirements and as per the tender document. However, the Contractor shall undertake hydraulic model laboratory test and site-specific information prior to using these units in the construction of the breakwater. The Contractor is solely responsible for ascertaining the patent status of the armour unit proposed by him and for paying any royalty in this regard.
+Reclamation and Ground Improvement Works
+The onshore land for the project purpose shall be made available through reclamation. The top level of the area shall be kept as +3.0 m CD and shown in the tender drawings. A vertical wall is required to be provided for retaining the reclamation fill, in such a manner so that it could also provide a berthing facility for FRP Boats. The vertical wall shall be suitably designed to retain the reclamation fill under adverse environmental conditions and surcharge loading without any structural damage and settlement or deflections beyond permissible limits.
+As part of the Contractor's design, the selection of reclamation material, placement, ground improvement design and sequencing shall be undertaken. The Contractor shall be responsible for determining and addressing the issue of liquefaction.
+Reclamation Criteria
+The reclamation areas and bunds, which may be treated by vibro-compaction, if necessary, shall be designed to withstand the operational loads and to comply with the following criteria:
+Static and Seismic Analysis
+Overall Slope Stability of Edge structures, Seawalls and Earth Bunds:
+· Factor of Safety > 1.5 for underwater slope Condition. 
+· Factor of Safety > 1.3 Normal Condition
+· Factor of Safety > 1.1 Considering Earthquake.
+Settlement Limitation
+	•	Residual settlement of reclamation shall not exceed the following 
+	•	Areas of reclamation shall be designed and constructed to accommodate the design loadings, and such greater loads as stated in the Specification, without significant ongoing settlements which may damage or affect the efficiency of operation throughout its design life.
+	•	The Contractor shall make allowance in his design for the effect of the estimated residual settlement (including but not limited to secondary consolidation of compressible strata and creep of fill), but this allowance shall not be greater than 300mm.
+	•	The Contractor shall also demonstrate that his proposed ground improvement method, with his detailed calculations, will achieve a total residual settlement, after completion that shall not exceed 10% of the estimated total ground settlement.
+	•	Differential settlement shall be kept with in permissible limits as specified.
+	•	Total or differential settlement does not result in failure or ineffectiveness of drainage slopes or systems or utility services.
+
+	•	Immediate Settlement under Foundation levels
+	•	The immediate settlement under the load shall be less than 25 mm.
+
+	•	Settlement under earthquake
+	•	Settlement at ground level under contingency level earthquake shall be smaller than200mm after the seismic event.
+	•	If the tolerances for overall settlement of the final reclamation level are exceeded during the ‘Defects Notification Period’, the Contractor shall undertake corrective actions to the approval of the Engineer to reinstate the paving to the original design levels.
+	•	In addition to the above, the ground improvement shall minimize differential settlement arising from hard points, buried foundations, services or other obstructions and variations in ground condition within the area.
+Liquefaction Potential
+Liquefaction potential of soils and fills should be assessed. The Factor of safety of liquefaction analysis shall be greater than 1.1
+Compaction
+(i) Relative Density of underwater shall be greater than 70%
+(ii) Compaction of Fill Materials above water: The uppermost zone of fill shall be placed and treated to ensure that the top 1.5m of the fill has an in-situ density not less than 95% of the maximum dry density. The in-situ density of fill throughout the full thickness and lateral extent shall not be less than 90% of the maximum dry density. The values of maximum dry density shall be obtained in accordance with BS 1377: Pt. 4: 1990.
+Loading
+The reclamation, including ground improvement shall be capable of supporting superimposed loads on the reclamation area as shown below:
+Description
+Load
+Reclamation area with Roads
+20 Kpa
+Reclamation area with Buildings
+30 Kpa
+
+The reclamation, including ground improvement shall also be capable of supporting construction traffic, construction operations and loads arising from the permanent works under all operating conditions.
+Ground Improvement
+The reclaimed and filled areas shall be treated as necessary to provide adequate stability and bearing capacity to withstand the design loadings including seismic loads. The method(s) of ground improvement performance could be either Cone Penetration Testing (CPT) or Standard Penetration Testing (SPT) as per BS:6349 and BS:1377
+The Contractor shall choose the type of ground improvement based on the reclamation material. The ground improvement shall be done as per IS:13094 and BS:6031.
+Onshore Facilities
+Design Life
+The permanent works shall be designed and constructed to give the following design lives:
+	•	Buildings					- 50 years
+	•	Pavements				- 25 years
+Above design lives are defined as a period within which the asset will continue to be serviceable for design loads without collapse subject to the regular inspection and preventive maintenance but not the major repairs and rebuilding.
+Buildings
+The buildings shall be provided with adequate arrangements for plumbing, sanitary, electrical fittings, illumination, air-conditioning, water distribution etc. All buildings shall be provided with data cables, sockets for telephone and network and adequate space shall be kept for future cables. All structures shall be analysed as framed structure using STAAD Pro for the loads and their combinations. All designs of RCC structures shall be carried out by limit state method. Following minimum considerations shall be followed:
+	•	Floor to floor height shall satisfy the bylaws of National Building Code.
+	•	750 mm wide plinth protection shall be provided around each building.
+	•	Finished floor level of building shall be 1000 mm above the finished ground level.
+	•	All external walls shall be of 230 mm thick, all partition walls shall be minimum 115 mm thick with 1:4 cement mortar.
+	•	All buildings shall be designed for allowing construction of an additional floor in future.
+	•	All buildings shall be planned based on the respective number of users indicated in Section 6A.
+	•	All Liquid Retaining Structures shall be designed as designed as per IS:3370.
+Materials
+	•	Cement shall be ordinary Portland cement of minimum grade 53 as per IS:8112.
+	•	Grades of concrete shall be M-40 for Sub structure and M-30 for super structure.
+	•	Grades of concrete shall be M10 for mud mat
+	•	Grade of steel shall be thermo-mechanically treated corrosion resistant steel Fe500D. However, in some cases MS round bars not exceeding 10 mm diameter and conforming to IS-432 Part-I (Grade-I) may be used.
+	•	Grade of structural steel shall be as per IS:2062 (Grade-A) with minimum thickness of 10 mm
+	•	Protective coating to structural steel shall be minimumDFTof240micronsaftersand blasting to SA 2.5 grade
+	•	Grade of Stainless Steel shall be SS 316.
+Minimum Cover
+Clear cover to any reinforcement shall be as mentioned here under but shall not be less than the diameter of such reinforcement.
+Table 7.5: Clear Cover for Buildings
+Pile
+75 mm
+Top, bottom & side of footing (if any)
+50 mm
+Pedestal / column
+	•	Below ground
+	•	Above ground
+
+50 mm
+40 mm
+Beams
+25 mm
+Slab
+20 mm
+Face of walls & grade beam
+50 mm (in contact with soil)
+Face of walls not exposed to soil
+25 mm(min.) or dia. of main bar
+Drains
+Drain shall be of RCC with natural slope towards collecting area.
+Staircase
+Minimum Clear Width				: 0.8 m
+Tread Width						: Not less than 250 mm
+Riser							: Not Greater than 180 mm
+Loads
+Dead Load
+Dead loads shall include the weight of all structural and architectural components and other permanently applied external loads. The unit weight of all other materials shall satisfy the requirements of IS: 875.
+Environmental Loads
+	•	Wind
+Basic Wind Speed in storm condition	: 55 m/s
+Basic Wind Speed in operating condition	: 20m/s
+	•	Seismic 
+Zone factor 					: 0.16 (Corresponding to seismic zone III)
+Importance factor				: 1.50
+Response reduction factor			: 3
+Superimposed Load
+Live load shall be considered as per IS:875 (Part 2). However, a minimum live load of 5 kN/m2 shall be considered.
+Table 7.6: Live Loads on Buildings
+Flat Roof
+150 kg/m2 + Dust load of 50 kg/m2 hanging load for pipe shall be considered as 100 Kg/m2 and 50 Kg/m2 for electrical, ventilation & air conditioning (wherever applicable)
+Non-accessible roof
+75 kg/m2 + Dust load of 50 kg/m2
+Load Combinations
+The load combinations shall be in accordance with IS:456 :2000 as given below.
+	•	DL+ LL+ Equipment Load
+	•	DL + LL + Equipment Load +WL
+	•	DL + Reduced LL + Equipment Load + Seismic Load 
+	•	0.9*DL + W.L.
+	•	0.9*DL + Seismic Load.
+Note:
+	•	In addition, load due to earth pressure/surcharge shall be considered as per specific structures requirement
+Deflection Limits
+For steel structures, conform to IS 800: 2007, Clause 5.6.1, Table 6
+For reinforced concrete structures, conform to IS 456: 2000, Clause 23.2. 
+Crack Width Limits
+Crack width of all the structural elements shall be calculated wherever necessary as per IS: 456 and limiting Crack width for all structural components below ground and in contact with water shall be 0.2 mm and for structural elements above ground shall be 0.3 mm.
+Water Supply System
+An Overhead water tank of 100 cum capacity for potable water shall be built on the reclaimed land to store water.
+The broad design parameters for water supply system are given below:
+	•	Hydraulic design of the pipeline shall be using Hazen-Williams formula
+	•	All pipelines shall be laid 1.2 m below ground
+	•	The residual pressure in the pipeline at the farthest point shall be 2 kg/sq.cm
+	•	The pumps shall be of centrifugal type. 
+	•	The ON/OFF system shall be provided for pumping potable water to buildings and vessels.
+	•	All Manholes shall be provided with heavy duty ductile iron or cast-iron covers.
+Sewerage System
+The toilets provided in the office cum store building as well as toilets at other locations shall be connected to a Sewage treatment plant (STP) of 5 KLD capacity to be provided by the Contractor. The design and laying of the pipelines shall be carried out as per the provision of relevant IS codes. The treatment process is planned to be based on MBBR technology.
+Wastewater generated from toilets, bathrooms shall be collected via series of drains and shall be collected in sewage collection tank which shall be fully enclosed and covered with slab. Oil & grease trap shall be provided in collection tank. Collected sewage shall be treated before disposal. Quality of raw sewage will be as per table presented below. Treated sewage must meet the EIA and NGT norms before being discharged. Present guidelines for treated effluent for disposal are as under:
+S. No.
+Parameters
+Raw Sewage
+Treated Sewage
+Unit
+1
+Flow
+As per Scope 
+ 
+MLD
+2
+BOD5
+250-300
+<5
+mg/l
+3
+COD
+500-600
+<50
+mg/l
+4
+Suspended Solids
+300-350
+<5
+mg/l
+5
+pH
+6.5 – 8.5
+6.5 – 8.5
+
+6
+Total Kjeldahl nitrogen
+60 
+ As per applicable standards
+mg/l
+7
+Ammonical Nitrogen
+35-40 
+<2
+mg/l
+8
+Total Nitrogen
+ 
+<10
+mg/l
+9
+Total Phosphorus 
+5 – 7 
+<1
+mg/l
+
+The contractor must obtain the latest EIA and NGT guidelines for the disposal of treated effluent. Any chemicals or consumables required will be supplied for a period up to DLP.
+The design of the structural components shall be carried out either using Staad Pro or manually using standardized excel spreadsheets for the loads and their combinations. All designs of RCC structures shall be carried out by limit state method as per IS: 456 cracked section. 
+Foundation system shall be decided based on loading arrangement, load intensity and soil strata. Design of foundation at various levels shall be dependent up on the soil profile, which in turn shall be as per recommendation of soil investigation report. All foundations shall be designed as per limit state method of design.
+Internal Roads
+Internal roads shall be designed with the provision of relevant IRC codes with the following minimum requirement as below:
+
+Road Type
+Overall Width
+Carriageway Width
+Width of Paved Shoulders on either side of Carriageway
+Type R1
+8 m
+6 m
+1 m
+Geometric Parameters
+	•	Maximum longitudinal grade	:3.0%
+	•	Cross slope 			: Unidirectional/ BiDirectional 1.5% for All Roads
+	•	Maximum super elevation	: 5%
+	•	Sight Distance 			: Intermediate sight distance
+	•	Turning Radius at junction	: Min. 25 m
+	•	Design Speed 			: 60 km/hr
+Pavement Design
+	•	Traffic				:	2MSA 
+	•	Pavement type 			: 	Flexible
+Specification
+	•	Flexible Pavement
+	•	Embankment 	: Min. Density shall be 1.6 T/cum
+	•	Sub grade		: Min. CBR 8% and density 1.75 T/cum
+	•	Granular Sub-Base 	: Minimum 200 mm
+	•	Granular Base 		: Minimum 250 mm
+	•	Bituminous Surfacing
+	•	Binder course 	: Dense Bituminous Macadam
+	•	Wearing course 	: Bituminous Concrete
+The culverts required for the cross-drainage works shall be designed as per the IRC codes. The length of culvert shall be adequate to suit the size of roadway.
+Storm water Drainage
+Storm water drainage system shall be designed and constructed to completely collect and dispose off the storm water. The drainage system will be based on open RCC channels with suitable openable RCC covers. At the road crossing the storm water drain shall have suitable culvert of R.C. Hume pipes. This shall be designed for Class A or Class AA IRC loading, whichever is stringent.A suitable steel grillage structure shall be provided near outfall points so as to prevent the entry of any unauthorized personnel through the culvert. Storm water drainage shall be designed with the following basic consideration:
+	•	The design rainfall intensity shall be taken as 50 mm/hr. 
+	•	The drainage system shall be planned to carry storm run-off from the proposed areas shown in the scope drawings.
+	•	No allowance for sullage shall be kept.
+	•	A maximum velocity of 3.0 m per second shall be allowed for RCC channel with lined surface.
+	•	Manning coefficient for pipe material shall be adopted as follows:
+	•	Concrete surface in good condition- 0.015
+All designs of RCC structures shall be carried out by limit state method as per IS :456 cracked section.
+Electrical Distribution System
+General Scope
+	•	The scope of work covers design, supply, installation, testing and commissioning of complete electrical distribution system in all respect and shall include but not limited to the following:
+	•	External Electrical works (from tapping point at the Ramayaptnam substation to the port substation)
+	•	Internal Electrical distribution system for the proposed fishing harbour including substation at the port. The Scope of work under Internal Electrical Works shall cover the supply, installation, testing and commissioning of the complete Internal Electrical Installation.
+	•	Design, manufacture, supply, installation, testing and commissioning distribution boards for Power Lighting & Emergency Supply. 
+	•	Supply, installation, testing and commissioning of light control switches, lighting and power receptacle units, all wiring and submains, conduiting including point wiring, circuit wiring along with wiring accessories and all other items necessary for lighting system. All internal wiring shall be in recessed with UPVC conduits and surface with MS conduits. 
+	•	All Air-conditioning and ventilation work related to building as mentioned in this document.
+	•	Internal illumination and electrification of building including wiring & installation of fixtures, switches, sockets, fans, conduits, brackets, junction boxes, main power distribution board at respective buildings, LT switch panels, sub-distribution board, etc.
+	•	The illumination levels shall be in line with national building code and relevant IS codes as referred in subsequent paragraph.
+	•	The illumination levels shall be in line with national building code and relevant IS codes as referred in subsequent paragraph. Complete earthing & lightning protection system comprising of earth stations, earthing conductors including all accessories & hardware.
+	•	Computer, internet, Local Area Network (LAN) and telephone wiring with sockets, wires and conduits, etc.
+	•	All civil works related to cut outs on walls for taking cables, drilling & fixing of fasteners for fixing of fixtures/cables/ conduits etc.
+	•	Coordination with other Contractors wherever required.
+	•	The items/components not specifically mentioned but are required for proper functioning of works shall be considered and included in the bid
+	•	Obtaining approvals from the Chief Electrical Inspector and all other statutory authorities for the completed scope of work.
+General Design Philosophy
+The design shall provide the expected performance and be suitable for the purpose in accordance with the requirements. Earthing, lightning and protective devices to be designed for safe and efficient operation of the Electrical distribution system. Safety clearances to be provided as per the statutory requirement for free movement of operation and maintenance personnel. The design shall be suitable for the local environmental conditions of the site and shall incorporate energy efficiencies and installation practices which minimize damage to the environment.
+Design Standards
+The works and equipment shall be designed, engineered, manufactured, built, tested and commissioned in accordance with the Acts, Rules, Laws and Regulations of India. The design concept and design guidelines shall comply with the following local and relevant standards and requirements.
+	•	Indian Electricity Act
+	•	CEA Regulation
+	•	National Building Code
+	•	Indian Standards
+	•	Kerala State Inspectorate regulations
+	•	Local Municipal Authorities
+	•	Current Local Authority Regulations
+Whenever necessary the list of standards shall be considered in conjunction with specific IEC / IEEE. City, State and Country rules and Safety Standards shall take precedence over these specifications in case of conflict. In case of conflict between Codes, Standards and Technical Specification, the most stringent requirements shall apply, unless otherwise approved by the Purchaser.
+Design Life& site conditions
+The electrical system shall be designed to operate 24 hours/day, 365 days/year. The minimum economic life of the equipment shall be 30 years. Site data given in the section 2 shall be used while designing the Electrical power distribution system. Electrical equipment and material to be selected to withstand the corrosive atmosphere.
+Degree of Protection
+The following degree of protection classes shall be applicable if the IP class is not specifically mentioned in the respective specification.
+Installed outdoor					: IP65
+Installed indoor in Air-conditioned area		: IP43
+Installed in covered area				: IP54
+Installed Indoor in non-A/C area where possibility of entry of water is limited							: IP41
+LT Switchgears (AC&DC Distribution Boards)	: IP54
+Source of Power Supply
+The power supply for the proposed project will be tapped from existing 33 kV Ramayapatnam Substation which is located approx. 1.5 km from the proposed site. Maximum Demand Estimate
+Electrical distribution system for the “Name of work” project is designed to feed power supply to the buildings, High mast lighting, outdoor lighting, Fire fighting system, Water supply system, IT and communication system etc.
+All the components of the electrical system shall be sized to suit the maximum load, under the most severe operating conditions. The amount of electrical power consumed by each process unit shall be calculated for its operation at the design capacity. Accordingly, the load summary shall include type of electrical load i.e. continuous, intermittent and stand-by loads for further assessment of maximum running load and peak load. The diversity of load shall be considered as follows:
+ Continuous = 100% 
+ Intermittent = 30% 
+ Standby = 10%
+The maximum running load shall be determined as follows:
+Maximum Demand = 100% continuous load + greater of (30% of total intermittent load and largest intermittent load)
+This load assessment shall be used to design the capacity of the power supply and rating of electrical power distribution equipment.
+An allowance and contingency multiplication factor shall be applied to the estimated load when selecting equipment including reasonable safety provision for ongoing design changes during further execution of the project as well as for future extensions. 20% margin to be considered for future.
+Electrical distribution system shall be designed to feed power supply to High mast lighting in berth, Street/ Road lighting, building, utilities, Fire fighting system and Water supply system Lighting, HVAC, computer points, Fire alarm system, CCTV/ACS system, Communication system etc. to be taken into account in the building load calculation. Distribution Voltage and Frequency:
+Power supply distribution voltage and frequency of the “Name of work” project is as follows
+AC Distribution Voltage
+11 KV, 3- phase, 50 Hz
+415 V, 3- phase, 50 Hz
+Proposed power supply arrangement 
+Power supply to the ( Name of work) will be tapped from the Ramayaptnam substation which is located at approx. 1.5 km away from the proposed fish landing centre. The tapping point voltage level is 11 kV.
+It is proposed to bring 2 separate feeders from this substation as one feeder will act as redundant feeder. The proposed Fish Landing Centre shall be provided with 2 number of 11/0.433 kV transformer to step down the 11 kV supply to 433 V supply. Then the power supply will be distributed to various load centre through various distribution boards. The power supply distribution to the load will be 3 phase, 415V, 50Hz for 3 phase loads and 1 ph., 230 V, 50Hz for the single-phase loads.
+Control supply voltage shall be 110 V DC and the auxiliary supply to the panel boards shall be 1 ph., 230 V, 50Hz.
+Suitable capacity lighting transformer and welding transformer shall be installed based on the load requirement.
+LT power for internal lighting, electrical fittings, air condition & ventilation of all the buildings shall be taken from the respective feeder pillars and distributed inside the building using standard distribution boards as required. The list of the buildings is as follows: 
+ Security Office/ Gate 
+ Administration building 
+ Customs office/ hiring centre 
+ Auction Hall 
+ Net mending shed 
+ Fish drying platform 
+ Toilet Block
+ Overhead tank
+Power supply shall be distributed to the Electrical lighting and power points in the jetty and other areas inside the fishing harbour as per the function requirement. 
+Emergency and standby power system
+An independent source of electric power shall be available for operation of vital installations. The control room, lighting system HVAC, IT and communication system, UPS, Battery charger etc. should have standby supply facilities which should be brought into operation in the event of failure of the grid supply from the requirements of standby power supply systems will be met through a 2 x 250KVA rating diesel driven generator set.
+Berth area Lighting
+Wharf lighting is needed for security, safety, and operations. For lighting purpose, 30m high mast lighting consisting of 12 number LED lights is proposed to be provided on the jetty at an interval of 100 m. On the reclaimed land, the same has been provided at the longitudinal interval of 100 m and transverse interval of 50 m for efficient functioning during night. Electric poles are proposed at 10 m interval in the berth area & for road lighting. Kerb lighting to be provided in the Jetty.
+Building Lighting & External Area Lighting
+The recommended values of illumination level for various areas are indicated in the Table below. Lighting design to be done to match the average lux level. Provision for lighting in external areas like parking, building facades, walkways, entries, exits, canopies, building grounds can also be considered. In order to supply interior with natural light where there is no opportunity to install roof or vertical windows, Tunnel lighting can be used as an effective solution.
+S. No.
+Description
+LUX Level
+Type of Luminaries
+1
+Admin Building
+500 Lux
+LED Panel with ultra-modern recess mounting luminaire suitable for Armstrong/grid/POP ceiling complete with separate electronic driver & high brightness SMD LED
+2
+Control Room
+500 Lux
+LED Panel with ultra-modern recess mounting luminaire suitable for Armstrong/grid/POP ceiling complete with separate electronic driver & high brightness SMD LED
+3
+Server Room
+300 Lux
+LED Panel with ultra-modern recess mounting luminaire suitable for Armstrong/grid/POP ceiling complete with separate electronic driver & high brightness SMD LED
+4
+Kitchen & Dining area
+300 Lux
+Indoor surface mounted LED Linear fitting
+5
+Toilet
+200 Lux
+Indoor surface mounted LED Linear fitting
+6
+Utility Building/ 
+200 lux
+General Purpose Industrial compact batten LED Tube Light fitted with Aluminium heat sink 
+7
+Access Walkway/
+50 lux
+ Well Glass LED Light Fittings/ Flame proof LED light Fittings
+8
+Open landscape area/Near Main Berthing area/ Road Lighting
+30 lux
+ Outdoor LED light fittings
+
+Emergency lighting system
+On failure of normal A.C. supply, emergency A.C. lighting will be provided in selected areas for general visibility, safe movements and operation of important auxiliaries. The power for A.C. emergency lighting will come from UPS backup. The power supply for emergency lighting shall be 230V, 3ph, 3W, 50HZ, none effectively grounded. The emergency lighting load shall comprise at least 10% of the normal lighting load. The system shall be provided for certain strategic locations, Panel Rooms, Control Rooms, Office area and staircases. The lighting fixtures connected to this system shall be normally “ON” during the normal AC system. These will be fed from UPS 1-phase, 2-wire supply distribution boards due to failure of normal power supply.
+Earthing system
+All earthing practices shall be as per Indian Standards (IS 3043: 1987), IEEE: 80-2000 Guidelines, and CEA safety regulation. All non-current carrying metal parts of equipment shall be double earthed using conductors of adequate size. Transformer and generator neutral shall be double earthed. One independent earth electrode shall be provided for neutral earthing. Links shall also be provided in neutral earthing conductor. Generator neutral shall be earthed at control panel.
+Lightning protection system
+Lightning protection system to be designed as per IEC 62305 for the proposed project.Test link will be provided 1000 mm above the GFL. Lightning arrestor shall be mounted above 3 m from the highest point of the utility block. Grounding resistance of common grounding system shall be less than 10 Ω.GI earth strip will be laid as down conductors from lightning finial to the Common earth bus at suitable location.
+Approved make of Equipment
+The Contractor shall use only the approved make items furnished in the specification. However, if any equivalent make which Contractor tends to supply differs from the approved make, the same has to be submitted to consultant/client for approval.
+Note: For any data not specifically given above, relevant codal provisions shall be used for design.
+Boundary Wall
+The boundary wall should be provided along the port boundary as shown in the Tender drawings. The compound wall shall be of a minimum height of 2.4 m with 0.9m high barbed wire fencing over it.
+The wall shall be designed to withstand the collision of IRC Class A vehicle with a speed of 10 km/hr.
+Other dead loads, environmental loads and design of wall including foundation shall be as per relevant Indian Standards.

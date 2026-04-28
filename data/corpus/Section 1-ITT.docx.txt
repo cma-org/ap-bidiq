@@ -1,0 +1,678 @@
+
+VOLUME – I
+SECTION – 1 INSTRUCTIONS TO TENDERERS (ITT)
+
+	•	GENERAL
+Scope of Bid
+The Superintending Engineer, invites Bids byTendering for the Project "(Name of Work, Location) on EPC Contract Basis" detailed in the table given in NIT. The Bidders may submit on-line Bids for the Project detailed in the table given in NIT.
+The proposed Project involves (Name of Work) of major components such as Breakwaters, dredging and reclamation,etc., as per the scope of work provided in the tender documents. 
+Throughout these tender documents, the terms bid and tender and their derivatives (bidder/tenderer, bid/tendered, bidding/tendering,) etc., are synonymous, and day means calendar day. 
+The successful Bidder will be expected to complete the Project by the Intended Completion Date specified in the Contract Data.
+Location of The Works 
+(Name of work, detailed Location with site coordinates)
+Fraud And Corrupt Practices 
+The Bidder and their respective officers, employees, agents and advisers shall observe the highest standard of ethics during the Selection Process. Notwithstanding anything to the contrary contained in this Document, the Employer shall reject the Tender without being liable in any manner whatsoever to the Bidder, if it determines that the Bidder has, directly or indirectly or through an agent, engaged in corrupt practice, fraudulent practice, coercive practice, undesirable practice or restrictive practice (collectively the “Prohibited Practices”) in the Selection Process. In such an event, the Employer shall, without prejudice to its any other rights or remedies, forfeit and appropriate the Bid Bond or Performance Security, as the case may be, as mutually agreed genuine pre-estimated compensation and damages payable to the Department  for, inter alia, time, cost and effort of the Department, in regard to the Tender, including consideration and evaluation of such Bidder‘s Tender. Such Bidder shall not be eligible to participate in any tender or TENDER DOCUMENT issued by the Authority during a period of 2 (two) years from the date such Bidder is found by the Department to have directly or through an agent, engaged or indulged in any corrupt practice, fraudulent practice, coercive practice, undesirable practice or restrictive practice, as the case may be. 
+For the purposes of this Clause, the following terms shall have the meaning hereinafter respectively assigned to them:
+(a) 	“corrupt practice” means
+(i) the offering, giving, receiving, or soliciting, directly or indirectly, of anything of value to influence the action of any person connected with the Selection Process (for avoidance of doubt, offering of employment to or employing or engaging in any manner whatsoever, directly or indirectly, any official of the Department who is or has been associated in any manner, directly or indirectly with the Selection Process or the LOA or has dealt with matters concerning the Agreement or arising there from, before or after the execution thereof, at any time prior to the expiry of one year from the date such official resigns or retires from or otherwise ceases to be in the service of the Authority, shall be deemed to constitute influencing the actions of a person connected with the Selection Process; or
+(ii) engaging in any manner whatsoever, whether during the Selection Process or after the issue of the LOA or after the execution of the Agreement, as the case may be, any person in respect of any matter relating to the Project or the LOA or the Agreement, who at any time has been or is a legal, financial or technical consultant/ adviser of the Authority in relation to any matter concerning the Project;
+(b) “fraudulent practice” means a misrepresentation or omission of facts or disclosure of incomplete facts, in order to influence the Selection Process;
+(c) 	“coercive practice” means impairing or harming or threatening to impair or harm, directly or indirectly, any persons or property to influence any person’s participation or action in theSelection Process;
+(d) 	“undesirable practice” means 
+(i) establishing contact with any person connected with or employed or engaged by the Department with the objective of canvassing, lobbying or in any manner influencing or attempting to influence the Selection Process; or
+(ii) having a Conflict of Interest; and
+(e) 	“restrictive practice” means forming a cartel or arriving at any understanding or arrangement among Tenderers with the objective of restricting or manipulating a full and fair competition in the Selection Process.
+Secrecy 
+With a view to safeguard the confidential information relating to the Project, the Tenderer binds himself, his successors, assignees, officials, managers, technical and all other staff directly or indirectly concerned with the Project who may have acquired Project related information to secrecy. The Tenderer shall ensure, so far as lies in his power, that no third party has access to any such information. In this regard, the Contractor shall execute a Non-Disclosure Agreement with the Employer in a prescribed format.
+The Tenderers are permitted to share information from the Tender Document with their possible specialized subcontractor/ suppliers under intimation to the Employer, subject to that the Tenderer shall take an undertaking from such subcontractor/suppliers that such subcontractor/ suppliers shall not share the Tender Document information with any persons. 
+Eligible Bidders 
+This Tendering procedure is open to all eligible Bidders meeting the Minimum Eligibility Criteria as defined in Clause No. 1.6.
+All Bidders shall provide in Section 4, forms of bid,the qualification information. A firm that has been engaged by the Employer to provide consulting services for the preparation or supervision of the works, and any of its affiliates, shall not be eligible to Bid.
+Government-owned enterprises can alsoparticipate if they are legally and financially autonomous, operate under commercial law and are not a dependent agency of the Employer subject to fulfillment of Minimum Eligibility Criteria.
+Bidders shall not be under a declaration of ineligibility for corrupt and fraudulent practices issued by the employer in accordance with Clause 1.3.
+The Bidder for such qualification may be a single entity or a group of entities (the “Consortium”), coming together to implement the Project. However, no Bidder applying individually or as a member of a Consortium, as the case may be, can be member of another Bidder. The term Bidder used herein would apply to both a single entity and a Consortium. No Bidder can be a Specialised Subcontractor of another Bidder. However, the Bidder(s) can have common Specialised Subcontractor(s) in their Bid.
+A Bidder may be a company incorporated under the Indian Companies Act, 2013 or a combination of companies with a formal intent to enter into a Consortium Agreement or under an existing agreement to form a Consortium. A Consortium shall be eligible for consideration subject to the conditions set out in Clauses1.6.3 and 1.6.4 below.  
+A Bidder shall not have a conflict of interest (“Conflict of Interest”) that affects the Bidding Process. Any Bidder found to have a Conflict of Interest shall be disqualified.  A Bidder shall be deemed to have a Conflict of Interest affecting the Bidding Process, if:  
+i. 	the  Bidder, its Member or Associate (or any constituent thereof) and any other  Bidder, its Member or any Associate thereof or any constituent thereof have common controlling shareholders or other ownership interest; provided that this disqualification shall not apply in cases where the direct or indirect shareholding of a Bidder, its Member or an Associate thereof (or any shareholder thereof having a shareholding of more than 5% (five per cent) of the paid up and subscribed share capital of such  Bidder, Member or Associate, as the case may be, in the other  Bidder, its Member or Associate is less than 5% (five per cent) of the subscribed and paid up equity share capital thereof; provided further that this disqualification shall not apply to any ownership by a bank, insurance company, pension fund or a public financial institution referred to in section 4A of the Companies Act 1956. For the purposes of this Clause, indirect shareholding held through one or more intermediate persons shall be computed as follows: (aa) where any intermediary is controlled by a person through management control or otherwise, the entire shareholding held by such controlled intermediary in any other person (“Subject Person”) shall be taken into account for computing the shareholding of such controlling person in the Subject Person; and (bb) subject always to sub-clause (aa) above, where a person does not exercise control over an intermediary, which has shareholding in the Subject Person, the computation of indirect shareholding of such person in the Subject Person shall be undertaken on a proportionate basis; provided, however, that no such shareholding shall be reckoned under this sub- clause (bb) if the shareholding of such person in the intermediary is less than 26% of the subscribed and paid up equity  shareholding of such intermediary; or  
+ii. 	a constituent of such Bidder is also a constituent of another Bidder; or  
+iii. 	such Bidder, or any Associate and his proposed Specialised Subcontractor (if any) thereofreceives or has received any direct or indirect subsidy, grant, concessional loan or subordinated debt from any other Bidder, or any Associate thereof or has provided any such subsidy, grant, concessional loan or subordinated debt to any other Bidder, its member or any Associate thereof; or 
+iv. 	such Bidder has the same legal representative for purposes of this Bid as any other Bidder; or  
+v. 	such Bidder, or any Associate thereof has a relationship with another Bidder, or any Associate thereof, directly or through common third party/ parties, that puts either or both of them in a position to have access to each other’s information about, or to influence the Bid of either or each other; or 
+vi. 	such Bidder, or any Associate and/or his proposed Specialized Subcontractor (if any), thereof has participated as a consultant to the Employer in the preparation of any documents, design or technical specifications of the Project. 
+A Bidder shall be liable for disqualification if any legal, financial or technical adviser of the Employer in relation to the Project is engaged by the Bidder, its Member or any Associateand his proposed Specialised Subcontractor (if any) thereof, as the case may be, in any manner for matters related to or incidental to the Project.
+Explanation: In case a Bidder is a Consortium, then the term Bidder as used in this Clause 1.5 shall include each Member of such Consortium. 
+
+Specialised Subcontractors
+In case any Specialised Subcontractor(s) is/are proposed by the Bidder in his Bid, it shall be considered subject to the following requirements:
+	•	Not more than one (01) Specialized Subcontractor shall be considered for one specialized work, described in Criteria No. 4.2 of Section 3: Eligibility and Qualification Criteria, during execution. However, the bidder can propose more than one specialized subcontractor for each of the specialized works.
+	•	Such Specialized Subcontractor(s) shall also meet the corresponding qualification requirements. The Bidder shall clearly identify such activities and submit details of his Specialized Subcontractor(s) and their credentials in the relevant Form(s).
+	•	The same specialized subcontractor can be proposed by different bidders and it will not be considered as conflict of interest.
+	•	In case the contractor wishes to replace a specialized subcontractor, after the signing of the contract, he shall submit the details of the specialized subcontractor for the approval of the Employer ensuring that the proposed specialized subcontractor meets the eligibility and qualification requirements as mentioned in this tender document. The decision of the Employer to allow the replacement of specialized subcontractor shall however be final and biding to the Contractor.
+Qualifying Requirements (G.O. Ms.No 94& 50  I &CAD, G.O.Ms.No.4  WR-D, dt.10.02.2025)
+To be eligible for Qualification, a Bidder shall fulfill the following Minimum Eligibility Criteria (MEC): 
+(A) Technical Capacity:   
+(1) The Bidder should have satisfactorily completed the Similar Works as mentioned below, in any one year, during the last 5years ending 31 March 2025 of costing not less than Rs.XXXCrores.
+“Similar Work” means Construction of Marine works like Fishinging Harbours etc.,
+AND
+(2) The Bidder should have executed the following Quantities, in anyone year, during the last 5 years ending Date:
+
+
+
+	•	Construction of Breakwater having completed of at least XXXX Rmt, 
+
+	•	Capital of Dredging at least XXXXXX Cum for creating water depth of XXXX below chart datum
+	•	Construction of piling work with minim XXXX dia completed of XXXX Rmt
+
+The above requirement of satisfactory Execution of the specialized works can also be met through either one or up to three Specialized Subcontractors, subject to maximum 50% of total value of work.
+Scanned copy of Original Certificate issued by the Charted Accountant of the clients Organization should be furnished if the Work Completion Certificate from any Private Organization is submitted for the above purpose.
+
+3) The value of executed works shall be brought to the current costing level by enhancing the actual value of the work upon completion by using the following enhancement factors.
+Year before
+Multiplying factor
+One year [2024-25]
+1.10
+Two years [2023-24]
+1.20
+Three years [2022-23]
+1.30
+Four years [2021-22]
+1.40
+Five years [2020-21]
+1.50
+
+(B)   Financial Capacity:   
+(1) The Bidder should satisfy the following financial requirement as per their latest audited Financial Statements/Balance Sheets:   
+	•	Minimum Average Annual Turnover: The bidder should have satisfactorily completed as prime contractor in civil engineering category in any one financial year ending 31st March 2025 of value not less than Rs. XXXXCrores. For this purpose, only the Turnover income from operations shall be considered. 
+(2) The AvailableBid capacity of the Tenderer shall be more than the total Bid Value. The Available Bid Capacity will be calculated as under:
+Assessed Available Bid Capacity= A*N*3-B, where
+‘N’ = Number of years prescribed for completion of the subject Contract 
+‘A’ = maximum value of works executed in any one year during last five years (at current price level). 
+‘B’ = value at current price level of existing commitments and ongoing works to be completed in the next ‘N’ years.
+The Tenderer shall furnish statements showing the value of existing commitments and on-going works as well as the stipulated period of completion remaining for each of the works, which shall be certified by a Chartered Accountant.
+(3) The Tenderer shall have positive Net Worth at the close of the latest financial year.
+(4) The Tenderer shall demonstrate that it has available liquid assets, lines of credit, and other financial means (independent of any contractual advance payment) sufficient to meet the construction cash flow requirements for the subject Contract after meeting its cash flow requirements for contracts currently in progress and for future contract commitments.
+(5) Solvency certificate from bankers for Rs. XXXX Crores not older than three months as on the date of submission of the bid.
+The Biddershall complete the following documents as per formats, without any alterations to the text given in this Tender,failing which his offer shall be summarily rejected:
+	•	Scanned copy of Tender Document duly signed & stamped in all pages. The Tenderer shall give an undertaking that no changes have been made in the Documentas per Proforma at Form-12.
+	•	Scanned copy of Company’s Registration Certificate as per Companies Act 1956.
+	•	Scanned Copy of EPF Code & ESI Registration Certificate
+	•	Scanned Copy of Permanent Account Number (PAN) Card, GST Registration Certificate.
+	•	Deleted. 
+	•	Bid Submission Letter (On letter head of the bidding firm) (Form-1)  
+	•	Power of Attorney for Authorized Signatory of the firm (Form-2). In the case of a Consortium, the Members should submit a Power of Attorney in favour of the Lead Member as per format given in Form-15.
+	•	Average Annual Financial Turnover of the firm during the last three (3) years ending 31.03.2025 along with audited balance sheets/profit & loss account (Form-4).  
+	•	Experience on Similar Works executed during the last seven (7) years; and details like monetary value, clients, proof of satisfactory completion (Form-5A, 5B and 5C). In case a particular project / contract has been jointly executed by the Bidder (as part of a Consortium), it should further support its claim for the share in work done for that particular project / contract by producing a certificate from its Statutory Auditor of the client or the Client. Scanned copy of original TDS Certificates should be furnished if the Work Completion Certificate from any Private Organization is submitted towards fulfillment of qualifying criteria, for the works executed in Government or its organizations, the Experience Certificate shall be issued by the officer not below the rank of Executive Engineer and counter signed by Superintend Engineer.
+	•	Information regarding Financial Situation (Form-6A) and Current Contract Commitments supported bya certificate from its Statutory Auditor (Form-6B). 
+	•	The proposed methodology and program of construction, backed with equipment planning and deployment, duly supported with broad calculations and quality control procedures proposed to be adopted, justifying their capability of execution and completion of the work as per technical specifications within the stipulated period of completion (Form-7)
+	•	List of major items of construction equipment’s proposed to carry out the Contract  (Form-8).  
+	•	Personnel / Staff proposed for the Project (Form-9) 
+	•	Proposed Site Organization (Form-10)
+	•	Historical Contract Non-Performance (Form-11A), Pending Litigation (Form-11B) and Litigation History (Form-11C)  
+	•	Declaration for no Exceptions and Deviations from Tender Document (Form-12)
+	•	Draft Integrity Pact (Form-13).
+	•	Proforma of Joint Venture / Consortium Agreement (Form-14), if applicable
+	•	Proforma of Power of Attorney for Lead Member of Joint Venture / Consortium (Form-15), if applicable
+	•	Proforma Letter of Authority (Form-16)
+	•	Details of Tenderer for refund of EMD through E-Payment (Form-17), if applicable
+	•	Format for furnishing Bank Information of Tenderer for E-Payment (Form-18)
+	•	Duly filled Checklist for Submission of Bids (Form-19)
+	•	In case the Bidder proposes Specialized Subcontractor(s), particulars of the Specialized Subcontractor(s) (Form-20);
+	•	In case the Bidder proposes Specialized Subcontractor(s), Letter of Consent from the Specialized Subcontractor(s) (Form-21);
+	•	In case the Bidder proposes Specialized Subcontractor(s), the Power of Attorney for authorized representative(s) of specialized subcontractor(s) (Form-22) along with extract of Board’s Resolution or equivalent document in favour of the person(s) executing the Power of Attorney;
+Companies/Contractors may jointly undertake Contract/Contracts. Each entity shall be jointly and severally responsible for completing the task as per the Contract; however, one of the partners shall be nominated as the Lead Partner by all the constituent firms. The Lead Partner’s share shall be not less than 51% in the joint venture.
+Bid submitted by an unincorporated Joint Venture of Companies (JV) /Consortium of Companies (Consortium), shall comply with the following requirements:  
+	•	There shall be a Joint Venture Agreement between the constituent firms specific for the Contract package for which the Bids are submitted. The JV Agreement shall include among other things, the Joint Venture’s/Consortium’s objectives, the proposed management structure, the proposed distribution of responsibilities both financial as well as technical for execution of the Work, the contribution of each partner to Joint Venture / Consortium operation, the commitment of all partners to  jointly and severally liable for due performance, recourse/ sanctions within the Joint Venture / Consortium in the event of default or withdrawal of any partner and arrangements for providing the required indemnities.The JV Agreement should clearly exhibit the validity of the Agreement until the completion of the work including the Defect Liability periods.
+	•	In case of Bid submitted by JV / Consortium, the Minimum Eligibility Criteria (MEC) Except Financial Turnover can be fulfilled collectively by the partners of the Joint Venture / Consortium. However, the Lead Partner of the Joint Venture / Consortium shall meet the Minimum Eligibility Criteria of Financial Turnover. 
+	•	The nomination of the Lead Partner shall be evidenced by submitting power of attorney signed by the legally authorised signatories of all the partners. Documentary proof of the MEC and the consortium agreement, shall be necessarily produced by the Bidders. 
+	•	The Bid and in the case of the Successful Bidder, the Agreement, shall be signed and / or executed in such a manner for making it legally binding on all partners (including operative parts of the ensuing Contract in respect of Agreement of Arbitration, etc.). The Contract shall be signed by legally authorised signatories of all partners. 
+	•	The Lead Partner shall be authorised to incur liabilities and to receive instructions for and on behalf of the partners of the Joint Venture / Consortium and entire execution of the Contract including payment shall be carried out exclusively through the Lead Partner. A Statement to this effect should be included in the Joint Venture Agreement. 
+	•	All partners of the Joint Venture / Consortium shall be liable jointly and severally for the execution of the Contract in accordance with the Contract terms, and a Statement to this effect should be included in the Joint Venture Agreement. 
+	•	Bid Security as required can be furnished by any partner, but it shall be in the name of Joint Venture / Consortium only. In case of EMD in the form of Bank Guarantee (BG), the composition and legal status of the JV / Consortium shall be properly filled in, as applicable. Non-compliance of the above, will lead to rejection of the Bid.
+	•	Performance Guarantee, as required, will be furnished by all partners, out of their accounts, in proportion of their participation in Joint Venture. 
+	•	Joint Venture Agreement shall contain a clause to the effect that there shall be a separate JV Bank Account (distinct from the Bank Account of the individual partners to which the individual partners shall contribute their Share Capital and/or Working Capital. 
+	•	Joint Venture Agreement shall also contain a clause to the effect that the financial obligation of the JV / Consortium shall be discharged through the said JV Bank Account only and also all payments received by JV from the Employer shall be through that account only. 
+	•	Participation by a firm in more than one JV /Consortium is not permissible under this contract. A firm who submits Bid on individual capacity is not eligible to be a partner of a JV /Consortium. In case a firm’s name appears in more than one Bid, then both Bids/Tenders may be rejected.
+	•	Each partner must submit the complete documentation, or portions applicable thereto, required to qualify the firm for Bidding.
+	•	All the partners of the JV/Consortium shall be jointly and severally liable for due performance, recourse/sanctions within the joint venture in the event of default of any partner and arrangements for providing the required indemnities.
+	•	Notwithstanding demarcation or allotment of works among the partners, each partner shall be liable for non performance of the whole Contract irrespective of their demarcation or share of works.
+	•	The Lead Partner shall be authorized to act on behalf of the JV/Consortium. 
+	•	All the correspondences between the Employer and the Contractor shall be routed through the Lead Partner.
+	•	In the event of default by the Lead Partner, it shall be construed as default of the Contractor; and Employer will take action under relevant clause(s) of the Bid Document and/or General Terms and Conditions of Contract.
+	•	A legally binding Joint Venture/Consortium Agreement signed by authorised signatories of all the partners of the JV/Consortium, as per the proforma at Form-14 shall be enclosed with the Bid.
+	•	Any change in the composition and legal status of the joint venture/ Consortium before execution of the Contract Agreement is not permitted and it shall leads to rejection of the bid.. 
+	•	Power of Attorney duly executed and signed by legally authorized signatories of all the partners, authorizing the Lead Partner: (a) to submit Bid, negotiate and conclude Contract and incur all liabilities therewith on behalf of the partner(s) of the JV /Consortium during the Bidding Process; and (b) in the event of a Successful Bid, to incur liabilities and receive instructions for and on behalf of the partner(s) of the JV /Consortium and to carry out the entire execution of the Contract including payment, exclusively through Lead Partner, as per the proforma at Form-15, which shall be duly authenticated by a Notary Public or equivalent certifying authority, and enclosed with the Bid.
+	•	An undertaking that all the partners are jointly and severally liable to the Employer for the performance of the Contract shall be enclosed with the Bid.
+	•	The Contractor shall not alter its composition or legal status without the prior written permission of the Employer. Failure to do so shall be construed as default of the Contractor and the Employer may take action under relevant clause(s) of the Bid Document and/or General Terms and Conditions of Contract.
+	•	The JV firm should furnish an undertaking from all the members that in case of award of work, the J.V Agreement deed is irrevocable by any one or all the members together until 3 months after the completion of the contract period including the defect liability periods. In case of Extension of time granted by the employer, the Agreement of joint undertaking is also deemed to be extended for the period of such delay and that it is irrevocable until 3 months after the completion of the extended periods together with defect liability period.
+	•	One of the partners of JV/Consortium should have purchased/ downloaded the Bid documents.
+	•	Number of partners in JV/Consortium shall be limited to a maximum of three. 
+A bidder and his proposed Specialised Subcontractor (if any) which has been barred by the Central/State Government, or anyentity controlled by it, from participating in any project, and the bar subsists ason the date of Bid Proposal, would not be eligible to submit its Bid eitherindividually or as member of a Consortium.  
+A Bidder, including any Member or Associate and his proposed Specialised Subcontractor (if any), should, in the last 3 (three) years,have either failed to perform on any contract, as evidenced by imposition of apenalty by an Arbitral or Judicial authority or a judicial pronouncement orarbitration award against the Bidder, Member or Associate, as the case may be,or has been expelled from any project or contract by any public entity, orhave had any contract terminated by any public entity for breach by suchBidder, Member or Associate, would not be eligible to submit its Bid eitherindividually or as member of Consortium.  
+
+The following conditions shall be adhered to, by the Bidder while submitting itsBid Proposal:   
+a) Bidders should attach clearly marked and referenced continuation sheets in the event that the space provided in the prescribed formats in the Form(s)is insufficient. Alternatively, Bidders may format the prescribed formats making due provision for incorporation of the requested information;  
+b) Information supplied by a Bidder (or other constituent Member if the Bidder is a Consortium) must pertain to the Bidder, Member or Associate named in the Bid Proposal.   
+c) In responding to the qualification submissions, Bidders should demonstrate their capabilities in accordance with requirements for “Qualification” of Bidders pursuant to Clause 1.6.1 Qualifying Requirements (QR) of these Tender Documents.  
+And  
+d) The Bidders shall give an undertaking that they have not made any payment or illegal gratification to any person/authority connected with the bid process so as to influence the Bid process and have not committed any offence under the PC Act in connection with the Bid as per proforma at Form-12.  
+e) The Bidders shall disclose any payments made or proposed to be made to any intermediaries in connection with the Bid as per proforma in Form-12. Incase no payment is made or proposed to be made a “Nil” statement shall been closed.  
+While “Qualification” of Bidders is open to persons from any country, it shall besubject to the following conditions:   
+a) Where, on the date of the Bid/Bid, not less than 15% (fifteen percent)of the aggregate issued, subscribed and paid up equity share capital in a Bidder or its Member is held by persons resident outside India or where a Bidder or its Member is controlled by persons resident outside India; or  
+b) If at any subsequent stage after the date of the Bid submission, there is an acquisition of not less than 15% (fifteen percent) of the aggregate issued, subscribed and paid up equity share capital or control, by persons resident outside India, in or of the Bidder or its Member;
+
+then the “Qualification” of such Bidder or in the event described in sub clause(b) above, the continued “Qualification” of the Bidder shall be subject to approval of the Employer from national security and public interest perspective. The decision of the Employer in this behalf shall be final and conclusive and binding on the Bidder.  
+The holding or acquisition of equity or control, as above, shall include direct or indirect holding/acquisition, including by transfer, of the direct or indirect legal or beneficial ownership or control, by persons acting for themselves or in concert and in determining such holding or acquisition, the Employer shall be guided by the principles, precedents and definitions contained in the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers)Regulations, 2011, or any substitute thereof, as in force on the date of such acquisition.
+The Bidder shall promptly inform the Employer of any change in the share holding, as above, and failure to do so shall render the Bidder liable for summary disqualification from the Bidding Process prior to Project Award, or cancellation of the Project Award or the Contract after the Project Award.  
+Notwithstanding anything to the contrary contained herein, in the event that theBid Due Date falls within three months of the closing of the latest financial yearof a Bidder, it shall ignore such financial year for the purposes of its BidProposal and furnish all its information and certification with reference to the 3(three) years or 1 (one) year, as the case may be, preceding its latest financialyear. For the avoidance of doubt, financial year shall, for the purposes of Bidhereunder, means the accounting year followed by the Bidder in the course ofits normal business.
+Even though the Tenderer meet the above qualifying criteria, they are subject to  be disqualified if they have:  
+	•	made misleading or false representations in the forms, statements and attachments submitted in proof of the Qualifying Requirements; and/or  
+	•	Record of poor performance such as abandoning the works, not properly completing the contract, inordinate delays in completion, litigation history, or financial failures etc.
+	•	Suffered bankruptcy / declared insolvency / liquidation by NCLT / any court are not eligible to participate in Bidding.
+Program To Be Included 
+In addition to the undertaking in the Tender to complete the works within the period specified, the Tenderer shall include with his Tender a Project Schedule showing the starting activity in relation to each other and the durations of all key activities. The programme should clearly indicate the Critical Path of the Works supported by a Critical Path Analysis. 
+Eligible Materials, Equipment, And Services 
+The materials, equipment and services to be supplied under the Contract and financed by the Agency may have their origin in any country subject to the restrictions notified / to be notified by the Government of India, and all expenditures under the Contract will not contravene such restrictions. At the Employer’s request, Tenderers may be required to provide evidence of the origin of materials, equipment and services.
+	•	CONTENTS OF TENDER DOCUMENT 
+Sections Of Tender Documents 
+These Tender Documents consist of all the Sections indicated below, and should be read in conjunction with any Addenda issued in accordance with ITT 1.11. 
+Volume-I – TENDERING PROCEDURE 
+Section-1: Instructions to Tenderers (ITT) 
+Section-2: Tender Data Sheet (TDS) 
+Section-3: Evaluation and Qualifying Criteria 
+Section-4: Tender Forms 
+Section-5: Schedule of Payments
+Volume-II –EMPLOYER’S REQUIREMENTS
+Section-6A: Scope of Work
+Section-6B: Technical Specifications
+Section-6C: Design Criteria
+Section-6D: Drawings
+Volume-III –CONDITIONS OF CONTRACT AND CONTRACT FORMS 
+Section-7: General Requirements 
+Section-8: General Conditions (GCC)
+Section-8: Special Conditions of Contractor (SCC)
+Section-10: Contract Forms
+The Invitation for Tender issued by the Employer is part of the Tender Documents. 
+The Employer is not responsible for the completeness of the Tender Documents and their Addenda and/or Corrigenda, if they were not obtained directly from the Employer. 
+The Tenderer is expected to examine all instructions, forms, terms, and Employer’s Requirements in the Tender Documents. Each Tenderer is solely responsible for conducting its own due diligence and investigation in support of the preparation of Tenders, negotiation of agreements, and the subsequent delivery of all services to be provided by the Successful Tenderer. Failure to furnish all information or documentation required by the Tender Documents may result in the rejection of the Tender.
+Clarification Of Tender Documents, Site Visit 
+A prospective Tenderer requiring any clarification of the Tender Documents shall send his ‘query and request for clarification’ to the Employer, in writing, at the Employer’s address as indicated in the Tender Data Sheet (TDS). The Tenderer shall send his ‘Query and Request for Clarification’ within time schedule as described in TDS. No ‘Query and Request for Clarification’ will be considered afterwards. The Employer shall publish its response to ‘Queries and Requests for Clarification’ and issues raised , if any, to all Tenderers, including a description of the inquiry but without identifying its source. Should the Employer deem it necessary to amend the Tender Documents as a result of a request for clarification, it shall do so following the procedure under ITT 1.11 and ITT 1.24
+The Tenderer is advised to examine the Site of port development, its surroundings and obtain for itself on its own responsibility all information that may be necessary for preparing the Tender and entering into a Contract for the Works/Project. The costs of visiting the Site shall be at the Tenderer’s own expense. 
+The Tenderer, its personnel, and agents will release and indemnify the Employer and its personnel and agents from and against all liability in respect thereof, and will be responsible for death or injury to their personnel, loss of or damage to property, and any other loss, damage, costs, and expenses incurred as a result of the Site Visit. 
+All clarifications to Tender queries and modifications to the Tender Documents that may become necessary will be made by the Employer exclusively through Clarifications/Corrigendum to the Tender documents which shall be uploaded in E-Tender and Department portal pursuantto ITT 1.11.
+Amendment Of Tender Documents 
+At any time prior to the deadline for submission of Tenders, the Employer may amend the Tender Documents by issuing Addenda and/or Corrigenda.
+Any Addendum and/or corrigendum issued shall become part of the Tender Documents. It will be published in e procurement portal.
+To give prospective Tenderers reasonable time in which to take an Addendum and/or Corrigendum into account in preparing their Tenders, the Employer may, at its discretion, extend the deadline for the submission of Tenders, pursuant to ITT 1.23.
+	•	PREPARATION OF TENDERS 
+Cost Of Tendering 
+The Tenderer shall bear all costs associated with the preparation and submission of its Tender, and the Employer shall not be responsible or liable for those costs, regardless of the conduct or outcome of the Tendering process. 
+The Tender submitted by a techno commercially qualified tenderer shall become the property of (Department) who shall be under no obligation to return the same to the Tenderer. 
+Language Of Tender 
+The Tender, as well as all correspondence and documents relating to the Tender exchanged by the Tenderer and the Employer, shall be written in English. Supporting documents and printed literature that are part of the Tender may be in another language provided they are accompanied by an accurate translation of the relevant passages in English which shall be duly notarized in the jurisdiction where the documents originated, in which case, for purposes of interpretation of the Tender, the English version shall govern. 
+The Financial Proposal shall be submitted in the BOQ provided in e-Tender portal only. 
+The Tenderer has to ensure that the file being uploaded in the web portal shall be in the specified file size, to avoid getting rejected by the portal. 
+Refer detailed checklist (Section 4-Form-19) for details of each section. 
+Letter Of Tender And Forms 
+The Tenderer shall complete the Letter of Tender (both Technical and Financial), including the other documents as listed under ITT 1.6.2, using the relevant forms furnished in Section-4 Tender Forms. The forms must be completed without any alterations to the text, and no substitutes shall be accepted except as provided under ITT 1.20.2. All blank spaces shall be filled in with the information requested.
+Alternative Tenders 
+Alternative Tenders (offering something different to what is asked for, in the invitation to tender) shall not be considered. 
+Tender Prices 
+	•	Tenderers shall quote for the whole of the Works/Project on a single responsibility basis such that the total Tender Price covers all the Contractor’s obligations mentioned in the Tender Documents in respect of the design, manufacture, including procurement and subcontracting (if any), transportation, packing, forwarding, delivery, construction, installation and completion of the Works/Project. This includes all requirements under the Contractor’s Responsibilities for design, design vetting by third party agencies (i.e. IIT/any other national/international) of repute, testing, test on completion, pre-commissioning, commissioning, test after completion, submission of warranty & guarantee certificates and defects rectification and, where so required by the Tender Documents, the acquisition of all permits, approvals and licenses, etc.; the operation, maintenance and training services and such other items and services as may be specified in the Tender Documents, all in accordance with the requirements of the Conditions of Contract. It is the joint liability of the PMC and the EPC contractor for the design, supervision and construction in finalisation of the design and supervision of the construction consequent there to also as part of the liability shoulders besides on the contractor and on the PMC for whole life of the stability of the structure etc., designed, vetted and constructed consequent there to, so that there will not be even any little negligence or lack of care and diligence in their respective part of the duties and responsibilities. 
+The Bidder shall fill in the rates and prices for all items of the works Items against which no rate or price is entered by the Bidder shall be deemed covered by the rates for all other items in the Bill of Quantities and will not be paid separately by the Employer. 
+Tenderers shall provide price in the manner and detail called for Bid (Financial Proposal). The prices shall only be mentioned in the uploaded in e-Tender portal. 
+Currencies Of Tender And Payment 
+The Tenderer shall express the Price of their Works in INR. 
+Period Of Validity Of Tenders 
+Tenders shall remain valid for a period of 180 Days, after the Tender submission deadline date specified in the ITT 1.22. A Tender valid for a shorter period shall be rejected by the Employer as non-responsive. 
+In exceptional circumstances, prior to the expiration of the Tender validity period, the Employer may request Tenderers to extend the period of validity of their Tenders. The request and the Tenderer’s responses shall be made in writing. The Tender Security shall also be extended accordingly beyond the deadline of the extended Tender validity period. A Tenderer may refuse the request without forfeiting its Tender Security and, subsequently, his Tender will be considered as a “WITHDRAWAL”. A Tenderer accepting the request shall not be required or permitted to modify its Tender. 
+Tender Security (Bid Bond)
+The Tenderer shall furnish as part of its Tender, a Tender security in original form and in the amount specified in the TDS.
+
+This Bank Guarantee shall be issued in favour of Superintending Engineer,by a Nationalized/Scheduled Bank operating in India, enforceable and encashable as per the format given in Form-B [Format for Bid Bond in the Form of Bank Guarantee]. This Bank Guarantee shall remain to be valid for a period of 180 (one hundred and eighty) days plus 60 days claim period, calculated from the Bid Due Date. The Bid Bond validity shall be automatically subject to extension by the Bidder corresponding to the extension of the Tender Validity by the Bidder at the written request of the Employer. Any failure by the Bidder to automatically extend the validity of Bid Bond corresponding to the extension of the Tender Validity will result in automatic rejection of the Bidder’s Bid Proposal by the Employer without any notice to the Bidder.
+The amount to be remitted is secured by either bank guarantee or through DD/RTGS / NEFT. It is for the bidder to opt
+Once it is by Bank Guarantee besides submission of the scanned copy of the same at the time of submission of bid on the Technical Pre-qualification criteria of bidders in the RFPs- Self Declaration along with original EMD (hard copies) shall be submitted on or before date mentioned to add as follows:
+	•	*Since submission of original Hard copies of the uploaded scan copies of DD /RTGS / NEFT /BG towards Bid security by participating bidders to the tender Inviting authority before opening of the price bid is optional as per Govt. Memo No.ICDO1-COOR0MISC/ 22/2020/REFORMS, Dt.27.03.2020, it cannot be insisted to produce original hard copy of BG etc., with tender submission, so that the intending bidders identity to others may not be revealed by physical presence and for all transparency. In case the bidder opts to submit non originals hard or soft copies, the bidder shall file scanned copy of an affidavit duly notarized to the effect that the information in the documents submitted is genuine and true with undertaking for criminal prosecution if anything found in the information is untrue besides right of the employer to terminate the contract and for other legal recourse.“
+	•	Bank Guarantee can be effective only from the employer’s verification through Bank and certified by the bank as genuine to act upon.
+	•	The date of issue of the Bank Guarantee should not be more than three months old to the date of submission either for EMD or for Security deposit/ performance Guarantee.
+	•	The banker should be informed that the Bank Guarantee should not be liquidated without official consent in writing of the Government/ Employer.
+The Bid Bond in respect of an overseas Tender may be issued by a first class foreign Bank Branch in India duly counter-guaranteed by a Nationalized Bank having its Branch atVisakhapatnam. Any Bid Proposal not accompanied by a Bid Bond as above shall stand automatically rejected by the Employer.   
+Any Tender not accompanied by an enforceable and compliant Tender Security shall be rejected by the Employer as non-responsive. 
+The Tender Security of unsuccessful Tenderers other than L1 and L2 will be returned as promptly as possible upon the Successful Tenderer’s furnishing of the Performance Security. 
+The Tender Security of the Successful Tenderer shall be returned as promptly as possible once the successful Tenderer has signed the Contract and furnished the required Performance Security. 
+The Tender Security may be forfeited: 
+a. If a Tenderer withdraws its Tender during the period of Tender Validity specified by the Tenderer in the Letter of Tender or any extension thereto by the Tenderer, except as provided in ITT 1.18.2; 
+b.	 If the Tenderer does not accept the correction of its Tender Price pursuant to ITT 1.31; or 
+c. 	If the Successful Tenderer fails to: 
+(i) 	sign the Contract in accordance with ITT 1.37; or 
+(ii) 	Furnish a Performance Security in accordance with ITT 1.38. 
+(iii) Accept the arithmetic correction in the tender 
+d. 	If there is found to be any misrepresentation of facts in the submitted Tender 
+The Tender Security shall be in the name of the Tenderer only.
+ 
+Format And Signing Of Tender 
+The Bidder shall scan his Proposal/TenderDocument for the purpose of uploading. The document shall be uploaded on E-Tender portal in the order appearing therein. Hard copies of the technical proposal shall also be submitted as per the requirement of TENDER DOCUMENT. 
+The original of the Tender shall be typed and shall be signed by a person duly authorized to sign on behalf of the Tenderer. This authorization shall consist of a legally authorized Power of Attorney in favour of the person (herein after called the Authorized Representative).The executor of the Power of Attorney should be authorized through an appropriate Company Board Resolution or equivalent document, copy of such company Board Resolution or equivalent document should also be attached and shall be duly notarized. In case of a foreign company, the document shall be authenticated by Indian Embassy/Consulate in that country, and shall be attached to the Tender. The name and position held by each person signing the authorization must be typed or printed below the signature. All pages of the Tender including those where entries or amendments have been made shall be stamped and signed or initialed by the person signing the Tender. 
+Any inter-lineation, erasures, or rewriting shall be valid, only if they are signed or initialed by the person(s) signing the Tender; however overwriting shall not be valid.
+	•	SUBMISSION AND OPENING OF TENDERS 
+Submission, Sealing And Marking Of Tenders 
+Tenderers shall upload the scanned copies of the Bid Documents comprising of Qualifying Documents, Technical Proposal and Financial Proposal separately “online” in the E-Tender portal. 
+The Financial Proposal shall be uploaded separately in financial package in the BOQ format. Tenderers shall not quote/mention rates anywhere else in the Bid other than Financial Proposal; otherwise the Bid shall be summarily rejected. 
+The Tenderer shall upload copies of the documents and forms mentioned in Form-19 (Check List) certifying full acceptance of all the clauses including Addenda/Corrigenda.The Bidder shall submit the Technical Bid in hard copy also enclosing the originaldocuments towards the Cost of tender, power of attorney for the authorised signatory to the Contract and Tender Bond; proof of experience, financialdetails etc. along with Letter of submission in a sealed cover to the address mentioned in the TDS beforeopening date and time of the Tender. However in case of any descrepency in online submission and hard copy submission, the details as submitted online would be considered final for the purpose of evaluation and signing of contract. 
+Deadline For Submission Of Tenders 
+Tenders must be uploaded by the Tenderer not later than the date and time indicated in the TDS.
+The Employer may, at its discretion, extend the deadline for the submission of Tenders by amending the Tender Documents in accordance with ITT 1.11, in which case, all rights and obligations of the Employer and Tenderers previously subject to the original deadline shall thereafter be subject to the deadline as extended. 
+Late Tenders 
+The Employer will not consider any Tender that is submitted after the deadline for submission of Tender, in accordance with ITT22. As the tendering process is online, late submission of Bid will not be allowed by E-Tender/Bid Portal. Department will not be responsible for any delay, internet connection failure or any error in uploading the Bid Submission. The tenderers are advised to upload their submissions well before the due date and time of Bid Submission to avoid any problems and last minute rush. 
+Withdrawal, Substitution, And Modification Of Tenders 
+As the Tender process is through E-Tender portal, only amendment/modification of the Tender shall be permissible. The Tender may be modified/corrected prior to the closing time and date of submission as mentioned in NIT & TDS.
+Tender Opening 
+Tender opening will be done online at the time and dates specified in the TDS. 
+The Employer shall conduct the opening of Financial Proposal of all Tenderers who submitted responsive and technically qualified Tender.
+
+e-Procurement Tendering Notice no: 
+
+Tender Details
+1
+Department Name
+:
+
+2
+Circle
+:
+Superintending Engineer
+3
+Tender Notice No
+:
+
+4
+Name of Project
+:
+“(Name of Work)” of Andhra Pradesh on Engineering, Procurement and Construction (EPC) Basis.
+5
+Estimated Contract Value (INR)
+:
+₹ XXXXCrores
+6
+Period of Completion (in months)
+:
+XXX Months
+7
+Form of contract
+:
+EPC
+8
+Class of Contractor eligible for tendering
+:
+	•	General Requirements:
+	•	(Technical qualification is to be considered as per the financial constitution of the Consortium
+	•	GO. Ms. No: 94 of I & CAD (PW-CAD) Dept, Dt: 01-07-2003.
+	•	GO. Ms. No: 50 of I & CAD (PW-CAD) Dept, Dt: 02-03-2009.
+	•	GO. Ms. No: 40 of Water Resources (Reforms) Dept, Dt: 15-09-2024.
+	•	GO. Ms. No: 4 of Water Resources (Reforms) Dept, Dt: 10-02-2025.
+	•	Individual / Firm / Company registered with valid registration in terms of CPWD or PWD codes in anywhere in the country.
+	•	Technical Requirement
+Contractor shall meet the Technical requirements specified in Section 1.6.1 (A) above
+	•	Financial Requirement
+Contractor shall meet the Financial requirements specified in Section 1.6.1 (B) above
+9
+Others
+:
+	•	Tender schedule can be downloaded from the website: https://tender.apeprocurement.gov.in/
+	•	Intending bidders can contact Superintending Engineer, for any clarification, information on any working day during working hours.
+	•	The bidder shall submit the bid and all related correspondence in English language only.
+	•	All bidders must fill out the pre-qualification checklist in the templates provided and sign on the self-declaration form stating their compliance with all the technical and financial pre-qualification criteria and upload the same.
+	•	The bidder shall submit 1 % of the IBM/ECV i.e., for ₹ XXXCrores as EMD in the shape of B.G in favour of (head of the Department with Address) with a validity of (Duration) months from the date of notification of tender
+	•	All bidders must upload all supporting documents in the e-Procurement portal validating their declarations and uploaded in the templates provided for the same under the technical and commercial pre-qualification criteria laid out in the checklist.
+	•	The bidders should quote their initial price offer at the prescribed field / place provided in the e-market place within the prescribed period.
+	•	The quoted initial price offer cannot be in excess of 5% over the Internal Bench Mark (IBM) value provided by the Department.
+	•	The bidder shall sign on all the documents uploaded by him including EMD along with the self-declaration for fulfilling pre-qualification criteria set by the Department (on the checklist) owning responsibility for their correctness / authenticity and upload along with Tender.
+	•	The system shall carry initially the evaluation based on the information furnished in the given templates with regard to both technical and commercial pre-qualification criteria and the declaration uploaded by the bidder.
+	•	All bidders shall furnish the original hard copies of the DD/ BG for EMD before two days prior to the date and time fixed for opening of initial price offer.
+	•	The price bids will be opened on the date and time fixed.
+	•	If any bidder fails to submit the original hard copies of the DD/ BG for EMD within the stipulated time, the Price Offer of the respective bidder will not be opened and they shall be rejected for further tendering process.
+	•	The bidders shall furnish willingness in participating tendering process and an undertaking shall be uploaded to that effect along with submission of quoted price offer.
+	•	Finally, the Department shall carry out the technical bid evaluation solely based on the uploaded certificates / documents, DD/BG towards EMD in the e-procurement system and declare the successful bidder.
+10
+Special conditions
+:
+	•	The Scope of Work shown above is only indicative and detailed scope has been described in the Bid Document. 
+	•	The time for completion of the Construction Works is (duration)months, with Defect Liability Period of 24 months after successful completion of Construction Works.
+	•	Issue of Bid Document will not automatically construe the eligibility of the Contractor(s) for participation in the subsequent bidding process and will be determined during evaluation.
+	•	The Employer reserves the right to accept or reject any or all the Bids without assigning any reason whatsoever. 
+	•	The dates stipulated in the NIT are firm and under no circumstances they will be relaxed unless officially extended / notified.
+	•	The Contractors shall submit their Bids online only. Any sort of difficulties or the problems in the internet, web site in submission of tenders, the Employer is not responsible.
+	•	All bidders shall furnish the original hard copies of the DD/ BG for EMD as per the date and time fixed in NIT.
+	•	Price Offers received in excess of more than 5% over the Internal Benchmark value Specified by the employer shall be summarily rejected.
+	•	In respect of Price Offers received beyond 25% less than Internal Benchmark value specified by the employer, the Contractor shall furnish a Bank Guarantee (or) Demand Draft for the difference between the Bid amount and 75% of Internal Benchmark value at the time of concluding Agreement as additional security deposit valid up to 6 months after completion of work
+	•	The Employer reserves the right to cancel the Bids at any time without assigning any reasons.
+	•	The Contractor should submit a copy of valid GST registration certificate issued by the registration authority.
+	•	The Contractor should submit copy of PAN card and copy of latest Income Tax return submitted to IT Department along with proof of submission.
+	•	Any other condition regarding receipt of Bids in conventional method appearing in the Bid documents may please be treated as not applicable.
+	•	The Contractors should invariably upload the scanned copies of Bid Security and experience certificates and other relevant documents duly signed by them.
+	•	The successful tenderer should however pay PBG. i.e., the PBG calculated at 2½ % (Two and Half Percent) of Tender Contract Value (TCV) at the time of concluding the agreement in the shape of Demand Drafts or unconditional and irrevocable Bank Guarantee as   per the standard format. The BG of 2½ % is to be valid for a period of 48 Months (i.e., period of completion of 24months plus defect liability period of 24 months) should be in favor of Chief Executive Officer, (Department )The EMD paid at the time of submission of tender will be returned.  
+	•	Bids shall be valid for a period of 3 months from the last date of submission of Bids.  Before expiry of validity, the authority who called for the Tenderers, shall seek for further extension of validity from the Contractors and in case the validity is not extended by any Contractor, his Bid will not be considered after such expiry and his Bid Security shall be returned. 
+	•	The retention amount from the bills will be deducted at the rate of 7.5 % as usual.
+	•	The Successful bidder bidder will have to pay transaction fee  of 0.03% on estimate contract value of work to APTS. It is mandatory for the bidders to pay the transaction fee through the Electronic payment Gateway.      
+	•	All necessary permissions / clearances / approvals are to be processed and obtained by the Contractor only at his own cost.  As user agency, the Employer will cooperate in processing the proposals in respect of the above.
+	•	In case of discrepancy between the Price Bid quoted online and in supporting documents uploaded, the Price Bid quoted in the template provided online only would be considered for evaluation.
+	•	Bid Price should be quoted online in the specified template.
+	•	The Successful bidder will have to pay corpus fund   of 0.04% on estimate contract value of work to APTS. It is mandatory for the bidders to pay the transaction fee through the Electronic payment Gateway
+	•	Experience relating to the works executed in State/Central Government Departments or State/Central Government under takings in India, private organizations/Institutions shall be considered. 
+	•	In respect of the works executed outside India, the experience gained in Government Departments or Government undertakings shall be considered. 
+	•	In case of Projects executed in Government departments/Government undertakings, the experience certificates should be certified by the Executive Engineer or equivalent and counter signed by the Superintending Engineer or equivalent and copies may be uploaded along with tender duly self-attested. In case of projects executed in private Organizations and Institutions, the experience certificate should be certified by the Statutory Auditor of such entities from whom the experience is claimed.  
+	•	Further, the Employer reserves the right to undertake a verification of the experience so stated, through engaging the services of a Professional Agency, and if any discrepancies are noticed in the information provided by the Contractor / Successful Contractor / Contractors (meaning one or more members, in case of JV) regarding previous relevant experience, the said Contractor/Successful Contractor/Contractor shall be disqualified duly forfeiting bid security/performance security and value of work done and shall be liable to pay damages as determined by the Employer. Further, the Contractor/ Successful Contractor/Contractor shall be black listed.  
+	•	The Contractor is subjected to be disqualified and liable for black listing and forfeiture of Bid Security, if he is found to have misled or furnished false information in the documents submitted in proof of qualification requirement.
+	•	Even during execution of the work, if found that the Contractor had produced false/fake certificates of experience he will be liable for black listing and the Contract will be liable for termination duly forfeiting Performance Security and all the amounts due to him.
+	•	Articles of Contract: Successful Contractor/Contractor is to execute Articles of Contract as provided in the Bid Document.
+11
+General terms & Conditions
+:
+	•	The details and certificates are to be furnished as per the proforma available in the tender schedules in proof of Qualification Criteria.  The details of works not furnished in the relevant formats shall not be taken in to consideration for evaluation, though uploaded along with Bid.
+	•	The Contractor should have the key and critical equipment (either owned or leased or proposed to be procured) as mentioned in the Bid Document.
+	•	The Contractors shall submit Written Power of Attorney authorizing the signatory of the Bid to commit for the Contractor. In case of JV, Power of Attorney has to be provided by Lead Member of the JV, in the formats provided.
+12
+Scope of Work
+
+
+
+:
+
+
+:
+	•	  The Contractor shall carryout the Engineering, Design, Procurement of materials and Construction / installation of all the items listed in this tender document as per the design criteria, specifications and drawings outlined in this tender document. For this purpose, the Tenderer shall conduct all necessary field tests and surveys to satisfy / verify himself regarding the correctness of the data furnished vis-à-vis actual condition. The tenderer may also carry out such surveys and investigations even before the submission of tender. The Contractor shall examine the site and familiarize himself with all existing site conditions. 
+The scope of work XXXXXXXXX 
+	•	After approval of the Drawings and Designs based on the Design Criteria, Employer’s Requirements as detailed in Volume II, by the competent authority, the EPC Contractor shall submit detailed estimate along with BoQs based on the approved drawings which will be approved by the Dept. authorities based on which the execution shall be done.
+	•	It shall be expressly understood by the EPC Contractor that the Drawings and details appended at the time of bidding are only indicative but not exhaustive.
+
+	•	Deliverables of the Project:
+The deliverables in the scope of the Contractor as per the broad items of works covered are listed below:
+(Name of Work)
+Sl. No.
+Description
+Unit
+Quantity
+1
+Jetty (100x 6.1 m) with gang ways
+Sqm
+
+2
+Dredging
+Cum
+
+3
+Training Wall - 2 Nos
+Rmt
+
+4
+Reclamation with available earth
+Sqm
+
+5
+Construction of Beach Landing
+Sqm
+
+6
+Construction of Boat Parking Area
+Sqm
+
+7
+Auction Hall
+Sqm
+
+8
+Net mending center
+Sqm
+
+9
+Fish Drying Platform - 3 Nos
+Sqm
+
+10
+Compound Wall
+Rmt
+
+11
+Custom Hiring centre
+Sqm
+
+12
+Administrative office 
+Sqm
+
+13
+Toilet Block
+Sqm
+
+14
+Approach road
+Sqm
+
+15
+Over Head Tank 100 Kl  
+KLD
+
+16
+Water Distributory system (Internal & External)
+Rmt
+
+17
+Sewerage including STP
+KLD
+
+18
+Electrification and Lighting
+No's
+
+19
+Drainage facility
+Rmt
+
+
+The internal Bench Mark of the above work is Rs. XXXX Crores
+	•	The EPC Contractor has to abide by the following conditions:
+	•	The "Employer" is the Superintending Engineer, the Agreement Concluding authority. "Engineer in Charge" is the Executive Engineer (Technical officer) in charge of execution in terms of GO. Ms. No: 50 of I & CAD Dept., Dt: 02-03-2009.
+
+	•	Entrustment of the additional items contingent to the main work and within the scope of contract will be authorized by the "Employer" and the EPC Contractor shall be bound to execute such additional items at no extra cost to the employer and the cost of such items shall be deemed to have been included in the contract price quoted.
+
+	•	The Competent authority for approval of designs is the Chief Engineer, or any other authority as specified by Government in terms of G.O.Ms.No.50 I&CAD Dept, Dt: 02-03-2009.
+
+	•	The EPC Contractor shall carry out investigation, survey, detailed layout, designs and drawings of all components of the work to be approved by competent departmental authority. Apart from the tender specifications, the EPC Contractor shall follow all the relevant Manuals / BIS / NBC / GoI manuals / advisories etc., issued from time to time for various components of works. The EPC Contractor shall furnish “detailed estimate” with BoQs prepared based on the designs and drawings submitted by the EPC contractor and approved by the competent authority as per G.O. Ms. No: 50 I & CAD Dept, Dt: 02-03-2009.
+
+	•	The contractor should install CCTVs in 360 degrees and should link live to the Department , Regional Office, District Office, Secretariat and Mobiles of Officers including software and equipment charges.
+
+	•	The value of work to be executed may be increased or decreased upto 30% as per requirement.
+
+	•	The contractor should provide drone videos and photos every fortnightduring execution of work.
+
+	•	INTERNAL BENCHMARK (IBM) / ECV
+
+The Internal Benchmark (IBM) of the scope work and deliverables is arrived Rs.XXXX Crores (exclusive of GST and Seigniorage Charges) 
+	•	Key Performance indicators & Penalties
+The contractor shall be subject to the following penalties for failure to carry out its operations as indicated below during Defect Liability period (DLP) of 24 months including Defects Liability Period under Normal Operating Conditions.
+
+	•	Payment Schedule:
+Payment Schedule shall be as provided in Section-5 of Volume-I
+13
+Tender type
+:
+Open
+15
+Bid Call (Nos)
+:
+01
+16
+Type of Quotation
+:
+The price is to be quoted for work. Evaluation for arriving at the single successful L1 bidder will be carried out through tendering process as detailed in the bid documents.
+17
+Transaction Fee 
+:
+The Successful bidder bidder will have to pay transaction fee  of 0.03% on estimate contract value of work to APTS. It is mandatory for the bidders to pay the transaction fee through the Electronic payment Gateway
+18
+Pre-Bid replies
+:
+As per Clause 10.1 & 10.2 of this Bid Document
+19
+Workshop
+: 
+Interested bidders shall be invited for a workshop detailing the e-Procurement tendering process, where an interactive demo of the process shall also be provided.
+20
+Earnest Money Deposit (EMD) (INR)
+:
+₹XXX Crores through Net Banking (EMD shall be paid using Net Banking RTGS/NEFT from their registered bank accounts only or using Credit Card / Debit Card as per the VISA/ Master Card Guidelines as per GO Ms.No.8, ITE&C Dept, Dt: 8-5-2016) / Challan Generation / Bank Guarantee in favour of Department 
+Beneficiary name: XXXXX
+21
+Performance Bank Guarantee (PBG)/Security Deposit 
+:
+	•	The successful tenderer should however pay EMD i.e., the PBG calculated at 2.5 %(Two and half Percent)of Tender Contract Value (TCV) at the time of concluding the agreement in the shape of Demand draft or unconditional and irrevocable Bank Guarantee as per the standard format. The BG is to be valid for a period of 37 Months (i.e., period of completion of 12 months plus defect liability of 2 years period or 24 months plus one month) should be in favour of (Department ). The EMD (1%) paid at the time of submission of tender will be returned.
+	•	The recovery of FSD @ 7.5% on the value of the work done or any other specific percentage mentioned in the agreement shall be recovered for the works.
+
+	•	Tenders which are less beyond minus 15% {(<-15%)} of the ECV, a Bank Guarantee or Demand Draft for the difference between the tendered amount and 85% of the estimate value should be taken, over and above other guarantee, which would be released after the completion of work with other Bank Guarantees. Illustration: If a L1 bidder quotes Rs 75 for an estimated value of Rs100, then the bidder will have to give an additional BG/DD of Rs 10 {Rs.85 (that is 85% of Est. Value) – Rs.75 (Tendered amount)}.
+
+
+22
+Bid Processing Fee
+
+
+23
+Bid Document Downloading Start Date & Time
+:
+
+24
+Bid Document Downloading End Date & Time
+:
+
+25
+Last date & Time of receipt of hard copies of EMD (DD/BG)
+Technical Bid Submission
+:
+
+26
+PQ Stage/Tender Opening Date & Time
+:
+
+27
+Bid Validity Period
+:
+90 days
+28
+Declaration of successful bidder by competent authority (L1 after evaluation and Physical document verification)
+
+
+:
+After issuing LOA to the successful bidder  
+29
+Officer Inviting Bids
+:
+Superintending Engineer
+30
+Bid Opening Authority
+:
+Superintending Engineer
+31
+Address
+:
+
+32
+Contact Details
+:
+
+33
+Procedure for bid submission
+:
+As per Bid Document
+34
+General Terms & Conditions / Eligibility criteria
+:
+As per Bid Document
+35
+Tender can be downloaded
+:
+As per Bid Document
+36
+Tender Documents (in zip format)
+:
+As per Bid Document
+37
+Agreement concluding authority
+:
+Superintending Engineer
+
+.
+	•	EVALUATION AND COMPARISON OF TENDERS 
+Confidentiality 
+Information relating to the evaluation of Tenders and recommendations of Contract Award shall not be disclosed to Tenderers or any other persons not officially concerned with such process until information on Contract Award is announced pursuant to ITT 1.36. The undue use by any Tenderer of confidential information related to the process may result in the rejection of its Tender. 
+From the time of Tender Opening to the time of Contract Award, if any Tenderer wishes to contact the Employer on any matter related to the Tendering process, it may do so in writing/e-mail at the address specified in the TDS. 
+Clarification Of Tenders 
+To assist in the examination, evaluation, and comparison of the Tenders, and qualification of the Tenderers, the Employer may, at its discretion, ask any Tenderer for a clarification of its Tender. Any clarification submitted by a Tenderer that is not in response to a request by the Employer shall not be considered. The Employer’s request for clarification and the response shall be in writing/e-mail. No change in the prices or substance of the Tender shall be sought, offered, or permitted, except to confirm the correction of arithmetic errors discovered by the Employer in the evaluation of the Tenders, in accordance with ITT 1.31. 
+If a Tenderer does not provide clarifications of its Tender by the date and time set in the Employer’s request for clarification, its Tender  shall be rejected. 
+The Employer, solely at its discretion, may ask the Tenderer for an amendment/ alteration or additional information in Tender after the due date of submission of the Tender except the Financial Proposal. Under no circumstances, the Financial Proposal be amended or altered. 
+Deviations, Reservations, And Omissions 
+During the evaluation of Tenders, the following definitions apply: 
+a. “deviation” is a departure from the requirements specified in the Tender Documents; 
+b. “reservation” is the setting of limiting conditions or withholding from complete acceptance of the requirements specified in the Tender Documents; and 
+c. “Omission” is the failure to submit part or all of the information or documentation required in the Tender Documents. 
+Evaluation Of Technical Proposal 
+Preliminary Examination 
+The Employer shall examine Technical Proposals to confirm that all documents requested in ITT 1.6.2 have been provided, and to determine the completeness of each document submitted. 
+
+The Employer shall determine to its satisfaction whether the Tenderer has submitted the required documents to continue to meet the qualifying criteria specified in Section-3 (Evaluation and Qualification Criteria).
+A responsive Tender is the one that meets the requirement of the Tender Documents without material deviation, reservation or omission.
+The Employer shall examine the technical aspects of the Technical Proposal submitted in accordance with ITT 1.6.2, in particular, to confirm that all requirements of Volume-2 Works Requirements along with relevant Sections have been met without any material deviation, reservation, or omission. 
+Evaluation 
+The evaluation shall be carried out in accordance with Section-3 (Evaluation and qualification criteria). Alternative Tenders are not allowed in the Tender as stated in ITT 1.15 and shall be ignored, if offered. 
+Nonmaterial Nonconformities 
+If a Tender is not responsive to the requirements of the Tender Documents, it shall be rejected by the Employer and may not subsequently be made responsive by correction of the material deviation, reservation, or omission. 
+The determination shall also be based upon an examination of the documentary evidence of the Tenderer’s qualifications, pursuant to ITT 1.29. 
+Provided that a Tender is responsive, the Employer may waive any non-conformities in the Tender that do not constitute a material deviation, reservation or omission. 
+Provided that a Tender is responsive, the Employer may request that the Tenderer submit the necessary information or documentation, within a reasonable period of time, to rectify nonmaterial nonconformities in the Tender related to documentation requirements. Requesting information or documentation on such nonconformities shall not be related to any aspect of the price of the Tender. Failure of the Tenderer to comply with the request may result in the rejection of its Tender. 
+Correction Of Arithmetical Errors 
+Financial Proposals determined to be responsive will be checked by the Employer for any arithmetic error. If there is a discrepancy between amount in figures and words, the amount in words will govern.
+The amount stated in Financial Proposal will be adjusted by the Employer in accordance with the above procedure for the correction of errors, and shall be considered as binding upon the Tenderer. If the Tenderer does not accept the corrected amount of Tender, his Tender will be rejected and the Tender Security may be forfeited in accordance with ITT 1.19. 
+Bidding Process
+L1 Tendering Process
+Acknowledgement by the Bidder
+It shall be deemed that by submitting the Bid Proposal, the Bidder has:  
+a) made a complete and careful examination of the TENDER DOCUMENT;  
+b) received all relevant information requested from the Employer;  
+c) inspected the site of Works and its surroundings and discussed with connected agencies and collected all necessary information for the purpose of quoting for the Works. Tenderer shall rely on his own judgment, skill and expertise in all matters connected with the Tender and submission thereof;
+d) accepted the risk of inadequacy, error or mistake in the information provided in the TENDER DOCUMENT or furnished by or on behalf of the Employer relating to any of the matters referred to hereinabove; and  
+e) agreed to be bound by the undertakings provided by it under and in terms hereof.  
+The Employer shall not be liable for any omission, mistake or error in respect of any of the above or on account of any matter or thing arising out of or concerning or relating to the TENDER DOCUMENT or the Bidding Process, including any error or mistake therein or in any information or data given by the Employer.  
+Employer’s Right To Accept Or Reject Any Or All Tenders 
+Notwithstanding anything contained in this TENDER DOCUMENT, the Employer reserves the right to accept or reject any Bid and to annul the Bidding Process and reject all Bids, at any time without any liability or any obligation for such acceptance, rejection or annulment, and without assigning any reasons therefor. In the event that the Employer rejects or annuls all the Bids, it may, in its discretion, invite all eligible Bidders to submit fresh Bids hereunder.  
+The Employer reserves the right to reject any Bid if:  
+a) at any time, a material misrepresentation is made or uncovered, or  
+b) the Bidder does not provide, within the time specified by the Employer, the supplemental information sought by the Employer for proper evaluation of the Bid. 
+If such rejection occurs after the conclusion of the tendering process, then the Employer reserves the right to:  
+i)restart the L1 tendering process as mentioned in ITT 1.32; or  
+ii) take any such measure as may be deemed fit in the sole discretion of the Employer, including annulment of the Bidding Process.  
+In case it is found during the evaluation, or at any time before signing of the EPC Contract, or after its execution and during the period of subsistence thereof, including the Defects Liability Period, that one or more of the qualification criteria or conditions have not been  fulfilled  by the  Bidder, or the Bidder has made material misrepresentation or has given any materially incorrect or false information, the  Bidder shall be disqualified forthwith if not yet appointed as the Contractor either by issue of the “Letter of Award (LoA)” or entering into the EPC Contract, and if the  Bidder has already been issued the LoA or has entered into the EPC Contract, as the case may be, the same shall, notwithstanding anything to the contrary contained therein or anywhere else in this TENDER DOCUMENT, be liable to be terminated, by a communication in writing by the Employer to the  Bidder, without the Employer being liable in any manner whatsoever to the  Bidder and without prejudice to any other right or remedy which the Employer may have under this TENDER DOCUMENT, other  Bidding Documents, the EPC Contract or under the applicable law.  
+The Employer reserves the right to verify all statements, information and documents submitted by the Bidder in response to the TENDER DOCUMENT. Any such verification or lack of such verification by the Employer shall not relieve the Bidder of its obligations or liabilities hereunder nor will it affect any rights of the Employer hereunder or under the Contract Conditions, as the case may be.    
+The Project as a whole has been divided into different Milestones for sequential completion within the (“Construction Period”) as under:   
+Milestone-1: Completion of: (i) Investigation, Surveys, Designs and Drawings, Estimates, BoQs, Completion Reports with GFC Drawings etc., complete. (ii) 10% of dredging & disposal (iii) 10% breakwaters completion within 90 days from the Commencement Date. 
+Milestone-2: Completion of: (i) 30% of dredging & disposal. (ii) 40% breakwaters completion. (iii) On completion of 60% of substructure works of Jetty. (iv) On completion of 20% of various construction activities such as Onshore Facilities, Infrastructure works etc., entitling the Contractor to a cumulative total gross payment of at least 50% of the Accepted Contract Price, based only on the Schedule of Payments within 180 days from the Commencement Date.
+Milestone-3: Completion of: (i) 80% of dredging & disposal. (ii) 100% breakwaters completion. (iii) On completion of 100% of substructure works and 50% of Super Structure works of Jetty. (iv) On completion of 70% of various construction activities such as Onshore Facilities, Infrastructure works etc., entitling the Contractor to a cumulative total gross payment of at least 50% of the Accepted Contract Price, based only on the Schedule of Payments within 270 days from the Commencement Date.
+Milestone-4: Completion of all project works in all respects within 330 days from the commencement Date.
+
+The whole of the Works for the Project including essential Punch List items, if any, shall be completed within (duration) months from the Commencement Date excluding Defects Liability Period   24 months for liquidation of all Punch List items.   
+The completion of the whole of the Works/Project in different Sections as above shall be subject to the following:  
+i) The Works or any Sections thereof, as the case may be, shall successfully pass the “Tests on Completion” in terms of the EPC Contract, and  
+ii) Completion of all such works as is expressly stated to be within the Scope of Works or which is implied to be so though not expressly stated as such but under terms of the Contract is required for the Works/Project to be considered as completed for the purposes of taking-over of the whole of the Works/Project by the Employer.
+Save as the above, the Employer may, by prior written notice to the Contractor, change the priority of the dates for completion of any Sections or parts of the Works comprised in the respective Sections of the Works and the Contractor shall be required to adhere to such changes at no extra cost to the Employer.  
+
+	•	AWARD OF CONTRACT
+Award Criteria 
+Employer shall award the Contract for the Project to the Bidder whose Tender has been determined to be substantially responsive to the Tender Document and who has been selected by the Employer to be competitive based on its Qualification Requirement (QR) and Commercial & Price Bid and has been found to be the “Lowest Price” after the completion of tendering process. The Employer reserves the right, at its sole discretion, to award Contract for the Works for Project as a whole to one successful Bidder; or divide the Works for the Project in such identifiable Parts as is feasible and award separate Contracts for such Parts of the works to more than one Bidder. 
+Letter of Award (“LoA”)  
+Prior to expiry of the validity or extended validity period of the Tender, the Employer will notify the Successful Bidder by facsimile confirmed by registered letter that its Tender has been accepted. This Letter (hereinafter and in the Contract Conditions referred to as the “Letter of Award” (of the Tender) or “LoA”) shall specify the sum which the Employer will pay the Contractor (hereinafter and in the Contract Conditions referred to as  the “Contract Price”) in consideration of the execution and completion of the Works for the Project and the remedying of any defects therein by the Contractor in terms of the Contract.   
+The LoA shall be deemed to constitute a binding Contract between the Employer and the Bidder-cum-Contractor for execution and completion of the Works for the Project and remedying defects therein in terms of the Contract Conditions.   
+Signing Of Contract 
+Subsequent to the issuance of the LoA to the Successful Bidder, the Employer and such Bidder shall, within 28 days from the date of LoA or such extended period as may be agreed to by the Employer, execute a Contract Agreement to formally give effect to the Contract. 
+The Successful Tenderer shall bear all the costs towards Stamp paper required for the preparation of Agreement. 
+Performance Security 
+Within 28 days from the date of LoA from the Employer, the Successful Bidder shall furnish to the Employer, a Performance Security in the form of an unconditional, irrevocable Bank Guarantee as per the format given in Form-C[Format for Performance Bank Guarantee]  from a Nationalized/Scheduled Bank located anywhere in India or if issued from abroad, the same shall be authenticated by a Nationalised Bank of India,for a sum equivalent to two and half(2.5) percent of the Contract Price.
+Failure of the Successful Tenderer, to submit the above-mentioned Performance Security pursuant to ITT 1.38.1 and/or to sign the Contract as per ITT 1.37.2 shall constitute sufficient grounds for the annulment of the Award and forfeiture of the Tender Security.
+Assignment of the Contract  
+The Employer shall be entitled to assign and/or transfer any of its rights andobligations under the Contract to be entered by the Employer with theSuccessful Bidder to any other person by prior notification to such SuccessfulBidder-cum-Contractor except that no such notification shall be required in theevent of assignment to the Lender or its agent or its nominee or to any Affiliateof Employer or to a Promoter of Employer.  
+The Successful Bidder-cum-Contractor is deemed to have consented to theassignment by the Employer of the Contract in favour of the Lenders andhereby undertakes to execute such additional documents as may be reasonablyrequired to give effect to any such assignment provided that execution of suchadditional documents shall not impose upon the Successful Bidder-cum-Contractor any duty, liability or responsibility over and above those set forth inthis Tender and the Contract envisaged herein.

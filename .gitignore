@@ -1,0 +1,68 @@
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+.turbo/
+*.tsbuildinfo
+.npm/
+.pnp.*
+.yarn/
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+.env.production
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Coverage / test outputs
+coverage/
+.nyc_output/
+
+# DB / runtime artifacts
+*.sqlite
+*.sqlite3
+*.db
+
+# Build artifacts from doc rendering
+/docs/*.html
+/tmp_pdf_build/
+
+# Local data caches
+.cache/
+data/uploads/
+data/synthetic-bids/*.pdf
+data/synthetic-bids/*.docx
+!data/synthetic-bids/.gitkeep
+
+# Deploy artifacts
+.vercel/
+.railway/

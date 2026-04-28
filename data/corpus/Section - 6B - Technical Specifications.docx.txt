@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+   VOLUME – II
+SECTION – 6B TECHNICAL SPECIFICATIONS 
+
+
+
+
+
+
+
+
+
+
+
+GENERAL 
+The work specified in this section covers the construction of breakwaters. The intent of these specifications is to describe and cover the furnishing of all labour, materials and equipment necessary to accomplish all work as herein specified and shown on the guideline drawings for the works as per Volume IIB. 
+ROCK FOR BREAKWATER 
+Quarry 
+It is the Contractor’s responsibility to identify a suitable quarry/quarries with an adequate supply of rock satisfying the requirements as specified. The Contractor has to satisfy himself with nature of the rock available in the quarry and has to submit a detailed report to the Employer’s Engineer for approval. The Contractor has to get all approvals from relevant authorities for quarrying and has to pay all the necessary fees, royalties etc. as required. 
+It shall be the Contractor’s responsibility to take care of all environmental aspects, historic preservation and biological constraints in the quarry. Well-trained inspectors familiar with blasting procedures, stone quality, and stone inspection techniques should be employed. 
+A record of stone quality from known quarries should be maintained for reference. Stones representing the approved rock type in several grades should be set aside and clearly marked for visual reference to the Employer’s Engineer. These stones should be spread out in the quarry for inspection prior to loading for transport to the site. An adequate supply of stones across the specified gradation should be maintained at the construction site. 
+Rock shall be transported to the site along the route approved by the Employer’s Engineer. Rock to be placed in the work shall be bulk transported and handled in such a manner as to minimize segregation of the rock and damage to the rocks and so that the required grading is achieved in the Breakwater. Loading plant shall be maintained in an adequate state for loading the grades of material required. Where possible, suitable back-up plant shall be made available nearby. 
+Rock brought to site shall be stacked in a designated stockpile area at the project site. Rock of each grade shall be kept / placed in separate stockpiles in a predetermined / designated arrangement within the rock stockpile area. 
+A weighbridge will be installed at a suitable location close to stockpile area by the Contractor to record the weight of all rock removed from the stockpile area. All rock used by the Contractor shall be weighed upon removal from the stockpile area before placement along the Breakwater alignment which will be the basis for interim payments and final reconciliation. All vehicles used by the Contractor for transportation of rock shall have a permanent identification number. Before commencement of the construction, the unladen (empty) weight of all vehicles shall be recorded in the presence of Employer’s Engineer’s Representative along with the vehicles’ registration number. 
+Quarried Rock 
+All rock shall be naturally occurring, dense, sound material quarried from an approved source. It shall be free from weathering, mechanical weakness and chemical decomposition, and of such character that it will resist disintegration and erosion by the action of air, water (fresh or seawater), wetting and drying, extremes of temperature and impact due to wave action or any other natural or climatic factors. It shall be free from dirt, soil, peat, loam, clay or any organic matter and all holes drilled for blasting purposes. It shall be capable of being handled and placed without fracture or damage. Quarried rock shall not contain visually observable or chemically detectable impurities or foreign matters in such quantities that these are damaging for the constructive application of the quarried stone or for the environment in which the quarried stone is to be placed. 
+Rock Grading 
+Rock shall be supplied in the grading classes as per CIRIA C683 (Rock Manual). 
+The Contractor shall provide “reference sets” of at least 10 rocks of each grading used to be located in a prominent position at the quarry and near site entrance. 
+In addition, the Contractor shall provide a sample of a minimum of 100 rocks of each grading for weighing and measurement of 3 diameter method checks. These may be incorporated in the works after measurement and weighing. 
+i) Measurement of 3 Diameters Method 
+ The 3 Diameters method shall be used where required to verify that rock placed in the works comply with the specifications. 
+Rocks shall be measured along 3 mutually perpendicular diameters and the nominal dimension DN determined by the following formula: 
+DN = k (D1 + D2 + D3) 
+Initially ‘k’ may be assumed to be 0.25, however, the results of the overall rock counts and weighing shall be used to define a more accurate value of k. 
+Measurements are taken in situ using a graduated stick and original recording sheets shall be kept for inspection by the Employer’s Engineer and the Employer’s Engineer reserves the right to be present at all measurements and or carryout independent parallel measurements. 
+The relation between DN and weight is given as follows 
+DN = (W/γ)1/3, where W is weight of the rock and γ is unit weight of the rock. 
+ii) Rock Shape Ratio 
+Rock in armour and under layer grades shall not contain more than 50% by weight of stone with a length to thickness (L/d) ratio greater than 2. Not more than 5% of the rocks shall have a length to thickness (L/d) ratio greater than 3, where the length, L, is defined as the greatest distance between two points on the stone and the thickness, d, as the minimum distance between two enclosing parallel planes through which the stone can just pass. Testing for shape ratio determination shall be undertaken on samples of at least 50 pieces taken at random from stones of mass W15 or greater. 
+iii) Frequency of Testing
+Testing shall be carried out regularly by the Contractor throughout the Contract to monitor the quality of rock on samples selected by the Employer’s Engineer. The Contractor shall carry out the testing promptly and shall report the results without delay. 
+The minimum frequency of testing and visual inspection required for each grade of rock shall be considered as per Table 3.41, CIRIA C683, Rock manual, 2007. 
+Rock Quality Requirements 
+The Contractor shall providfishinge detailed petrologic descriptions of all rock types and shall submit to the Employer’s Engineer for approval test results from the proposed source from an independent laboratory, demonstrating compliance with the following criteria. Testing shall be carried out throughout the contract to the following criteria, at the frequencies indicated in this Specification. The Class/Quality of the rock shall be considered for Excellent to Good as per Table-3.12-CIRIA C683- Rock Manual 2007. 
+	•	Density 
+The average saturated surface-dry relative density shall be greater than 2680 kg/m3 with 90% of the stones having a density of at least 2650 kg/m3 for armour and under layer, and not less than 2600 kg/m3 for other rock grades when sampled, tested and reported in compliance with CIRIA C683, The Rock manual, 2007. The Contractor shall be deemed to possess a copy of CIRIA C683, The Rock manual, 2007 and shall provide a copy on site for reference. 
+
+b) Water Absorption 
+The average water absorption shall be not more than 2% for armour rock and under layer, and not more than 3% for other rock grades when sampled, tested and reported in compliance with CIRIA C683, The Rock manual, 2007. If the water absorption is not greater than 0.5%, the armour stone shall be assumed to be resistant to freezing and thawing and to salt crystallization. 10 pieces of armour stone shall be tested. 
+
+(c) Resistance to Weathering 
+ Magnesium Sulphate Soundness for sampling testing and reporting shall be in accordance with CIRIA C683, The Rock manual, 2007. As per Table 3.12-CIRIA C683, the percentage loss of mass corresponding to Magnesium Soundness for the good category rock shall be less than 10%. If the water absorption is found to be less than 0.5%, the resistance to salt crystallization requirement is not required. Notwithstanding the requirement above, if the rock is basaltic, there shall be no occurrences of the Sonnen brand effect in the first 20 stones tested or not more than one occurrence in the first 40 stones tested and reported in compliance with CIRIA C683, The Rock manual, 2007. 
+If the rock exhibits layering or veins, samples shall be obtained from the individual layers by careful sawing or coring to carry out the Magnesium Sulphate Soundness test. Differences between the various layers shall be presented in test results. 
+Where layers are less than 5mm thick the Contractor shall propose alternative testing procedures to verify that layers will not contribute to early degradation of the rock. 
+
+(d)  Impact Resistance 
+The aggregate impact value shall be less than 30% for the standard test fraction when tested in accordance with IS 9377:1979. 
+
+(e) Resistance to wear 
+When required, the resistance to wear of armour stone (excluding fragments), determined with the Los Angeles test in accordance with CIRIA Rock manual 2007. The Los Angeles coefficient shall be less than 25. Where such value is greater than 25, specific approval from the Engineer shall be sought  
+
+(f) Block Integrity 
+Blocks shall be free from visually observable cracks, veins, fissures, shale layers, styolite seams, laminations, foliation planes, cleavage planes, unit contacts or other such flaws which could lead to breakage during loading, unloading or placing. The Drop Test Breakage Index shall be less than 5% when sampled, tested and reported in compliance with CIRIA C683, The Rock manual, 2007. 
+
+
+(g) Compressive strength and Resistance to Breakage 
+The resistance to breakage of armour stone (excluding fragments) shall be determined by testing compressive strength in accordance with EN 1926:1999, annex A. Mean Compressive strength of 9 specimens after striking out the lowest value from 10 specimens shall be greater than 80 MPa and compressive strength of no more than 2 specimens out of 10 shall be less than 60 MPa in accordance with EN 1926:2006 Annex-A. 
+
+(f) Impurities 
+Quarried rock shall not contain visually observable or chemically detectable impurities or foreign matter in such quantities that these are damaging for the construction application of the quarried stone or for the environment in which the quarried stone is to be placed. Quarried rock intended for use in a layer to be grouted with bitumen or cement shall not be covered with visually observable clay or other adhesive soil. 
+
+Transport and Handling 
+Quarried rock which will be placed in the Works in bulk shall be transported and handled in such a manner as to minimize segregation of the rock. 
+FORMATION OF BREAKWATERS 
+Preparatory Work 
+The Contractor shall submit to the Employer’s Engineer for his approval full details of his proposed method of forming the breakwaters to the profiles indicated on the Contractor’s construction drawings. The Contractor shall not commence any permanent works until the Employer’s Engineer has approved in writing his detailed method for forming the breakwaters. 
+The work method shall ensure that during the breakwater construction, the sequential placing of quarry run, filter, rock armour and concrete armour units, shall proceed as closely as is practical. Notwithstanding the foregoing, the Contractor shall work on clearly defined fronts in only one grade of materials as required at each front location. Placing of breakwater materials shall be one continuous operation, so that none of the underlying layers are left unprotected over a distance of more than 30 m. The Contractor shall take cross sections at intervals not greater than 10 m to show the finished surface levels of each stage of the breakwater construction. The Contractor shall give the Employer’s Engineer 24 hours’ notice of his intention to carry out such work. 
+The Contractor shall prepare survey drawing showing the actual as built cross sections on which he should indicate the theoretical cross section profile as indicated in his construction drawings and shall present them to the Employer’s Engineer for his approval. No subsequent stage of construction shall commence at any location until the corresponding cross section drawing has been approved in writing by the Employer’s Engineer. 
+The Contractor shall take precautions against damage during construction of the breakwater due to inclement weather conditions. Any damage caused to the breakwaters during such periods shall be rectified by the Contractor at no extra cost to the Employer and the breakwater shall be restored to the design profiles. 
+Setting Out – Centreline checking 
+The Contractor shall establish working benchmarks related to the Reference Benchmark in the area soon after taking possession of the site. In order to facilitate the setting out of the works, the centre line of the breakwater must be accurately established by the Contractor and approved by the Employer’s Engineer. It must then be accurately referenced in a manner satisfactory to the Employer’s Engineer. A schedule of reference dimensions shall be prepared and supplied by the Contractor to the Employer’s Engineer. These marks shall be maintained until the works reach finished formation level and are accepted by the Employer’s Engineer. 
+On construction reaching the formation level stage, the centre line shall again be set out by the Contractor and when approved by the Employer’s Engineer, shall be accurately referenced in a manner satisfactory to the Employer’s Engineer. 
+No reference mark shall be moved or withdrawn without the approval of the Employer’s Engineer and no work shall be commenced until the centre line has been referenced. 
+ Inspection and Tolerances 
+The Contractor shall provide the following for the inspection and control of the 
+breakwater construction: 
+	•	A system of shore-based survey control stations 
+	•	An identification and position control system which will define the position of all 
+	•	floating craft during the survey, construction, or inspection of the breakwaters 	
+	•	Inspection divers for the control and checking of underground work 
+	•	Underwater video filming of the completed works, once in every month 
+	•	The Contractor shall notify the Employer’s Engineer each day in writing of his proposed 
+	•	breakwater construction programme for the next day. The notification shall be submitted 
+	•	on a standard pro-forma approved by the Employer’s Engineer and which shall contain at 
+	•	least the following information: 
+	•	Type of work to be executed
+	•	Location of each type of work 
+	•	Estimated volume of each type of material to be placed 
+	•	Other activities such as surveys or testing of materials 
+Inspection 
+The Contractor and the Employer’s Engineer shall jointly undertake inspections for rock quality, grading and shape at the quarry location. The influence of loading, transporting and unloading the rock on the quality requirements shall be assessed by sampling and testing after delivery to the Site, and suitable adjustments made to quality criteria at the quarry to ensure that rock meets the specified requirements after delivery to Site. 
+Construction of rock layers in the Breakwater 
+Placing of materials shall be in one continuous operation. No underlying layer shall be left unprotected over a distance greater than agreed or for duration greater than agreed upon with the Employer’s Engineer’s Representative. If construction activity has to be interrupted, temporary protection of the underlying layers shall be provided with the same material as to be used for final construction. 
+Filter Layers 
+The rock shall be within the specified weight range and shall be deposited carefully in filter layers to minimize disturbance to the seabed and any previously placed rock.  
+Filter layers shall be constructed preferably with waterborne equipment particularly where the depth is more than (-) 4m CD.  The technique of placing shall cause minimum segregation of the rock grading and also ensure that the specified layer widths and thickness are achieved within the specified tolerance.  
+
+Core Mound 
+The core mound shall be constructed using quarry run, placed in positions and to the levels and slopes as per drawings or as directed by the Employer’s Engineer’s Representative. The possible settlement estimated to occur in the area concerned during construction and ultimately shall also be taken into account while forming the core. The core material shall be within the specified weight range. 
+Quarry run shall be placed in such a way as to ensure that the larger rock fragments are evenly distributed and smaller fragments serve to fill the spaces between them.  
+Waterborne equipment shall, preferably, be used for constructing core layer. However it must be used where the depth is more than (-) 4m CD. The technique such as end tipping for placing of quarry run above (-) 4m CD may be used provided it causes minimum segregation of the rock grading and also ensure that the specified layer widths and thickness are achieved within the specified tolerance. 
+Tipping may cause excess of fines to settle at the top of the tipped face. This fine material and additional fine materials shall be removed by sluicing or jetting before armour layer is placed. Core shall not be constructed ahead of the armour layer by more than 30 m. 
+Armour Layers 
+Armour layers shall be placed to the levels and thickness as directed by the Employer’s Engineer’s Representative, based upon the levels to which the core is constructed, and to the thickness shown on the drawings.  
+Rock in armour, upper and lower layers shall be carefully formed by placing rocks individually by crane, derrick or other similar equipment, after inspection to ensure that it is within the specified weight range, as approved by the Employer’s Engineer’s Representative. The whole thickness of armour layer shall be placed in one pass. 
+Rock shall be placed randomly so that no pattern or smooth upper surface is formed. While it is in contact with the adjacent rocks and underlying rock layers or core, rocks shall not obtain their stability by frictional resistance with the under lying rock prior to placing further stones. 
+Fine materials on the surface of already placed stones shall be removed to ensure sound bearing and interlocking between stones. The Contractor shall make due allowance for the removal of such fine materials, including sand. 
+Disturbance to the layers formed 
+Rock displaced by wave action or any other reason shall be made good before placing the next layer. However, in respect of core materials, if authorized by the Employer’s Engineer, the core may be built up to the dimensions shown in the drawings with the material specified for the layer next overlying the core in accordance with the method for this overlying layer. 
+The Contractor shall also take reasonable care to avoid disturbing the previously laid layer and dropping of stones from top. 
+Temporary roads / tracks / Layby (Platform for turn of Vehicles) 
+If the construction methodology requires or the Contractor/Employer’s Engineer desires temporary road or track may be created within or on the structure with free draining material. If required one or more turning point may also be provided at the mid length of each Breakwater for turning the trucks/tippers carrying the core materials for easy negotiation in the Breakwater. 
+Tolerances 
+Vertical placing tolerances for rock armour shall be in accordance with Table 3.0-1 with profiles taken at 10m intervals along the length of the structure. 
+Table 1.0-1: Vertical Placing Tolerances 
+Dn50 is the nominal stone diameter for the median armour size for the grading and shall be calculated as the cube root of the volume of the stone. The volume shall be calculated by dividing the mass of the median stone (W50) by the saturated dry density of the stone. 
+Volume,  V = (Dn50)3
+Weight,  W = V X Density       
+Notwithstanding the above tolerances, the following criteria shall apply to the armour layer:               
+	•	The tolerances on two consecutive mean actual profiles shall not be negative.
+Notwithstanding any accumulation of positive tolerances on underlying layers, the thickness of the layer shall not be less than 80% of the nominal thickness when calculated using mean actual profiles. 
+Enabling works 
+Contractor shall be responsible for the design and construction of work Fishing harbour, loading/unloading facilities, storage and casting yards, temporary roads, dredging and any other enabling works required to complete the works. 
+ Wave Wall 
+Where the drawings indicate that the rock structure is to have wave wall of concrete structure cast upon it, the interstices between the stones directly under the concrete structure shall be filled with selected core material or grout to form an effective seal against leakage of concrete, leaving a natural key projection of not less than 0.25 x Dn50 between the irregular surface of the secondary armour stone and the concrete structure. 
+If settlement has taken place on the surface on which the concrete structure is to be cast, the thickness of concrete placed shall be increased to ensure that the correct surface levels of the concrete structure are attained. The use of a layer of small stones to make up to correct levels will not be permitted. 
+Rigid Pavement 
+Concrete road and wave wall shall be constructed on top of the layer as shown in the Drawings and to comply with the specification of concrete work. Proper care shall be taken to ensure that the concrete filling in the moulds is done properly to achieve the desired finish and compaction. 
+The wave wall shall include substantial keyed control joints to allow for breakwater settlement. 
+	•	SURVEYS TO BE CARRIED OUT
+	The following surveys are to be carried out at various stages 
+	•	Pre-work Survey
+The Contractor, with the Engineer's Representative in attendance, shall survey the following areas prior to the commencement of the Works:
+	•	approach channel;
+	•	reclamation area (seaward and landward extent};
+	•	the sea disposal area.
+On completion of the pre-work surveys, the Contractor shall prepare, at least one week before commencing work, survey charts and cross-sections showing the full results of the surveys. On completion and agreement of the contents of the drawings, the Contractor and the Engineer shall both sign the drawings, which shall then acquire the status of "Pre-work Survey Drawings".
+	•	Post-dredge area Survey
+The Contractor shall carry out post-dredge surveys of completed areas of dredging and submit the results of the surveys to the Engineer for approval within one week of the survey taking place. On completion and agreement of the contents of the drawings, the Contractor and the Engineer shall both sign the drawings, which shall then acquire the status of "Post-dredge Survey Drawings".
+	•	Post-disposal area Survey
+The Contractor shall carry out a post-disposal survey of the Disposal Areas upon the completion of dredging works. The results of the survey will be used for approval of the final condition of the dredged material disposal area. On completion and agreement of the contents of the drawings, the Contractor and the Engineer shall both sign the drawings, which shall then acquire the status of "Post-disposal area Survey Drawings".
+	•	Post-reclamation area survey
+The Contractor shall carry out a post-reclamation topographic survey of the land fill area. The results of the survey will be used for approval of the final condition of the land fill area(s). On completion and agreement of the contents of the drawings, the Contractor and the Engineer shall both sign the drawings, which shall then acquire the status of "Post-Reclamation Area Survey Drawings".
+	•	DREDGING
+	•	General
+The provisions of this section of the Specifications shall apply to the requirements for the Dredging of material and Reclamation in port area and the Aids to Navigation. The Dredging of material shall be carried out to the defined dredged depths as shown in the drawings. The levels as shown on the drawings are with respect to CD.
+	•	Dredging of Material
+Works shall be carried out as per Employer’s Requirements and as shown in the drawings.
+Dredging Materials in the instant Project comprises of all types of material; soil or rock, which has to be removed by the contractor to the lines and levels as indicated in the tender drawings. Contractor is also required to remove large size objects and boulders, if found, apart from removing any other sunken objects in the navigational areas, without any price implication to the Employer. 
+Dredged material shall be disposed as per the directions of Employer. 
+	•	Navigation
+The Contractor shall at all times observe and comply with all laws and regulations that are relating to navigation, manoeuvring, and anchoring of floating craft used in the works.
+The contractor shall follow instructions in this regard given by the Employer. The Contractor shall carry out his work strictly in a manner, which shall not obstruct or endanger the normal use of waterways, anchorages, whether in the possession of the Employer or any other persons. 
+	•	Tolerances
+Tolerances shall be maintained as per the standards to ensure that they do not endanger the stability of the port structures and not for making any additional payment to the contractor, who shall be paid fixed price as per the tender conditions.
+	•	Siltation
+The Contractor shall remove any siltation or sloughing within the minimum design profiles that occur during the course of the work before final acceptance, all at his cost.
+Should the Contractor wish to perform over-Dredging of material to allow for extra sedimentation arising from his own operations, he shall request the approval of the Employer for such over-Dredging of material. Approval will not be given unless the Contractor can prove, to the full satisfaction of the Employer, that the over Dredging of material in question will not endanger the stability of port structures or the stability of the dredged slopes. 
+The Contractor shall not be entitled to payment for the extra material thus dredged.
+	•	Removal of Debris and Sunken Plant
+The Contractor shall forthwith and with dispatch raise and remove any equipment (floating or otherwise) belonging to him or to any sub-contractor or to any person employed by him, that may be sunk or stranded or gone adrift in the course of the works or otherwise, deal with the same as directed by the statutory authority. Until the same shall be raised, removed or recovered the Contractor shall set such buoys and display at night such lights and does all such things for the safety of navigation as required by the Employer or authorities having jurisdiction.
+In the event of the Contractor not carrying out the obligation imposed upon him by this clause or in the event of the authorities having jurisdiction electing to buoy and light such sunken equipment, raise and remove or otherwise recover the same (without prejudice to the first mentioned event to the right of the Employer to hold the Contractor liable) all costs incurred in connection therewith will be recovered from the Contractor’s dues.
+The fact that the equipment sunk, stranded or gone adrift is insured or has been declared an actual or constructive loss shall not absolve the Contractor from his obligation under this clause.
+The Contractor shall give to both the Employer, and the concerned authorities having jurisdiction, immediate notice of the occurrence of any such sinking, stranding or going adrift as is referred to in this clause.
+	•	Final Acceptance
+The Contractor shall notify the Employer in writing when he considers the Contractual works to be complete. Within fifteen days of receipt of such notice, the Contractor will survey the areas as witnessed by the Employer, and provided such survey confirms the Dredging works to be complete and stabilised in all respects, the Employer will issue a Taking-over Certificate as per the Contract after acceptance of post Dredging survey and ther provisions of the Contract. 
+6.0 TECHNICAL SPECIFICATION – MARINE STRUCTURES AND ALLIED FACILITIES
+Construction Works:
+This section deals with the requirements of materials for use in construction of the Marine structures and other allied facilities with regard to quality, testing, approval and storage of materials, before they are incorporated in the work. 
+	•	
+Standard of Quality 
+All materials used in the construction work shall be of good quality of their respective kinds obtainable indigenously in each case and shall be procured from manufacturers of repute in order to ensure uniformity of quality and assurance of timely supply. Any material not fully specified herein and for which there is no relevant Indian Standard, shall be the best of their kind and to the approval of the Engineer-In-charge/ Engineer-In-charge’s Representative.  
+Approval and Tests 
+All materials to be used in construction shall be subject to approval of the Engineer-In-charge. The Contractor shall apply sufficiently in advance with samples of the materials including the supporting test results from the approved laboratory and other documentary evidence from the manufacturer wherever applicable indicating the types of materials and their respective sources. The Engineer-In-charge Representative also reserves the right to conduct additional tests in the same or other reputed laboratories at his discretion. The cost of all such tests shall be borne by the Contractor. The delivery of materials at site shall commence only after the approval of the quality, grading and sources of the materials by the Engineer-In-charge.                                                      
+The quality of all materials once approved shall be maintained throughout the period of construction and periodical tests shall be carried out to ensure that it is maintained. Such routine tests shall be listed under the different materials and/or as the Engineer-In-charge / Engineer-In-charge’s Representative may order from time to time.                                    
+Where a particular "Brand" or "Make" of material is specified in the Schedule of Items or Technical Specifications, such "Brand" or "Make" of material alone shall be used on the work. Should it become necessary for any reason (such as non-availability/ceased to be produced), to use any material other than the specified "Brand" or "Make", the Contractor shall submit sample of the same to the Engineer-In-charge for approval together with test certificates and other documents necessary for examining and giving approval thereof. 
+Codes 
+Unless otherwise specified in the contract the relevant provisions of the appropriate Bureau of Indian Standards shall apply for all materials and workmanship. 
+The years of publication against various standards referred to in this specification, correspond to the latest standards as on date of preparation of this specification. During the use of this specification in future, the latest publication as on date shall be referred to. Where Standards are not yet published by the BIS or IRC, relevant British Standards or Standards of the American Society for Testing Materials (ASTM) or other International Standards shall apply. In case of any conflict in meaning between these specifications and those of BIS or IRC, or British/ASTM Standards the provisions of these specifications shall prevail.                         
+Use of Permanent Materials for Temporary Works 
+Materials to be incorporated in permanent works shall not be used for temporary work unless otherwise approved by the Engineer-In-charge’s Representative. Granting such permission shall not prejudice the right of the Engineer-In-charge to reject materials so used, which have become unfit to use in permanent works.  
+Rejection of Materials 
+Any material brought to site which, in the opinion of the Engineer-In-charge is damaged, contaminated, deteriorated or does not comply with the requirement of this specification, shall be rejected. 
+If routine tests or random site tests show that any of the materials brought to site do not comply in any way with the requirements of this specification or of B.I.S. Codes as applicable, then that material shall be rejected. 
+The Contractor at his own cost shall remove from site any and all such rejected materials within the time specified by the Engineer-In-charge. 
+ Materials for Concrete 
+	•	Aggregates 
+Aggregates shall comply with the requirements of IS: 383 "Specification for Coarse and Fine Aggregates for Concrete".    
+They shall be hard, strong, dense, durable, clean and free from veins and adherent coating, vegetable matter and other deleterious substances; and shall be obtained from approved sources. Aggregates shall not contain any harmful material such as pyrites, coal, lignite, shale or similar laminated material, clay, alkali, soft fragments, seashells and organic impurities in such quantity as to affect the strength or quality or durability of concrete. Aggregates that are chemically reactive with alkalis of cement or might cause corrosion of reinforcement shall not be used. Aggregates that are not sufficiently clean shall be washed in clean fresh water to the satisfaction of the Engineer-In-charge. 
+	•	Testing 
+All aggregates shall be subject to inspection and testing. The Contractor shall submit samples of various aggregates from each source of supply for test and approval. While submitting the samples, he may indicate the source of supply, type of aggregate availability and all relevant information. Only the aggregates from the source of supply which pass QC test shall be used in the work. 
+Sampling and testing shall be carried out in accordance with IS 2386 (Part I to VIII) "Methods of Test for Aggregates for concrete".
+	•	Grading 
+The Contractor shall ensure that the full range of aggregate used for making concrete is graded in such a way as to ensure a dense workable mix. Grading shall be as per the approved Design mix. The delivery of aggregates will commence only when the Engineer-In-charge has approved the samples, and the quality and grade shall be maintained consistently and equal to the approved sample. Grading as per the approved design mix shall be adopted for the construction works and periodic tests shall be carried out to ensure that it is maintained. 
+	•	Size and grading of fine aggregates 
+The grading of the fine aggregates shall conform to IS: 383 and shall be within the limits of Grading Zone-I and II. 
+	•	Size and grading of coarse aggregates 
+The nominal maximum size of the aggregates for each mark of concrete or for each type of work shall depend upon the description of the particular item in the Schedule of Items and/or according to relevant clauses of IS: 456-2000 and as specified in design mix. The aggregates shall be well graded, and the grading shall conform to relevant requirements of IS: 383 depending upon the maximum nominal size as specified or as required. 
+	•	Fine aggregate for mortar and grout 
+The grading of fine aggregate for mortar and grout shall be within the limits of grading zone III and IV as defined in IS: 383 
+	•	Storage & Stacking 
+Aggregates shall be stored at the site on clean, well-drained areas, which are not liable for flooding. Care shall be taken in the storage to avoid the intrusion of any foreign materials into the aggregates. Where various types of aggregates are stored close to each other, they shall be separated by a wall or plate. In case of stockpiling, care shall be taken to avoid forming pyramids resulting in segregation of different sized materials.  
+	•	Coarse Aggregate Types 
+The type of coarse aggregate shall preferably be natural aggregates, stone metal and shall be approved by Engineer-In-charge. Unless otherwise specified, stone metal shall be used as coarse aggregate. 
+	•	Stone metal 
+It shall be crushed or broken from hard stone obtained from approved quarries of igneous or metamorphic origin. The stone metals shall be hard, strong, dense, durable and angular in shape.    It shall be free from soft, friable, thin, flat, elongated or laminated and flaky pieces and free from dirt, clay lumps, and other deleterious materials like coal, lignite’s, silt, soft fragments, and other foreign materials which may affect adversely the strength & durability of concrete. The total amount of deleterious/ foreign materials shall not exceed 5% by weight according to relevant clause of IS 383. If the contamination is found to exceed the limit, the stone metal shall be screened and washed before use.  
+	•	Fine Aggregates 
+Natural river sand or Manufactured Sand shall only be used for Fine Aggregates. It shall not contain harmful organic impurities in such form or quantities as to affect adversely the strength and durability of concrete. Sand for reinforced concrete shall not contain any acidic or other impurities which are likely to attack steel reinforcement. The percentage of all deleterious materials including silt, clay etc., shall not exceed 5% by weight and if exceeded sand shall be screened or washed before use to the satisfaction of Engineer-In-charge. 
+	•	Cement 
+The cement to be used shall be Blast furnace slag cement conforming to IS: 455. The minimum cement content and maximum water cement ratio shall conform to Table 5 of IS 456. Before ordering or bringing cement to site, the contractor shall get the approval of the Engineer-In-charge. Cement shall be procured from reputed manufacturers like Ultratech, Birla, Coromandel, Malabar Cement, Ambuja or equivalent. 
+	•	Testing of samples 
+The contractor shall supply a copy of the manufacturer's test certificate for each consignment of cement, brought by him to the Engineer-In-charge /Engineer-In-charge’s Representative. The Contractor shall conduct necessary tests as per relevant BIS Codes as soon as each consignment is received at site to ensure the strength of cement and the results shall be furnished to the Engineer-In-charge/Engineer-In-charge’s Representative. In case the required strength is not obtained, the Engineer-In-charge/Engineer-In-charge’s Representative may reject any cement notwithstanding the manufacturers’ certificate, or any other suitable action as deemed fit. The sampling of cement for testing shall be according to IS: 3535. All tests shall be in accordance with the relevant clauses of IS 4031 (Part-I to Part-15) & IS: 4032. 
+	•	Contractor's Responsibility 
+From the time a consignment of cement is delivered at site and tested and approved by the Engineer-In-charge until such time as the cement is used on the works, the Contractor shall be responsible for keeping the same in sound and acceptable condition and at his expense and risk. Any cement which deteriorates while in the Contractor's custody is liable for rejection as unsuitable and it shall be removed from the site at the cost of contractor within two days of ordering such removal. No cement shall be stored for more than 3 months. 
+
+
+	•	Stock of Cement 
+In order to ensure due progress, the Contractor shall at all times maintain on the site at least such stock of cement, which he considers necessary and prudent.  Any delay in completing the project for want of cement shall be the responsibility of the contractor.  
+	•	Storage of Cement 
+The storage of Cement shall meet the requirement of IS 4082. 
+The cement shall be stored in such a manner as to permit easy access for proper inspection and in a suitable watertight, well-ventilated building to protect it from dampness caused by an increase of moisture from any source.  Different Grades / types of cement shall be stored separately. Cement bags shall be stacked at least 15 to 20 cm clear of the floor leaving a space of 60 cm around the exterior walls. The cement shall not be stacked more than 10 bags high. 
+Each consignment of cement shall be stacked separately to permit easy access for inspection. Cement shall be issued from stores in the order in which it was received on site, commencing with the consignments which have been in the store for the longest period of time. The age of cement at the delivery time shall not be more than 2 months and shall be used within 3 months, thereafter. 
+	•	Water 
+Water used for mixing concrete and mortar and for curing shall be clean and free from injurious amounts of oil, acid, alkali, salts, sugar, organic materials or other substances that may be deleterious to concrete or steel. The pH value of water shall be not less than 6. Tests on water samples shall be carried out in accordance with IS: 3025 and shall meet the requirements mentioned in clause 5.4 of I S: 456-2000. Water shall be obtained from an approved source. 
+Where it is obtained from a source other than a supply main, it shall be tested to establish its suitability. Water for construction purposes shall be stored in proper storage tanks to prevent any organic impurities getting mixed up with it. The Contractor shall make adequate arrangements to always have sufficient water at the site.
+Seawater shall not be used for concrete or any related works including curing.  
+	•	Sand for filling 
+Sand for filling shall meet the requirements of IS: 383 and shall be natural sand or Manufactured Sand and shall be hard, strong and free from any organic and deleterious materials. Any sand proposed shall be used only after its approval by the Engineer-In-charge. Sand obtained from seashores, creeks or riverbank affected by tides shall not be used for filling. The grading shall not be below Gr. Zone III as per IS 383. 
+	•	Admixture for Concrete 
+Admixtures if approved by the Engineer-In-charge/ Engineer-In-charge’s Representative shall be used in required quantities as per manufacturer’s specification to get the desired workability and strength. The approved admixture to be incorporated in the work shall conform to relevant BS/BIS code and shall be of sulphonate naphthalene formaldehyde condensate and shall be compatible with the cement to be used in the work and shall produce workable concrete without loss of slump until placed in position thus helping in placing and compaction of concrete. The proportion of admixture to be used in concrete shall be determined by tests. Such tests shall be conducted as per IS 9103 or IS 2645, in any approved laboratory at Contractor's cost and test results submitted to the Engineer-In-charge at any stage of the work. Other types of admixtures shall not be used without prior approval.  
+	•	Interval of Routine Test 
+The routine tests of materials, delivered at site, shall be at the following intervals: 
+Aggregates - Fortnightly or for every 200 m3 for each aggregate whichever is earlier and in other respects generally as per IS: 2386 (Part 1 to 8) -1963. 
+Cement - Weekly or for each consignment, within 4 days of delivery and in other respects generally as per IS: 4031-1988. 
+Water - Monthly for each source of supplies and in other respects generally as perIS: 456-2000.
+Reinforcement - For each consignment within 4 days of delivery in accordance with IS: 1786-1985, IS: 1599-1985 and IS: 1608-1972. 
+Steel 
+	•	Reinforcement 
+Reinforcement bars for concrete shall be round steel bars of the following types: 
+a) High strength deformed steel TMT bars (Fe500D) conforming to IS: 1786 for Concrete Reinforcement. 
+b) Reinforcement fabrics conforming to IS: 1566 "Hard Drawn Steel Wire Fabric for Concrete Reinforcement" 
+All reinforcement bars shall be of uniform cross-sectional area and be free from loose mill scales, dust, loose rust, coats of paint, oil or other coatings which may destroy or reduce the bond. The reinforcement bars shall be product of reputed companies. Steel shall be procured only from primary steel producers / Integrated Steel Plants from TATA/SAIL/RINL/JSW/ JSPL, SHYAM STEEL or equivalent using iron ore as the basic raw material and having in-house iron making facilities followed by production of liquid steel and crude steel with in-house rolling, adopting BF-BOF route or DRI-EAF technology as per Ministry of Steel guidelines. 
+No Re-rolled material/secondary steel will be accepted or allowed for any structural works. Every lot of supply shall require to be accompanied by manufacture’s test certificate for establishing correlation with TMT bars supplied. Every lot shall be tested in the independent laboratory to assess whether the properties are conforming to IS: 1786-2008 as directed by the Engineer-In-charge.
+	•	Testing 
+The Contractor shall furnish a copy of the manufacturer's test certificate for each consignment of reinforcement bars brought to site and conduct necessary tests as per IS Codes and the results furnished to the Engineer-In-charge/ Engineer-In-charge’s Representative. In case the strength requirements are not met , the Engineer-In-charge shall take appropriate action. 
+All tests shall be done as per relevant clauses of IS: 1786, IS: 1566, IS: 280, IS: 2062, IS: 1161, IS: 2614, IS: 3063, IS: 1239 (Part 1 and 2) and IS: 1367. 
+	•	Tests after Delivery 
+The Engineer-In-charge may order any additional tests on the structural / reinforcement steel brought by the contractor. The cost of such tests should be included in the rates and prices. The Engineer-In-charge may accept / reject the same based on such test results. 
+	•	Binding Wire 
+Binding wire for reinforcement shall be black annealed steel wires 20 BWG conforming to IS: 280 "Specification for Mild Steel Wire".
+	•	Light Structural Work and Inserts 
+Steel for preparation of inserts and embedment into concrete shall conform to IS: 2062- Steel for general structural purposes- Specification. 
+	•	Foundation Bolts 
+Bolts to be embedded in concrete shall conform to IS: 5624 "Specification for Foundation Bolts". Material for bolts, shall, be of steel conforming to IS: 2062. 
+Nuts and locknuts shall conform to IS: 1363 (Part 1 to 3) "Specification for Black Hexagon Bolts, Nuts and Lock Nuts (Diameter 6-39 mm) and Black Hexagon Screws "Specification for Hexagon Bolts and Nuts (M-42 to M-150)". 
+Plain washers shall conform to IS: 2016 "Specification for Plain Washers and spring washers shall conform to IS: 3063 "Spring Washers for Bolts, Nuts & Screws". 
+	•	Threaded Fasteners 
+Bolts and nuts for fastening shall conform to IS: 1367 (Part 1) "Technical Supply Conditions for Threaded Fasteners". 
+	•	 Miscellaneous Steel Materials 
+Miscellaneous steel materials shall be conforming to the following IS specifications. 
+Expanded Metal Steel Sheets for General purposes 				IS:412 
+Specification for mild steel and medium tensile steel bars and 			IS:432 
+hard drawn steel wire for concrete reinforcement (grade I)  			(for mild steel bars of anchor bolts, rungs, metal inserts, grating etc.) 			Hexagonal head bolts, screws & nuts of product grade C 			IS:1363 
+Cold formed light gauge structural steel sections 				IS:811 
+Technical supply conditions for threaded steel fasteners 				IS:1367 
+Plain washers									IS:2016 
+Steel wire ropes for general engineering purposes 				IS:2266 
+Thimbles for wire ropes 								IS:2315 
+Bulldog grips 									IS:2361 
+Mild Steel Tubes, tubulars and other wrought steel fillings 			IS:1239 	(for Handrail tubular sections). 
+Drop forged sockets for wire ropes for general engineering 			IS:2485 purposes 
+Steel chequered plates 								IS:3502 
+Hexagonal bolts and nuts (M42 to M150) 					IS:3138
+	•	Anchor Bolts 
+Material for Anchor Bolts such as MS bars, washers, nuts, pipe sleeves and plates etc. shall be as per the relevant IS Codes mentioned above. 
+	•	Storage 
+The storage of all materials at the site of work shall be at the contractor’s expense and risk and shall be done as per the requirements given in IS: 4082. The Contractor shall maintain the proper records of receipt/consumption. The records shall always be accessible to the Engineer-In-charge for verification. 
+The reinforcement bars, structural steel sections and other miscellaneous steel material etc., shall be stored in such a way as to avoid and prevent deterioration, corrosion, bending, twisting and warping. 
+	•	Rejection 
+The Engineer-In-charge may reject at his discretion any material, notwithstanding the manufacturer’s certificate, failing to meet the requirements of relevant IS Codes for testing materials. He may similarly reject any material, which has deteriorated or corroded etc., due to improper storage, handling or transport. Defective materials shall not be used and has to be removed from the site by the Contractor at his own expense. 
+	•	PVC pipes 
+PVC Pipes shall conform to the requirements of IS: 4985. 
+	•	Polysulphide Sealants 
+All Polysulphide Sealants shall conform to IS: 12118 and be of approved make. Test conditions and requirements shall be as given in the above-mentioned IS code. 
+	•	Paint 
+All paints shall be of approved quality and shall be obtained from the suppliers, authorized by the Manufacturers. Paint shall conform to appropriate Indian standards for ready mixed paints where applicable. 
+a) Primer coating of any Structural Steel shall conform to IS 2074 
+b) All paints shall be tested as per requirements of IS 101 
+All exposed Steel Structures shall be galvanized. Paintings shall be done for components such as Lane marking, Bollard’s painting, Numbering on jetty. 
+	•	Materials not specified 
+Any materials not fully specified in this specification and which may be offered for use in the works shall be subject to approval of Engineer-In-charge without which it shall not be used anywhere in the construction works.
+
+
+

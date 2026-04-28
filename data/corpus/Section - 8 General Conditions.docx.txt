@@ -1,0 +1,681 @@
+
+
+
+
+
+
+
+VOLUME-III
+SECTION - 8
+GENERAL CONDITIONS
+
+TABLE OF CONTENTS
+
+GENERAL CONDITIONS OF CONTRACT
+A. GENERAL
+1.1
+DEFINITIONS
+5
+1.2
+INTERPRETATION
+8
+1.3
+LANGUAGE
+9
+1.4
+PRIORITY OF DOCUMENTS
+10
+1.5
+ENGINEER -IN-CHARGE'S DECISIONS:
+10
+2
+DELEGATION
+12
+3
+CONTRACT AGREEMENT
+12
+4
+COMMUNICATIONS
+13
+5
+CONTRACTORS OBLIGATIONS
+13
+6
+SUB-CONTRACTING
+14
+7
+OTHER CONTRACTORS
+14
+8
+CONTRACTORS USE OF EMPLOYER DOCUMENTS
+15
+9
+PERSONNEL
+16
+10
+CONTRACTOR'S RISKS
+17
+11
+INSURANCE
+19
+12
+RIGHT OF ACCESS TO THE SITE AND POSSESSION OF THE SITE
+19
+13
+SITE INSPECTIONS
+20
+14
+CONTRACTOR TO CONSTRUCT THE WORKS
+20
+15
+TEMPORARY DIVERSIONS (WORKS ON HIGHWAYS)
+21
+16
+RAMPS
+21
+17
+MONSOON DAMAGES
+21
+18
+WORKS TO BE COMPLETED BY THE INTENDED COMPLETION DATE.
+22
+19
+SAFETY
+22
+20
+DISCOVERIES
+22
+21
+ACCESS TO THE SITE
+22
+22
+INSTRUCTIONS
+22
+23
+SETTLEMENT OF DISPUTES
+22
+B. TIME FOR COMPLETION
+25
+PROGRAMME
+24
+26
+CONSTRUCTION PROGRAMME
+26
+27
+SPEED OF WORK
+27
+28
+SUSPENSION OF WORKS BY THE CONTRACTOR
+27
+29
+EXTENSION OF THE INTENDED COMPLETION DATE
+28
+30
+DELAYS ORDERED BY THE EMPLOYER/ EMPLOYER’S REPRESENTATIVE
+28
+31
+EARLY WARNING
+28
+32
+MANAGEMENT MEETINGS
+28
+C. QUALITY CONTROL
+33
+IDENTIFYING DEFECTS
+28
+34
+TESTS
+29
+35
+CORRECTION OF DEFECTS:
+29
+36
+UNCORRECTED DEFECTS:
+29
+37
+QUALITY ASSURANCE & QUALITY CONTROL
+30
+D. COST CONTROL
+38
+CONTRACT PRICE – SCHEDULE OF PAYMENT. BILL OF QUANTITIES
+31
+39
+CHANGES IN THE QUANTITIES:
+32
+40
+EXTRA ITEMS
+32
+41
+CASH FLOW FORECASTS:
+32
+42
+PAYMENT CERTIFICATES
+33
+43
+PAYMENT
+33
+44
+CERTIFICATE OF COMPLETION OF WORKS:
+35
+45
+TAXES INCLUDED IN THE BID
+35
+46
+PRICE ADJUSTMENT
+36
+47
+RETENTION
+37
+48
+LIQUIDATED DAMAGES:
+37
+49
+MOBILIZATION ADVANCE: DELETED
+38
+50
+SECURITIES
+38
+51
+COST OF REPAIRS:
+39
+E. FINISHING THE CONTRACT
+52
+COMPLETION
+39
+53
+TAKING OVER
+39
+54
+FINAL ACCOUNT
+40
+55
+TERMINATION
+41
+56
+PAYMENT UPON TERMINATION
+42
+57
+PROPERTY
+42
+58
+RELEASE FROM PERFORMANCE
+42
+
+
+GENERAL
+Definitions
+Definitions
+In these General Conditions of Contract, the following words and expressions, unless repugnant to the context or meaning thereof, shall have the meanings assigned to them respectively hereunder. Words indicating persons or parties include corporations and other legal entities, except where the context require otherwise.
+“Applicable Laws” means all laws, brought into force and effect by Government of India or the State Government of Andhra Pradesh, or any legally constituted public authority, including rules, regulations ordinances and notifications made there under, and judgments, decrees, injunctions, writs and orders of any court of record, applicable to this Agreement and the exercise, performance and discharge of the respective rights and obligations of the Parties hereunder, as may be in force and effect during the subsistence of this Agreement;
+“Contractor”” mean the firms/companies /individuals /Joint Ventures who have preferred their Nomination.
+“Commencement Date” will be the date of work order / execution of the Contract Agreement.
+“Contract” means collectively the Contract Agreement, General Conditions of Contract, the Special Conditions of Contract, the Employer’s Requirements, preamble and the other documents (if any) which are listed in the Contract Agreement.
+“Contract Agreement” means the Contract Agreement including any annexed memoranda thereto.
+“Contract Price”/ “Contract Amount” means the agreed amount stated in the Contract Agreement in accordance with the willingness of the Contractor.
+“Contractor” means the person named as Contractor in the Contract Agreement and his successors/ assigns.
+“Contractor’s Documents” means the calculations, computer programs and other software, drawings, manuals, photographs, models and other documents of a technical nature supplied by the Contractor under the Contract;
+“Contractor’s Equipment” means all apparatus, machinery, vehicles and other things required for the execution and completion of the Works and the remedying of any defects. However, Contractor’s Equipment excludes Temporary Works, Employer’s equipment (if any), Plant, Materials and any other things intended to form or forming part of the Permanent Works.
+“Contractor’s Personnel” means the Contractors Representative and all personnel whom the Contractor employs on the Site, who may include the staff, labour and other employees of the Contractor and any other personnel assisting the Contractor in the execution of the Works.
+“Contractor’s Representative” means the person named by the Contractor in the Contract or appointed from time to time by the Contractor
+“Cost” means all expenditure reasonably incurred (or to be incurred) by the Contractor, whether on or off the Site, including overhead and similar charges, but does not include profit.
+“Country” means India
+“Day” means a calendar day and “Year” means a calendar year of 365 days.
+“Defects Liability Period” means the period for notifying defects in the Works or a Section (as the case may be). The Defects Liability Period shall be 24 months calculated from the date on which the Works are completed as certified.
+“Employer” means the Government of Andhra Pradesh represented by the Superintending Engineer, APMB, Kakinada, Andhra Pradesh as designated by the Government of Andhra Pradesh for the purpose of the Contract, and his successors/ assignees.
+“Employer’s Equipment” means the apparatus, machinery and vehicles (if any) made available by the Employer for the use of the Contractor in the execution of the Works, as stated in the Employer’s Requirements; but does not include Plant which has not been taken over by theEmployer.
+“Employer’s Personnel” means the Employer’s Representative, the assistant and all other staff, labour and other employees of the Employer and of the Employer’s Representative; and any other Personnel notified to the Contractor by the Employer or the Employer’s Representative, as Employer’s Personnel.
+“Employer’s Representative” means the person named by the Employer in the Contract or appointed from time to time by the Employer
+“Employer’sRequirements”meansthedocumententitledEmployer’s
+Requirements, as included in the Contract, and any additions and modifications thereto in accordance with the Contract. Such document specifies thepurpose, scope, and/or other technical criteria, for theWorks.
+“Engineer-in-charge” means the officer nominated by Executive Engineer, APMB.
+“Force Majeure” is defined in Clause 94.0 of S.C.C [Force Majeure].
+“Goods” means Contractor’s Equipment, Materials, Plant and Temporary Works, or any of them as appropriate.
+“Government” means the Government of Andhra Pradesh
+Local Currency” means the lawful currency of India i.e. Indian Rupees.
+“Material” means things of all kinds (other than plant) intended to form or forming part of the Permanent Works, including the supply of any materials (if any to be supplied by the Contractor under the Contract.
+“PAO” means the pay and accounts officer who issues cheque for the bills.
+“Parties” means the Employer and the Contractor collectively, and “Party” means either of them individually as the context requires.
+“Earnest Money Deposit” means the security (or EMD, if any) deposited by the Successful Contractor / Contractor under Sub-Clause 5 of Instruction to Contractors.
+“Permanent Works” means the permanent Works to be designed and executed by the Contractor under the Contract.
+“Plant” means the apparatus, machinery and vehicles intended to form or forming part of the Permanent Works.
+Project Management Consultant: means a reputed consulting engineering firm (Private Company/ Government Organization) to be the Project Management Consultant under the Contract (“PMC”) to be appointed by the Employer for the review of design and drawings, site supervision, monitoring the progress and quality of works during construction and operation and maintenance and overall project management including certification and recommendation of the contractor’s bill for payment. The PMC shall be Engineer’s-in-Charge representative.
+“Retention money” means the accumulated retention moneywhich the Employer retains
+“Schedule of Payments” means the document so named (if any), as included in theContract.
+“Section” means any of the 3 (Three) Sections I to III of the Contract and Operation and Maintenance part of the Contract.
+“Site” means collectively all the places where the Permanent Works are to be executed and to which Plant and Materials are to be delivered, and any other places as may be specified in the Contract as forming part of theSite.
+“Statement” means a statement, which is either an interim running bill or a final bill, submitted by the Contractor as part of an application forpayment.
+“Sub- Contractor” means any person named in the Contract as a sub- Contractor or any person appointed as sub-Contractor, for a part of the Works; and the legal successors in title to each of these persons.
+“Temporary Works” means all temporary works of every kind (other than Contractor’s Equipment) required on Site for the execution and completion of the Permanent Works and the remedying of any defects.
+“Tests After completion” means the tests (if any) which are specified in the Contract and which are carried out after the Works or a Section (as the case may be) are taken over by theEmployer.
+“Tests Before Completion” means the tests which are specified in the Contract or agreed by both Parties or instructed as Variation, and which are carried out before the Works comprising Sections I to III are certified to be completed by the Employer.
+“Time for Completion of Construction” means the time for completing the Construction with any extension
+“Variation” means any change to the Employer’s Requirements for the Works, as instructed or approved as variation by the Employer.
+“Works” mean the Permanent Works and the Temporary Works, or either of them as appropriate.
+Interpretation:
+In this contract, unless the context otherwise requires,
+Special Conditions shall be read in conjunction with General Conditions, Technical specifications, Schedule of Works, along with Drawings and other documents forming part of this Contract wherever applicable or the context sorequires.
+Notwithstanding the sub-division of the Contract into several contract documents every part of each shall be deemed to be supplementary to and complimentary of every other part and shall be read with and into the Contract so far as it may be practicable to do so.
+In the Contract unless otherwise stated specifically, the singular shall include the plural, male shall include female and vice versa wherever the Contract so requires. Words importing person shall include incorporated companies / registered association / body of individuals / firm of partnership as applicable in context thereof.
+All headings and marginal notes to the Clauses / Articles of the General Condition or to the Specifications or to any other document forming part of the Contract are solely for the purpose of giving a concise indication ofthe general subject matter thereof and not a summary of the contents thereof, and they shall never be deemed to be part thereof or be used in the interpretation or constructionthereof.
+If during the course of execution of the Works any discrepancy or inconsistency, error or omission in any of the provisions of the Contract is discovered which has any effect on the execution of the Works, and need to be clarified, the same shall be referred to the Employer’s Representative who shall give his decision and the issue instructions directing the manner in which the Works are to be carried out. Any and all decisions and/or orders of the Employer’s Representative shall be deemed decision and/or orders of the Employer. The Contractor shall carry out the Works in accordance with such decisions and/or instructions of the Employer’sRepresentative.
+Where it is mentioned in the Contract that the Contractor shall perform certain work or provide certain facilities, it is understood that the Contractor shall do so at his cost and the Contract Price shall be deemed to have included the cost of such performances and provisions so mentioned.
+The materials, and workmanship shall satisfy the applicable standards,specifications contained herein and codes referred to. Where the Contract stipulates requirements in addition to those contained in the standards, codes and specifications, those additional requirements shall also be satisfied.
+
+References to any legislation or any provision thereof shall include amendment or re-enactment or consolidation of such legislation or any provision thereof so far as such amendment or re-enactment or consolidation applies or is capable of applying to any transaction entered intohereunder;
+References to laws of India or Indian law or regulation having the force of law shall include the laws, acts, ordinances, rules, regulations, bye laws or notifications which have the force of law in the territory of India and as from time to time may be amended, modified, supplemented, extended or re-enacted;
+The words “include” and “including” are to be construed without limitation and shall be deemed to be followed by “without limitation” or “but not limited to” whether or not they are followed by suchphrases;
+Any reference to any period of time shall mean a reference to that accordingto Indian Standard Time;
+Any reference to day shall mean a reference to a calendar day;
+Any reference to month shall mean a reference to a calendar month as perthe Gregorian calendar;
+Any reference to any period commencing “from” a specified day or date and “till” or “until” a specified day or date shall include both such days or dates; provided that if the last day of any period computed under this Agreement is not a business day, then the period shall run until the end of the next businessday;
+Time shall be of the essence in the performance of the Parties’ respective obligations. If any time period specified herein is extended, such extended time shall also be of theessence.
+The rule of construction, if any, that a Contract should be interpreted against the Parties responsible for the drafting and preparation thereof, shall notapply.
+Any word or expression used in this Agreement shall, unless otherwisedefinedorconstruedinthisAgreement,bearitsordinaryEnglish meaning and, for these purposes, the General Clauses Act 1897 shall not apply.
+All measurements and calculations shall be in the metric system and calculations done to 2 (two) decimal places, with the third digit of 5 (five) or above being rounded up and below 5 (five) being rounded down.
+Language
+The Language of the Contract shall beEnglish.
+All further documents and also correspondence in respect of contract shallbe in English.
+The Employer’s representatives and Employer’s personnel and Contractor’s representatives and Contractor’s personnel shall be fluent in English.
+Governing Law andJurisdiction:
+The Contract Shall be construed and Interpreted in accordance with and governed by the Laws ofIndia.
+In respect of all matters or actions arising out of the contract and which may arise any time, the courts at competent Jurisdiction in Andhra Pradesh shall have exclusive jurisdiction (claims, disputes andArbitration
+Priority ofDocuments:
+The documents forming the Contract are to be taken as mutually explanatory of one another for the purpose of interpretation; the priority of the documents shall be in accordance with following sequence.
+	•	Contract Agreement
+	•	Letter of Acceptance, notice to proceed with the works
+	•	General Conditions of contract and Special Conditions of Contract. 
+	•	Employer’s Requirements
+	•	Drawings
+	•	Any other document listed as forming part of the Contract.
+Engineer-in-Charge’s Decisions:
+Except where otherwise specifically stated, the Engineer-in-charge will decide he contractual matters between the Employer and theContractor in the role representing the Employer. Employer representative shall be the Engineer-in-Charge.
+Engineer-in-Charge Representative (Project ManagementConsultant):
+The Employer reserves the right to appoint a reputed consulting engineering firm (Private Company/ Government Organization) to be the Project Management Consultant under the Contract (“PMC”) for the review of design and drawings, site supervision, monitoring the progress and quality of Works during Construction and Operation and Maintenance and overall Project Management including certification and recommendation of the Contractor’s bill for payment
+The Roles and Responsibilities to be undertaken by Project Management Consultant, are asunder:
+PreConstruction:
+The PMC shall also carry out a scrutiny/technical audit of the reports, drawing, designs, estimates, site surveys etc prepared or undertaken by the Contractor or his nominated engineer such as site survey, evaluation and analysis including soil investigation, detailed design etc, as per detailed engineering designs & drawings, detailed cost estimates, BOQ and working drawings, good for construction drawings and the standard Codalprovisions.
+Review of all documents related to the Project for various works incorporating all statutory/mandatory provisions in respect of various laws, taxes/ levies etc as per relevantrules.
+DuringConstruction:
+Review of the proposed construction schedule for the Project and determine that adequate time, resources etc provisions have been made for construction activity, equipment procurement, equipment fabrication, shipment / transportation, installation, start-up,testing.
+Review and recommend the overall Integrated Project Schedule prepared by the Contractor to the employer forapproval.
+Review and recommend any re-scheduling of Works during execution of the Project to the employer for approval.
+To determine the critical path(s) considering project deadlines, analyze the likely delays and suggest measures to achieve projects implementation milestones.
+Identification of all activities falling on the critical path of the Project, notification of any likely event affecting or going to affect the execution of critical activity. Early recognition of any act of Contractor going to delay the works including the procurement ofEquipment.
+Recommending the alternatives to mitigate the delay.
+Review Construction Drawing Schedule and Engineering progress as per the scheduled progress of construction on a continuous basis and to further ensure that work at Site is not held up due to non availability of the approved Construction Drawings at any point oftime.
+Submit daily/weekly/ monthly & quarterly reports on the Project’s construction progress, reviewing the Contractor’s progress and other related issues such as, procurement, fabrication and constructionetc.
+Review Monthly construction project cost summary based on the milestoneschedule.
+Observe and verify construction progress is proceeding according to prudent industry practice and approved quality assuranceplans.
+Review the progress of the evacuationarrangement.
+Review of Milestone compliancereport.
+Advising Engineer-in-Charge and the Contractor on possible problems and delay that may arise in the future, to enable timely action to betaken.
+Maintain a summary of all change orders planned, approved and pending approval.
+Generation of all Project-Monitoring Reports for the Project including exception reports highlighting delays and suggest mid-coursecorrection.
+Monitoring of Contractor’s logistics for sufficiency of Construction equipment.
+Prepare the list of the pending points in each package. After every review and at least once a quarter, a report will be prepared outlining all activities completed and those scheduled for the coming half year for an independent review of thestatus.
+Contractor’s Representative:
+The Contractor shall appoint the Contractor’s Representative and shall give him all authority necessary to act on the Contractor’s behalf under the Contract.
+Unless the Contractor’s Representative is named in the Contract, the Contractor shall, prior to the Commencement Date, submit to the Employer for consent the name and particulars of the person the Contractor proposes to appoint if the appointed person fails to act as Contractor’s Representative, the Contractor shall similarly submit the name and particulars of another suitable person for such appointment.
+The Contractor shall not, without the prior consent of the Employer, revoke the appointment of the Contractor’s Representative or appoint a replacement. The Contractor’s Representative shall, on behalf of the Contractor, receive instructions under theContract.
+The Contractor’s Representative may delegate any powers, functions and authority to any competent person, and may at any time revoke the delegation. Any delegation or revocation shall not take effect until the Employer has received prior notice signed by the Contractor’s Representative, naming the person and specifying the powers, function and authority being delegated or revoked.
+Delegation:	
+The Engineer-in-Charge/ PMC may delegate any of his duties and responsibilities to other officers and may cancel any delegation by an official order issued. However, they will remain fully accountable for the acts of their assignees.
+ContractAgreement:
+The Contract shall come in to full force and effect on the date stated in the Contract Agreement.
+The Contractor shall execute formal Contract Agreement on appropriate value of stamp paper imposed by Law in connection with entry into Contract Agreement within 15 days from the date of Letter of Award.
+The following documents shall be deemed to form and be read and construed as part of Contract Agreement
+	•	Contract Agreement
+	•	Letter of Acceptance, notice to proceed with the works
+	•	General Conditions of contract and Special Conditions of Contract.
+	•	Employer’s Requirements
+	•	Drawings
+	•	Bill of quantities
+	•	Any other document listed as forming part of the Contract.
+Unless and until a formal agreement is prepared and executed this letter of acceptance together with willingness of agency thereof, shall constitute a binding Contract between the Employer and Contractor.
+Communications:
+Wherever these Conditions provide for the giving or issuing of approvals, certificates,consents, determinations, notices and requests these communications shallbe:
+	•	in writing and delivered by hand (against receipt), sent by mail or courier, or transmitted using any of the agreed system of electronic transmission as stated in the Conditions of Particular Application,and
+	•	Delivered, sent or transmitted to the address for the recipient’s communications as stated in the Contract. However:
+	•	if the recipient gives notice of another address, communications shall thereafter be delivered accordingly; and
+	•	if the recipient has not stated otherwise when requesting an approval or consent, it may be sent to the address from which the request wasissued.
+Approvals, certificates, consents and determinations shall not be unreasonably withheld or delayed.
+Contractor’s General Obligations:
+The Contractor shall, execute and complete the Works in accordance with the Contract, and shall also remedy any defects in the Works. When completed, the Works shall be fit for the purposes for which the Works are intended as defined in the Contract.
+The Contractor shall provide the Plant and Contractor’s Documents specified in the Contract, and all Contractor’s Personnel, consumables and other things and services, whether of a temporary or permanent nature, required in and for this, execution, completion and remedying of defects.
+The Works shall include any work which is necessary to satisfy the Employer’s Requirements, or is implied by the Contract, and all works which (although not mentioned in the Contract) are necessary for stability or for the completion, or safe and proper operation, of the Works.
+The Contractor shall be responsible for the adequacy, stability and safety of all Site operations, of all methods of construction and of all theWorks.
+The Contractor shall, whenever required by the Employer, submit details of the arrangements and methods which the Contractor proposes to adopt for the execution of the Works. No significant alteration to these arrangements and methods shall be made without this having previously been notified to the Employer.
+Sub-Contracting:
+Subletting ofContract
+No part of the Contract shall be sublet without written permission of the Employer nor shall transfer be made by power of attorney, authorizing others to receive payment on the Contractor’s behalf. If the Contractor desires to sublet a part of the work he should submit the same at the time of conclusion of agreement itself or during execution giving the names of the proposed sub-contractor along with the details of his qualification and experience. The agreement authority should verify the experience of the sub-contractor and if the Sub-Contractor satisfies the qualification criteria in proportion to the value of Work proposed to be sublet, he may permit the same. However the Contractor will be held responsible regarding the quality of work by the sub-contractor and no correspondence will be made with the sub-contractor for any rectification purposes. The total value of works to be awarded on subletting shall not exceed 50% of Contract value. The extent of subletting shall be added to the experience of the Sub-Contractor and to that extent deducted from that of the main Contractor.
+OtherContractors:
+The Contractor shall cooperate and share the Site with other contractors, Public authorities, utilities, and the Employer. The Contractor shall also provide facilities and services for them as directed by the Engineer-in- Charge.
+Existing Utilities and Roads
+Notwithstanding anything to the contrary contained in the Contract, the Contractor shall ensure that the respective entities owning the existing roads, right of way or utilities on, under or above the Site are enabled by it to keep such utilities in continuous satisfactory use, if necessary, by providing suitable temporary or permanent diversions with the authority of the controlling body of that road, right of way or utility, and the Employer shall, upon written request from the Contractor, initiate and undertake at the Contractor’s cost, legal proceedings for acquisition of any right of way necessary for such diversion.
+Shifting of ObstructingUtilities
+The Contractor shall, subject to Applicable Laws and with assistance of the Employer, undertake shifting of any utility including electric lines, water pipes and telephone cables, to an appropriate location or alignment within or outside the Site if and only if such utility causes or shall cause a material adverse effect on the construction, Operation or Maintenance of the Project. The cost of such shifting shall be borne by the Contractor if the Employer so directs, and in the event of any delay in shifting thereof, the Contractor shall be responsible for failure of its obligations hereunder if such failure is a direct consequence of delay on the part of the Contractor.
+Care and Supply ofDocuments
+Each of the Contractor’s Documents shall be in the custody and care of the Contractor, unless and until taken over by the Employer. Unless otherwise stated in the Contract, the Contractor shall supply to the Employer six copies of each of the Contractor’sDocuments.
+The Contractor shall keep, on the Site, a copy of the Contract, publications named in the Employer’s Requirements, the Contractor’s Documents, and Variation and other communications given under the Contract. The Employer’s Personnel shall have the right of access to all these documents at all reasonable times.
+If a Party becomes aware of an error or defect of a technical nature in a Document which was prepared for use in executing the Works, the Party shall promptly give notice to the other Party of such error or defect.
+Confidentiality
+Both Parties shall treat the details of the Contract as private and confidential, except to the extent necessary to carry out obligations under it or to comply with Applicable Laws. The Contractor shall not publish, permit to be published, or disclose any particulars of the Works in any trade or technical paper or elsewhere without the previous agreement of the Employer.
+Employer’s Use of Contractor’s Documents
+As between the Parties, the Contractor shall retain the copyright and other Intellectual Property Rights on the Contractor’s Documents and other documents made by (or on behalf of) theContractor.
+The Contractor shall be deemed (by signing the Contract) to give to the Employer a non- terminable transferable non – exclusive royalty-free license to copy, use and communicate the Contractor’s Documents, including making and using modifications of them. This licenseshall:
+	•	apply throughout the actual or intended working life (whichever is longer) of the relevant parts of theWorks,
+	•	entitle any person in proper possession of the relevant part of the Works to copy, use and communicate the Contractor’s Documents for the purpose of completing operating, maintaining, altering, adjusting, repairing and demolishing the Works, and
+	•	in the case of Contractor’s Documents which are in the form of computer programs and other software, permit their use on any computer on the site and other places as envisaged by the Contract, including replacements, of any computers supplied by the Contractor.
+The Contractor’s Documents and other documents made by (or on behalf of) the Contractor shall not, without the Contractor’s consent, be used, copied or communicated to a third party by (or on behalf of) the Employer for purposes other than those permitted under this Sub-Clause.
+Contractor’s Use of EmployerDocuments
+As between the parties the Employer shall retain the copyright and Intellectual Property Rights in the Employer’s Requirements and other documents made by (or on behalf of) the Employer. The Contractor may, at his cost, copy, use, and obtain communication of these documents for the purposesof the Contract.
+The Contract shall not, without the Employer’s consent, be copied, used or communicated to a third party by the Contractor, except as necessary for the purpose of theContract.
+Personnel:
+The Contractor shall employ the required Key Personnel named in the Schedule of Key Personnel to carry out the functions stated in the Schedule or other personnel approved by the Engineer-in-Charge. The Engineer-in-Charge will approve any proposed replacement of Key Personnel only if their qualifications, abilities, and relevant experience are substantially equal to or better than those of the personnel listed in the Schedule.
+If the Contractor fails to employ the required technical personnel including quality management staff, the Employer would engage any quality assurance staff for implementing Quality Management Plan. The amounts spent on such deployment will be recovered from the Contractor’s bills. However, this will not absolve the Contractor from the responsibility of Quality Management on ContractWorks.
+The technical personnel including quality assurance personnel should be on full time and available at site whenever required by Engineer- in –Charge/ PMC to take instructions.
+The names of the technical personnel including quality assurance personnel to be employed by the Contractor should be furnished to the Employer in the statement enclosedseparately.
+In case the Contractor is already having more than one work on hand and has undertaken more than one work at the same time, he should employ separate technical and quality assurance personnel on eachwork.
+If the Contractor fails to employ technical and quality assurance personnel the work will be suspended, and the Employer will engage technical and quality assurance personnel and recover the cost thereof from the Contractor.This will not absolve the Contractor from the responsibly of maintaining quality of work and implementing quality managementplan.
+If the Engineer-in-Charge asks the Contractor to remove a person who is a member of Contractor’s staff or his work force stating the reasons, the Contractor shall ensure that the person leaves the Site forthwith and has no further connection with the Work in theContract.
+The Contractor shall at all times take all reasonable precautions to prevent any unlawful, riotous or disorderly conduct by or amongst the Contractor’s Personnel, and to preserve peace and protection of persons and property on and near theSite.
+The Contractor shall at all times submit, to the Employer, details showing the number of each class of Contractor’s Personnel on theSite.
+
+Contractor’sRisks:
+All risks of loss of or damage to physical property and of personnel injury and death, which arise during and in consequence of the performance of the Contract, are the responsibility of theContractor.
+Risk AndResponsibility
+Indemnities
+The Contractor shall indemnify and hold harmless the Employer, the Employer’s Personnel and their respective agents, against and from all claims, damages, losses and expenses (including legal fees and expenses) in respect of:
+	•	bodily injury, sickness, disease or death of any person whatsoever arising out of or in the course of or by reason of the design, execution and completion of the Works, and the remedying of any defects, unless attributable to any negligence willful act or breach of the contract by the Employer’s Personnel, or any of their respective agents,and
+	•	damage to or loss of any property, real or personal (other than the Works), to the extent that such damage orloss:
+	•	arises out of or in the course of or by reason of the design, execution and completion of the Works and the remedying of any defects,and
+	•	is not attributable to any negligence, willful act or breach of the Contract by the Employer, the Employer’s Personnel, their respective agents or anyone directly or indirectly employed by any ofthem.
+Contractor’s Care of theWorks
+The Contractor shall take full responsibility for the care of the Works and Goods from the date of commencement until the takeover of the Works, when responsibility for the care of the Works shall pass to the Employer.
+After responsibility has accordingly passed to the Employer the Contractor shall take responsibility for the care of any work which is outstanding until thisoutstanding work has been completed.
+If any loss or damage happens to the Works, Goods or Contractor’s Documents during the period when the Contractor is responsible for their care, from any cause, the Contractor shall rectify the loss or damage at the Contractor’s risk and cost, so that the Works, Goods and Contractor’s Documents confirm with the Contract.
+The Contractor shall be liable for any loss or damage caused by any actions performed by the Contractor after the takeover of the Works and which arose from a previous event for which the Contractor was liable.
+Intellectual and Industrial PropertyRights
+In this Sub-Clause, “infringement” mean an infringement ( or alleged infringement) of any patent, registered design, copyright, trade mark, trade name, trade secret or other Intellectual or Industrial Property Right relating to the Works; and “claim” means a claim (or proceedings pursuing a claim) alleging an infringement.
+Whenever a Party does not give notice to the other Party of any claim within 28 days of receiving the claim, the first Party shall be deemed to have waived any right to indemnity under this Sub-Clause.
+The Employer shall indemnify and hold the Contractor harmless against and from any claim alleging an infringement which is orwas:
+	•	a result of any Works being used by theEmployer:
+	•	for a purpose other than that indicated by, or reasonably to be inferred from, the Contract,or
+	•	in conjunction with anything not supplied by the Contractor, unless such use was disclosed to the Contactor prior to the Base Date or is stated in theContract.
+The Contractor shall indemnify and hold the Employer harmless against and from any other claim which arise out of or in relation to (i) the Contractor, manufacture, construction or execution of the Works, (ii) the use of Contractor’s Equipment, or (iii) the proper use of theWorks.
+Limitation of anyLiability
+Neither Party shall be liable to the other Party for loss of use of Works, loss of profit, loss of any contract or for any indirect or consequential loss or damagewhich may be suffered by the other Party in connection with the Contract, other than payment on termination and indemnities.
+The total liability of the Contractor to the Employer, under or in connection with the Contract shall not exceed the sum stated in the Particular Condition or if a sum is not so stated the Contract Price stated in the Contact Agreement.
+This Sub-Clause shall not limit liability in any case of fraud, deliberate default or reckless misconduct by the defaulting Party
+Verification ofRisks
+It shall be the responsibility of the Engineer-in-Charge/ PMC to verify and certify the extent of risk to be borne by either of the Parties under this Clause.
+
+Insurance:
+The Contractor shall provide Insurance policy in the joint names of the Employer and the Contractor, insurance cover from the Start Date to the end of the Defect Liability Period i.e., 24 months after completion of works for the following events which are due to the Contractor’s risks including Fire risk.
+	•	loss of or damage to the Works, Plant andMaterials;
+	•	loss of or damage to theEquipment;
+	•	loss of or damage of property in connection with the Contract;and
+	•	Personal injury or death of persons employed forconstruction.
+Policies and certificates of Insurance shall be delivered by the Contractor to the Employer at the time of concluding Contract agreement. All such insurance shall provide for compensation to be payable to rectify the loss or damageincurred.
+	•	The Contractor shall furnish insurance policy in force in accordance with proposal furnished in the agreement and approved by the Employer for concluding the Contract.
+	•	The Contractor shall obtain the Insurance policy by paying requisite premiums duly covering the total contract period of 1 years plus 2years defect liability period at the time of concluding agreement and submit to Employer. It shall form part of the Agreement.
+	•	TheContractorshallsuitablyextendtheInsurancecoverageatitscostincase the Contract period is extended.
+Alterations to the terms of insurance policy shall not be made without the approval of theEmployer.
+Right of Access to the Site and Possession of theSite.
+The Employer shall give the Contractor right of access to and possession of, all parts of the Site within the time (or times) stated in the Contract. The right and possession may not be exclusive to the Contractor. However, the Employer may withhold any such right or possession until the Performance Security Deposit has been received.
+Permits, Licenses or Approvals
+The Employer shall (where he is in a position to do so) provide reasonable assistance to the Contractor at the request of the Contractor.
+by obtaining copies of the Laws of the Country which are relevant to the Contract but are not readily available, and for the Contractor’s applications for any permits, licenses or approvals required by the Laws of the Country.
+The Employer’s Representative
+The Employer may appoint an Employer’s Representative to act on his behalf under the Contract. The Employer’s Representative shall carry out the duties assigned to him, and shall exercise the authority delegated to him, by the Employer. The Employer’s Representative shall be the Engineer-in-Charge.
+Other Employer’s Personnel
+The Employer or the Employer’s Representative may from time to time assign duties and delegate authority to assistants, and may also revoke such assignment or delegation. These assistants may include a PMC resident engineer/s, and/or independent inspectors appointed to inspect and/or test items of Plants and / or Materials. The assignment, delegation or revocation shall not take effect until a copy of it has been received by the Contractor. Assistants shall be suitably qualified persons, who are competent to carry out these duties and exercise thisauthority.
+DelegatedPersons
+All these persons, including the Employer’s Representative and assistants, to whom duties have been assigned or authority has been delegated, shall only be authorized to issue instructions to the Contractor to the extent defined by the delegation. Any approval, check, certificate, consent, examination, inspection, instruction, notice, proposal, request, test, or similar act by a Delegated Person, in accordance with the delegation, shall have the same effect as though the act had been an act of the Employer. However,
+	•	Any failure to disapprove any work, Plant or Materials shall not constitute approval, and shall therefore not prejudice the right of the Employer to reject the work, Plant or Materials; and
+	•	If the Contractor questions any instruction of a Delegated Person, the Contractor may refer the matter to the Employer, who shall promptly confirm, reverse or vary the determination or instruction.
+SiteInspections:
+The Contractor should inspect the site and also proposed quarries of choice for materials source of water including quarrying, conveyance and all other chargesetc.
+Contractor to Construct theWorks:
+The Contractor shall conduct, surveys, detailed investigation, engineering, prepare estimates and schedules construct and Commission the Work in accordance with the approved specifications andDrawings.
+Other Streams:
+The Contractor shall at all time carry out construction of cross drainage works in a manner creating least interference to the natural flow of water while consistent with the satisfactory execution of Work. A temporary diversion shall be formed by the contractor at his cost where necessary. No extra payment shall be made for this work.
+No separate payment for bailing out sub-soils, water drainage or locked up rain water for diversion, shoring, foundations, bailing of pumping water either from excavation of soils from foundations or such other incidental will bepaid.
+The work of diversion arrangements should be carefully planned and prepared by the Contractor and forwarded to the Engineer-in-Chief / PMC technically substantiatingtheproposalsandapprovaloftheEngineer-in-Chief/PMCobtained for execution.
+The Contractor shall arrange for bailing out water, protection to the work in progress and the portion of works already completed and safety measures for men and materials and all necessary arrangements to complete theWork.
+All the arrangements so required should be carried out and maintained at the cost of the Contractor and no separate or additional payment isadmissible.
+TemporaryDiversions
+If in the opinion of the Engineer-in-Charge, it is not possible to pass the traffic on part width of the carriage-way for any reason, a temporary diversion close to the way shall be constructed as directed. It shall be paved with the materials such as hard morrum, gravel and stone, metal to the specified thickness as directed by the Engineer-in-Charge. In all cases, the alignment, gradients and surface type of the diversion including its junctions, shall be approved by the Engineer-in-charge before the highway is closed totraffic.
+The Contractor shall take all necessary measures for the safety of traffic during construction and provide erect and maintain such barricades, including signs, markings, flags lights and information and protection of traffic approaching or passing through the section of the highway under improvement. Before taking up any construction, an agreed phased programme for the diversion of traffic on the highway shall be drawn up in consultation with theEngineer-in-charge.
+The barricades erected on either side of the carriage way portion of the carriage way closed to traffic, shall be of strong design to resist violation and painted with alternative black and white stripe. Red lanterns or warnings lights of similar type shall be mounted on the barricades at night and kept it throughout from sunset to sunrise.
+Ramps:
+Ramps required during execution may be formed wherever necessary and same are to be removed after completion of the Work. No separate payment will be made for this purpose.
+Monsoon Damages:
+Damages due to rain or flood either in cutting and banks or any other workshall have to be made good by the Contractor till the work is handed over to the Employer. The responsibility of de-silting and making good the damages due to rain or flood rests with the Contractor. No extra payment is payable for such operations and the Contractor shall therefore, has to take all necessary precautions to protect the Work done during the Construction Period.
+The works to be Completed within the Agreed date of Completion:
+The Contractor shall commence execution of the Works on the Start Date and shall carry out the Works in accordance with the construction programme approved by competent authority/ PMC and complete the work by the agreed date of Completion.
+Safety: The Contractorshall:
+	•	be responsible for the safety of all activities on the Site.
+	•	be responsible for keeping unauthorized persons off the Site,
+	•	comply with all applicable safety regulations,
+	•	take care of the safety of all persons entitled to be on theSite,
+	•	use reasonable efforts to keep the Site and Works clear of unnecessary obstruction so as to avoid danger to these persons,
+	•	provide fencing, lighting, guarding and watching of the Works until completion and taking over under the provisions of the Contract,
+Discoveries:
+Anything of historical or other interest or of significant value unexpectedly discovered on the Site is the property of the Government. The Contractor is to notify the Engineer-in-charge / PMC of such discoveries and carry out the Engineer-in-Charge’s instructions for dealing with them.
+Access to theSite:
+The Contractor shall provide the Engineer-in-Charge and any person authorized by the Engineer-in-Charge, access to the site and to any place where work in connection with the Contract is being carried out or is intended to be carried out.
+Instructions:
+The Contractor shall carry out all instructions of the Engineer-in- Charge/ Employer/ PMC and comply with all the applicable local laws where the Site is located.
+Settlement ofDisputes:
+If any dispute or difference of any kind whatsoever arises between the department and the Contractor in connection with, or arising out of the Contract, whether during the progress of the Works or after their completion and whether before or after the Termination, abandonment or breach of the Contract, it shall in the first place, be referred to and settled by the Engineer-in-Charge who shall, within a period of thirty days after being requested by the Contractor to do so, give written notice of his decision to the Contractor. Upon receipt of the written notice of the decision of the Engineer-in-Charge / Employer the Contractor shall promptly proceed without delay to comply with such notice of decision.
+If the Engineer-in-Charge/ Employer fails to give notice of his decision in writing within a period of thirty days after being requested or if the Contractor is dissatisfied with the notice of the decision of the Engineer-in-Charge, the Contractor may within thirty days after receiving the notice of decision appeal to the Secretary, I&I Department, Government of Andhra Pradesh, who shall offer an opportunity to the contractor to be heard and to offer evidence in support of his appeal, the Employer shall give notice of his decision within a period of thirty days after the Contractor has given the said evidence in support of his appeal, subject to arbitration, as hereinafter provided. Such decision of the Employer in respect of every matter so referred shall be final and binding upon the Contractor and shall forthwith be given effect to by the Contractor, who shall proceed with the execution of the works with all due diligence whether he requires arbitration as hereinafter provided, or not.
+If the Employer has given written notice of his decision to the Contractor and no claim to arbitration, has been communicated to him by the Contractor within a period of thirty days from receipt of such notice the said decision shall remain final and binding upon the Contractor. If the Employer fail to give notice of his decision, as aforesaid within a period of thirty days after being requested as aforesaid, or if the Contractor be dissatisfied with any such decision, then and in any such case the Contractor within thirty days after the expiration of the first named period of thirty days as the case may be, require that the matter or matters in dispute be referred to arbitration as provided in clause 3 of the articles of Contract.
+Dispute between PMC and Contractor
+If any dispute or difference of any kind whatsoever arises between the PMC and the contractor in connection with, or arising out of the contract, whether during the progress of the works or after their completion and whether before or after the termination, abandonment or breach of the contract it shall in the first place, be referred to and settled by the Employer who shall, within a period of thirty days after being requested by the contractor to do so, give written notice of his decision to the contractor. Upon receipt of the written notice of the decisionoftheEmployerthecontractorshallpromptlyproceedwithoutdelayto comply with such notice of decision.
+If the Employer fails to give notice of his decision in writing within a period of thirty days after being requested or if the Contractor is dissatisfied with the notice of the decision of the Employer , the Contractor may within thirty days after receiving the notice of decision appeal to the Secretary, I&I Department, Government of Andhra Pradesh, who shall offer an opportunity to the Contractor to be heard and to offer evidence in support of his appeal, the Secretary, I&I Department, Government of Andhra Pradesh shall give notice of his decision within a period of thirty days after the Contractor has given the said evidence in support of his appeal, subject to arbitration, as hereinafter provided. Such decision of the Secretary, I&I Department, Government of Andhra Pradesh in respect of every matter so referred shall be final and binding upon the Contractor and shall forthwith be given effect to by the Contractor, who shall proceed with the execution of the works with all due diligence whether he requires arbitration as hereinafter provided, or not.
+If the Secretary, I&I Department, Government of Andhra Pradesh has given written notice of his decision to the Contractor and no claim to arbitration, has been communicated to him by the Contractor within a period of thirty days from receipt of such notice the said decision shall remain final and binding upon the Contractor. If the Secretary, MA & UD Department, Government of Andhra Pradesh fails to give notice of his decision, as aforesaid within a period of thirty days after being requested as aforesaid, or if the Contractor be dissatisfied with any such decision, then and in any such case the Contractor within thirty days after the expiration of the first named period of thirty days as the case may be, require that the matter or matters in dispute be referred to arbitration as provided in clause 3 of the Articles of Contract.
+Deleted.
+TIME FOR COMPLETION
+Programme:
+The total period of completion is 12(Tweleve Months (inclusive of Monsoon Period) from the date of entering with agreement to proceed including rainy season. Keeping in view, the schedule for handing over of site given in condition Sl. No.21 work should be programmed such as to achieve the mile-stones as in “Rate of progress statement”. Mile stones will be drawn by the agency which should be acceptable to the Department. 
+The attention of the bidder is directed to the contract requirement at the beginning commencement of the work, the required rate of progress and the corresponding dates for completion for the whole work, and for executing its several parts as per milestones. The following rate of progress and proportionate value of work done from time to time as will be indicated by Employer/Employer’s Representative Certificate for the value of work done and completion of milestones will be required. Date of commencement of the programme will be the date for concluding the contract.
+After signing the agreement, the contractor shall forthwith begin the work, shall regularly and continuously proceed with them.
+Rate of Progress: 
+(i)	WORK PROGRAMME OF ACHIEVING THE MILESTONES (STATEMENT).
+Milestone-1: 
+Completion of: (i) Investigation, Surveys, Designs and Drawings, Estimates, BoQs, Completion Reports with GFC Drawings etc., complete. (ii) 10% of dredging & disposal (iii) 10% breakwaters completion within 90 days from the Commencement Date.
+Milestone-2:
+ Completion of: (i) 30% of dredging & disposal. (ii) 40% breakwaters completion. (iii) On completion of 60% of substructure works of Jetty. (iv) Oncompletionof 20% of various construction activities such as Onshore Facilities, Infrastructure works etc., entitling the Contractor to a cumulative total gross payment of at least 50% of the Accepted Contract Price, based only on the Schedule of Payments within 180 days from the Commencement Date.
+Milestone-3: 
+Completion of: (i) 80% of dredging & disposal. (ii) 100% breakwaters completion. (iii) On completion of 100% of substructure works and 50% of Super Structure works of Jetty. (iv) On completion of 70% of various construction activities such as Onshore Facilities, Infrastructure works etc., entitling the Contractor to a cumulative total gross payment of at least 50% of the Accepted Contract Price, based only on the Schedule of Payments within 270 days from the Commencement Date.
+Milestone-4: Completion of all project works in all respects within 330 days from the commencement Date.
+The whole of the Works for the Project including essential Punch List items, if any, shall be completed within 12 months from the Commencement Date excluding Defects Liability Period for liquidation of all Punch List items.
+(ii) Site will be handed over to the contractor in stages according to the progress of work.
+The contractor shall commence the works on site within the period specified after the receipt by him of a written order to this effect from Employer/ Employer’s representative and shall proceed with the same with due expedition and without delay, except as may be expressly sanctioned or ordered by Employer/ Employer’s representative, or be wholly beyond the contractor’s control.
+Deleted.
+The contractor shall bear all costs and charges for special or temporary way leases required by him in connection with access to the site. The contractor shall also provide at his own cost any additional accommodation outside the site required by him for the purposes of the work.
+Any section of the works shall be completed as per the work programme within the specified milestones and time periods as required in the contract, before completion of the whole of the works.
+Delays and Extension of Time:
+No claim for compensation on account of delays or hindrances to the work from any cause whatever shall lie, except as hereafter defined.Reasonable extension of time will be allowed by the Engineer-in-Charge / Competent Authority for unavoidable delays, such as may result from causes, which in the opinion of the Engineer-in-Charge, are undoubtedly beyond the control of the contractor. The Engineer-in-Charge shall assess the period of delay or hindrance caused by any written instructions issued by him, at 25% in excess of the actual working period so lost.
+In the event of the Engineer-in-Charge failing to issue necessary instructions and thereby causing delay and hindrance to the contractor, the latter shall have the right to claim an assessment of such delay by the concerned Superintending Engineer whose decision will be final and binding.The contractor shall lodge in writing with the Engineer-in-Charge a statement of claim for any delay or hindrance referred to above, within fourteen days from its commencement, otherwise no extension of time will be allowed.
+Whenever authorized alterations or additions made during the progress of the work are of such a nature in the opinion of the Engineer-in-Charge as to justify an extension of time in consequence thereof, such extension will be granted in writing by the Engineer-in-Charge / Competent Authority when ordering such alterations or additions.
+Proposals for extension of time should be sent to the Competent Authority sufficiently in advance and in any case at least one month before the expiry of the contract period. 
+Construction Programme:
+The Contractor shall furnish within 15 days from the receipt of the work order, the work a programme showing the sequence in which he proposed to carry out the work, monthly progress expected to be achieved, also indicating date of procurement of materials plant and machinery. The schedule should be such that it is practicable to achieve completion of the whole work within the time limit fixed and in keeping with the Mile stone programme specified and shall obtain the approval of Employer/ Employer’s representative. Further rate of the progress as in the program shall be kept up to date. In case it is subsequently found necessary to alter this program, the contractor shall submit sufficiently in advance the revised program incorporating necessary modifications and get the same approved by. Employer/ Employer’s representative No revised program shall be operative without approval Employer/ Employer’s representative.
+The Employer/ Employer’s representative hall have all times the right, without any way violating this contract, or forming grounds for any claim, to alter the order of progress of the works or any part thereof and the contractor shall after receiving such directions proceed in the order directed. The contractor shall also report the progress to the Employer/ Employer’s representative within 7 days of direction to alter the order of progress of works.
+The Contractor shall give written notice to the Employer/ Employer’s representative whenever planning or progress of the works is likely to be delayed or disrupted unless any further drawings or order including a direction, instruction or approval is issued by Employer/ Employer’s representative within a reasonable time. The notice shall include details of the drawing or order required and of why and by when it is required and of any delay or disruption likely to be suffered if it is late.
+Speed of Work:
+The Contractor shall at all times maintain the progress of work to conform to the latest operative progress schedule approved by Employer/ Employer’s representative. The contractor should furnish progress report indicating the programme and progress once in a month. The Employer/ Employer’s representative may at any time in writing direct the contractor to slow down any part or whole of the work for any reason (which shall not be questioned) whatsoever, and the contractor shall comply with such orders of the Employer/ Employer’s representative. The compliance of such orders shall not entitle the contractor to any claim of compensation. Such orders of the Employer/ Employer’s representative for slowing down the work will however be duly taken into account while granting extension of time if asked by the contractor for which no extra payment will be entertained.
+Delays in Commencement or progress or neglect of work and forfeiture of earnest money, Security deposit and withheld amounts:
+If, at any time, Employer/ Employer’s representative shall be of the opinion that the Contractor is delaying Commencement of the work or violating any of the provisions of the Contractor is neglecting or delaying the progress of the work as defined by the tabular statement. “Rate of progress” in the Articles of Agreement”, he shall so advise the Contractors in writing and at the same time demand compliance in accordance with conditions of Bid notice. If the Contractor neglects to comply with such demand within seven days after receipt of such notice, it shall then or at any time thereafter, be lawful for the Employer/ Employer’s representative to take suitable action in accordance with Clauses of P.S to APSS.
+Suspension of Works by the Contractor:
+If the Contractor shall suspend the works, or sublet the work without sanction of the Employer/ Employer’s representative, or in the opinion of Employer/ Employer’s representative shall neglect or fail to proceed with due diligence in the performance of his part of the Contract as laid down in the Schedule rate of progress, or if he shall continue to default or repeat such default in the respects mentioned in clause.27 of the APSS Employer/ Employer’s representative shall take action in accordance with Clauses of P.S to APSS.
+Extension of the Intended Completion Date:
+The Employer/ Employer’s representative shall extend or recommend for extension, in accordance with the Government orders in force, the Intended Completion Date if a Variation is issued which makes it impossible for Completion to be achieved by the Intended Completion Date.
+The Employer/ Employer’s representative shall decide whether and by how much to extend the Intended Completion Date within 21 days of the Contractor asking the Employer/ Employer’s representative for the Contractor has failed to give early warning of a delay or has failed to cooperate in dealing with a delay, the delay by this failure shall not be considered in assessing the new Intended Completion Date.
+Delays Ordered by the Employer/ Employer’s representative:
+Employer/ Employer’s representative may instruct the Contractor to delay the start or progress of any activity within the Work.
+Early Warning:
+The contractor is to warn the Employer/ Employer’s representative at the earliest opportunity of specific likely future events or circumstances that may adversely affect the Execution of Works.
+The Contractor shall cooperate with the Employer/ Employer’s representative in making and considering proposals for how the effect of such an event or circumstance can be avoided or reduced by anyone involved in the work and in carrying out any resulting instruction of the Employer/ Employer’s representative.
+Management Meetings:
+The Employer/ Employer’s representative may require the Contractor to attend a management meeting. The business of a management meeting shall be to review the programme for remaining work and to deal with matters raised in accordance with the early warning procedure.
+QUALITY CONTROL
+Identifying Defects:
+The Employer/ Employer’s representative shall check the Contractor’s work and notify the Contractor of any Defects that are found. Such checking shall not affect the Contractor’s responsibilities. The Employer/ Employer’s representative may instruct the Contractor to verify the Defect and to uncover and test any work that the Employer/ Employer’s representative considers may be a Defect.
+Tests:
+Laboratory for Testing: 
+The contractor shall for the purpose of testing the material shall establish a field laboratory. 
+If the Employer/ Employer’s representative instructs the Contractor to carry out a test not specified in the Specification to check whether any work has a Defect and the Contractor shall pay for the test and any samples.
+Correction of Defects:
+The employer/ employer’s representative shall give notice to the contractor of any defects before the end of the defects liability period, which begins on completion. the defects liability period shall be extended for as long as defects remain to be corrected by the contractor.
+Every time notice of a Defect is given, the Contractor shall correct the notified defect within the length of time specified by the Employer/ Employer’s representative notice.
+Uncorrected Defects:
+If the contractor has not corrected the defect within the time specified in the Employer/ Employer’s representative notice, the Engineer-in-Charge will assess the cost of having the defect corrected and the contractor will pay this amount.
+The Employer/ Employer’s representative shall introduce Check Slips and O.K. cards and prescribed the formats there of. O.K. cards shall relate to all major components of the work. The contractor with his authorized representative shall be required to initiate and fill in and present the O.K. card to the construction staff who would check the respective items and send to the quality control staff for final check and clearance of Check slips and O.K cards. Any defects pointed out by the construction supervision staff or by the Quality Control staff shall promptly be attended to by the contractors and the fact of doing so be duly recorded on the back of O.K. card.
+The Employer/ Employer’s representative may also introduce check lists which shall be kept in Bound registers by the construction supervision staff. The contractor may be required to fill up these lists in the first instance and shall be subsequently checked by the Construction / Quality Control engineers.
+If the work of remedying any defects or damages affects the performance of the works, the Engineer-in-Charge may require the repetition of any of the tests described in the Contract, including Tests on Completion and/or tests after completion. The requirement shall be made by notice within 28 days after the defect or damage is remedied. These tests shall be carried out in accordance with the terms applicable to the previous tests, except that they shall be carried out at the risk and cost of the contractor. 
+Quality Assurance & Quality Control:
+Quality Assurance: The Contractor shall submit quality assurance plan within one month from the Commencement Date for approval of Engineer-in-Charge. The Contractor shall institute a quality assurance system to demonstrate compliance with the requirements of the Contract. The Engineer-in-Charge shall be entitled to audit any aspect of the system. 
+Details of all procedures and compliance documents shall be submitted to the Engineer-in-Charge for information before each design and execution stage is commenced. 
+Compliance with the quality assurance system shall not relieve the Contractor of any of his duties, obligations or responsibilities under the Contract.
+Quality Control: 
+In addition to the normal inspection by the Engineer in-Charge or his representative/PMC and the regular staff in-charge of the Construction of work, the work will also be inspected by the Executive Engineer of Quality control or by the State or District level Vigilance Cell Unit and any other authorized external Agency. Third Party Quality tests is mandatory, and the charges thereof for testing shall be borne by the PMC and the instructions of the Government and the Chief Engineer, APMB shall be followed scrupulously in this regard. If any sub-standard work or excess payments are noticed with reference to measurement books etc., during inspection, action will be taken based on their observations and these will be effected by the Engineer-in-Charge of the execution of the work.
+For all works costing more than Rs.2 Cr., the Contractor shall submit quality plan and also show proof of owning quality lab to be established and alsotie-up with established quality lab.
+Quality control monitoring reports, test results, reports of corrective action etc., shall be furnished to the Engineer-in-Charge at regular intervals. 
+Quality Audit will be got conducted by the Engineer-in-Charge departmentally or by other organization and the contractor shall extend the testing facilities to them also at his cost. 
+The contractor shall produce the Quality records maintained by him to the Engineer-in-Charge for the quality audit. 
+Quality Management Plan (QMP): The Contractor shall submit the Quality Management Plan (QMP) for the Contract work indicating the following, within one month from the Commencement Date for approval of the Engineer-in-Charge. 
+	•	The quantum of work to be done, quantities of various materials required and the electrical and mechanical equipment to be installed.
+	•	The number of tests to be conducted for various materials, electrical and mechanical equipment and also for finished items of work as per the IS Codes and other codes. 
+	•	The details of field laboratories and testing facilities available for conducting the above tests. 
+	•	MoU with reputed Engineering Colleges / External laboratories of repute / labs approved by the Government for conducting required tests on equipment and materials. 
+	•	The Contractor’s personnel in-charge of quality management, with their names, duties and authority. The qualifications of the personnel in-charge of collecting samples, testing materials, testing equipment and finished items of work, persons in-charge of quality assurance with powers to reject the defective work, the process of rectification of defects and deficiencies, the process of corrective actions for avoiding recurrence of defects. 
+	•	Any other information that may be required by the Engineer-in-Charge. 
+	•	Copies of the Quality Management Plan have to be furnished to the Engineer-inCharge. 
+COST CONTROL
+Contract Price – Schedule of Payment.Bill of Quantities.
+The contract price shall be the total value of work for the EPC turnkey contract as per contract including 2 years Defects Liability Period. 
+The Bidder shall maintain the works for 2 year Defects Liability Period. He shall maintain the works with all standards and specifications of maintenance (conforming to relevant B.I.S Codes of practice) civil maintenance like Distempering to superstructure, painting to doors and windows, repair/replacements and maintenance of road ways and passages etc.
+Notwithstanding anything that is stated, the contract price once quoted by the Contractor and accepted by the Employer shall be final and shall not be subject to any claims on any ground what so ever of the Contractor.
+The contract price of the total work is divided among different components of works as per the percentages specified in Section-5 ‘Schedule of payments’ and the payments will be regulated accordingly.
+The Contractor shall submit the detailed designs and drawings and after their approval by the competent authority and based on them, submit the detailed estimate with BoQ (Bill of Quantities) which will form the basis of payment in terms of G.O Ms.No.50 I & CAD dt. 2-3-2009. 
+Changes in the Quantities:
+Being a lump sum contract on EPC – Turnkey basis, the contractor is bound to complete and commission the entire work under the contract on a firm lump sum price quoted and on a single source responsibility basis.The Contractor shall be deemed to have satisfied himself as to the correctness and sufficiency of the Contract price.Therefore the contractor is bound to execute all supplemental works that are found essential, incidental and inevitable during execution of main work. 
+Extra Items:
+Extra items of work shall not vitiate the contract. This being a lump sum contract on Turnkey (EPC) basis for a firm lump sum price quoted and on single source responsibility basis, the contractor shall be bound to execute any items of work contingent to main work for completion in full shape as directed by the Engineer-in-Charge.
+Whenever additional items not contingent on the main work and outside the scope of original contract are to be entrusted to the Contractor, entrustment of such items and the price to be paid shall be referred to the government for final decision. 
+The contractor shall before the 15th day of each month, submit in writing to the Employer/ Employer’s representative a statement of extra items if any that they have executed during the preceding month failing which the contractor shall not be entitled to claim any.
+Cash Flow Forecasts:
+When the program is updated, the contractor is to provide the Employer/ Employer’s representative with an updated cash flow forecast.
+Payment Certificates:
+The Contractor shall submit to the Employer/ Employer’s representative monthly statements of the estimated value of the work completed less the cumulative amount certified previously. 
+The Employer/ Employer’s representative shall check the Contractor’s monthly statement within 14 days.
+The value of work executed shall be determined by the Employer/ Employer’s representative.
+The value of work executed shall comprise the value of the quantities in proportion on prorata basis against each sub-head in Section-5, Volume– III. 
+The Employer/Employer’s representative may exclude any item certified in a previous certificate or reduce the proportion of any item previously certified in any certificate in the light of later information.
+PAYMENT
+EPC Contractor’s Application for Payment
+On the fifth Business Day of every 3rdmonth (quarter)  from the date of issue of the Notice to Proceed the EPC Contractor may serve a notice in writing on the Employer’s Representative (“Request for Payment”) requesting payment of the sum which is considers to be due on achievement ofmilestones as per the Section-5. (“Schedule of Payments”).
+Less
+	•	The amount to be deducted as Retention Money
+	•	Advance payment in proportionate amounts commencing upon the submissions by the EPC Contractor of the Request for Payment for the fourth monthly period after the date of issue of the Notice to proceed and ending upon the date of the last Request for payment; and 
+	•	Any amounts due and owing from the EPC Contractor to the Employer pursuant to this Agreement.
+The Request for Payment shall be:
+	•	Prepared on forms in the form indicated by the Employer’s representative and at the expense of the EPC Contractor, the number of copies therefore shall be as the Employer’s Representative may determine; and 
+	•	Accompanied by such supporting documentation as the Employer’s Representative may require to establish the value of the work property designed and Executed as referred to in the Request for payment and reasonableness of the amounts added in respect of goods and materials.
+Payment for unfinished work: In case of execution of unfinished work of agency the quantities have to be worked out by the department as follows.
+	•	The deletion shall be inconformity with the sub components already fixed. 
+	•	If the new agency is willing to carry out the work at the amount not exceeding the sub component percentage of original agency ie. Where there is no liability to government the same can be approved by the employer irrespective of monetary value. 
+	•	If the new agency is willing to carry out the work and the amount exceed the sub component percentage of original agency, if the difference is within 5% of agreement value the same may be entrusted by the committee constituted for fixing IBM. The difference of 5% is to be made good from original agency. 
+	•	The agency is willing to carry out the work and the amount exceed the sub component percentage by 5% of agreement value, all such cases require prior approval of government. 
+Certificates of Payment
+Within fourteen (14) Business Days after the receipt of the Request for payment, the Employer’s Representative shall, subject to the EPC Contractor’s compliance with Article 43.2 inspect the relevant parts of the Works and the relevant goods and materials in order to satisfy himself that the request for payment is correct.
+If the Employer’s Representative is so satisfied he shall issue a Certificate of Payment certifying what amounts are due to the EPC Contractor pursuant to this Article 43 subject to the provisions of Article 43.2.2 to 43.2.3 after giving credit to the Employer for any sums to which the Employer is entitled under this Agreement.
+No sum shall be included in the Certificate of Payment in respect of goods and materials yet to be incorporated into the payment works unless the employers’ Representative is satisfied and has approved in writing that:
+	•	Such goods and materials have been properly acquired and properly and not prematurely delivered to the Project Site;
+	•	Such goodsplant and materials are properly stored on the project site and fully protected against loss, damage or deterioration;
+	•	The EPC Contractor’s records of the requisitions, orders, receipts and use of any goods and materials are kept in a form approved by the Employer’s Representative, and such records are available for inspection by the Employer’s Representative; and 
+	•	The EPC Contractor has submitted a proper statement of the cost of acquiring the goods and materials together with such documents as may be required for evidencing such cost.
+In the event that the Employer’s Representative ascertains that the value of the works properly designed and Executed in the relevant period is less than the Milestone Payment for the period, he shall include in the Certificate of payment, the value of the works and goods and materials so ascertained by him.
+All Certificates of Payment shall specify the amount, which the Employer proposes to pay to the EPC Contractor and the basis on which that amount was calculated. Such amount shall become due on the issue of the said Certificate of Payment.
+Certificate of Completion of Works:
+Certificate of Completion of Works:
+Similarly, the Contractor may request and the Employer/ Employer’s representative shall issue a Certificate of Completion in respect of:
+	•	Any section of the Permanent works in respect of which a separate time for completion is provided in the Contract, and
+	•	Any substantial part of the Permanent Works which has been both completed to the satisfaction of the Employer/ Employer’s representative and occupied or used by the Department.
+Taxes Included in the Bid:
+Taxes included in the bid: The lump sum offer shall provide for all superintendence, labour, material, plant, equipment, Taxes & Duties for all items delivered as finished items and all other things required for successful completion and commissioning of the work including all taxes & duties but excluding the reimbursable as detailed below as per actualswhich will be reimbursable to the contractor, as per actuals on submission of proof of payment.
+For all the items, it shall be inclusive of all taxes and the rates are for finished items only.
+Interest on Money due to Contractor
+No omission by the Executive Engineer or the sub Divisional officer to pay the amount due upon certificates shall vitiateor make void the contract nor shall the contractor be entitled to interestupon any guarantee fund or payments in arrear, nor upon any balance which may on the financial settlements of his accounts, founded to be due to him.
+Income Tax:
+	•	During the currency of the contract, deduction of Income Tax at source shall be made from the gross value of each bill of the contract, as per the directives of CBDT/GOI
+	•	The contractors staff, personal and labour will be liable to pay personnel income taxes in respect of their salaries and wages as are chargable under the Laws and regulations for the time being in force and the contractor shall perform such duties in regard to such deductions there of as may be imposed on him by such laws and regulations.
+Seigniorage Charges: 
+Seigniorage charges will be reimbursed to the contractor as per rules based on the theoretical requirement of materials at the following present rates as per actual on production of proof of payment as per relevant orders by repective departments. 
+The rates are liable to be revised and amended from time to time by the State Government, by notification in the ‘Andhra Pradesh Gazettee’. Seigniorage charges will be reimbursed to the contractor as per rates prevailing at the time of execution provided the contractor produce valid permits/ vouchers/ bills for procurement of sand or as per the Sand Policy of GoAP which is in force.
+GST (Goods & Service Tax):
+During the currency of contract, GST @ 18.00% shall be addedin the work bill while making payments to the contractor.
+The contractor should produce a valid GST Clearance Certificate before the payment of the final bill, otherwise payment to the contractor will be withheld.
+Labour Cess:- The Labour Cess @ 1.00 % on running bills will be recovered for making payment the same to the Labour department.
+Deleted
+NAC Charges: 0.1% on running Bills will be recovered for making payment to NAC 
+Price Adjustment:
+Price adjustment is applicable for Cement, Steel, Bitumen & POL used for construction at the site of work only as per G.O Ms.No.94 of TR&B, dated 16.4.2008.. Price adjustment triggers only when the variation is beyond +/-5% only. Price Adjustment shall not be applicable for manufactured items using Cement & Steel.
+Retention:
+The department shall retain from each payment due to the contractor @ the rate of 7.5% of bill amount until completion of the whole of the Works. Alternatively, the contractor shall furnish the B.G for the said recovered amount in stages equivalent to the recovery to be affected.
+On completion of the whole of the Works (5%) ofthe total amount retained will be re-paid to the Contractor and balance (2 ½ %) when the Defects Liability Period has passed and the Employer/ Employer’s representative has certified that all the Defects notified by the Employer/ Employer’s representative to the Contractor before the end of this period have been corrected.
+The retention amount in excess of 2.50% of value of work done shall be released against unconditional B.G in multiples of Rs.25 Lakhs (in respect of contracts of Rs.100 Crores and below ) / Rs.50 Lakhs (in respect of contracts of above Rs.100 Crores), if the rate of progress is maintained. The unconditional irrevocable B.G shall be for the period till the final bill is paid. In the final bill 2.50% of value of work done is to be retained and kept under deposits. The same shall be paid after defect liability.
+Liquidated Damages:
+If for any reason, which does not entitle the contractor to an extension of item, the rate of progress of works, or any section is at any time, in the opinion of the Employer/ Employer’s representative too slow to ensure completion by the prescribed time or extended time for completion Employer/ Employer’s representative shall so notify the contractor in writing and the contractor shall there upon take such steps as are necessary and the Employer/ Employer’s representative, may approve to expedite progress so as to complete the works or such section by the prescribed time or extended time. The contractor shall not be entitled to any additional payment for taking such steps. If as a result of any notice given by Employer/ Employer’s representative under this clause the contractor shall seek Employer/ Employer’s representative permission to do any work at night or on Sundays, if locally recognized as days or rest, or their locally recognized equivalent, such permission shall not be unreasonably refused.
+If the contractor fails to complete whole of the works or any part thereof or section of the works within the stipulated periods of individual mile stones (including any bonafide extensions allowed by the competent authority without levying liquidated damages), the Employer/ Employer’s representative may without prejudice to any other method of recovery will deduct one tenth of one percent of contract value per calendar day or part of the day for the period of delays subject to a maximum of 10% of the contract value as a penalty from any monies in his hands due or which may become due to the contractor. The payment or deductions of such damages shall not relieve the contractor from his obligation to complete the works, or from any other of his obligations and liabilities under the contract. The maximum of liquidated damages for the whole work of the works is ten percent of final contract price.
+ lf the selected Bidder fails to complete the Assignment, within the period specified under the contract, the Bidder shall pay to the Employer, fixed, and agreed liquidated damages, and not as penalty, @ 0.01% of the contract fees for each day of delay or part thereof. The aggregate maximum of liquidated damages payable to the Employer under this clause shall be subject to a maximum of 10% of the total contract price.
+                                                                                                              
+The liquidated damages for the whole of the work will be filled up at the time of concluding agreementRs. (amount per day)
+For milestone 1   Rs.                        per day per lakh on delayed value of work
+For milestone 2  Rs.                           per day per lakh on delayed value of work
+For milestone 3 Rs.                            per day per lakh on delayed value of work
+The maximum amount of liquidated damages for the whole of the works is ten percent of final contract price.
+The milestones will however be firmed up at the time of agreement after obtaining a program of the work from the bidder.
+Mobilization Advance:Deleted
+Securities:
+The Earnest Money Deposit and Additional Security (for discount Bid percentage beyond 25%) shall be provided to the Department not later than the date specified in the Letter of Acceptance and shall be issued in an amount and form and by a bank acceptable to the Department. The Earnest Money shall be valid until a date 28 days from the date of expiry of Defects Liability Period and the additional security shall be valid until a date 28 days from the date of issue of the certificate of completion and commissioning. 
+Cost of Repairs:
+Loss or damage to the Works or materials to the Works between the Start Date and the end of the Defects Correction Periods shall be remedied by the Contractor at the Contractor’s cost if the loss or damage arises from the Contractor’s acts or omissions.
+FINISHING THE CONTRACT
+Completion:
+The Contractor shall request the Employer/ Employer’s representative to issue a Certificate of completion of the Works and the Employer/ Employer’s representative will do so upon deciding that the work is completed.
+Taking Over:
+Except as stated in clause 52 the works shall be taken over by the Employer when they have been completed in accordance with the Contract (except as described in sub-paragraph (a) below), have passed the Tests on Completion and a taking-Over Certificate for the works has been issued, or has deemed to have been issued in accordance with this Sub-Clause. If the works are divided into sections, the Contractor shall be entitled to apply for a Taking-over certificate for each section.
+The Contractor may apply by notice to the Employer’s Representative for a taking-over certificate not earlier than 14 days before the works or section (as the case may be) will, in the contractor’s opinion, be complete and ready for taking over. “The request for taking over shall be accompanied by as built drawings.” The employer’s representative shall, within 28 days after the receipt of the contractor’s application:
+	•	issue the taking-over certificate to the contractor, stating the date on which the works or section were completed in accordance with the contract (except for minor outstanding work that does not affect the use of the works or section for their intended purpose) including passing the tests on completion: or
+	•	reject the application, giving his reasons and specifying the work required to be done by the contractor to enable the taking-over certificate to be issued: the contractor shall then complete such work before issuing a further notice under this sub-clause.
+If the Employer’s representative fails to issue the taking over certificate or to reject the Contractors application within the period of 28 days, and if the works or section (as the case may be) are substantially in accordance with the contract, the taking-over certificate shall be deemed to have been issued on the last day of that period.
+Deleted.
+Interference with Tests on Completion
+If the contractor is prevented from carrying out the tests on completion by a cause for which the Employer (or another contractor employed by the Employer) is responsible, the employer shall be deemed to have taken over the works or section (as the case may be) on the date when the Tests on Completion would otherwise have been completed. The Employer’s Representative shall then issue a taking-over certificate accordingly, and the contractor shall carry out the tests on completion as soon as practicable, before the expiry of the contract period. The Employer’s Representative shall require the tests on completion to be carried out by 14 days notice and in accordance with the relevant provisions of the Contract. If the contractor incurs additional costas a result of this delay in carrying out the tests on completion, such cost plus reasonable profit shall be determined by the employer’s Representative and shall be added to the contract price.
+Final Account:
+The Contractor shall supply to the Employer/ Employer’s representative a detailed account of the total amount that the Contractor considers payable under the Contract before the end of the Defects Liability Period. The Employer/ Employer’s representative shall issue a Defects Liability Certificate and certify any final payment that is due to the Contractor within 56 days of receiving the Contractor’s account if it is correct and complete. If it is not, the Employer/ Employer’s representative shall issue within 56 days a schedule that states the scope of the corrections or additions that are necessary. If the final Account is still unsatisfactory after it has been resubmitted, the Employer/ Employer’s representative shall decide on the amount payable to the Contractor and issue a payment certificate within 56 days of receiving the Contractor’s revised account.
+Termination:
+The Department may terminate the Contract if the contractor causes a fundamental breach of the Contract.
+Fundamental breaches of Contract include, but shall not be limited to the following.
+	•	The Contractor stops work for 28 days when no stoppage of work is shown on the current program and the stoppage has not been authorised by the Employer/ Employer’s representative.
+	•	The Contractor is made bankrupt or goes into liquidation other than for a reconstruction or amalgamation.
+	•	The Employer/ Employer’s representative gives Notice that failure to correct a particular Defect is a fundamental breach of Contract and the Contractor fails to correct it within a reasonable period of time determined by the Employer/ Employer’s representative; and
+	•	The Contractor does not maintain a security which is required
+	•	The Contractor has delayed the completion of works by the number of days for which the maximum amount of liquidated damages can be paid as defined.
+	•	If the contractor, in the judgement of the Department has engaged in corrupt or fraudulent practices in competing for or in the executing the contract.
+For the purpose of this paragraph: “corrupt practice” means the offering, giving, receiving or soliciting of anything of value to influence the action of a public official in the procurement process or in contract execution. “Fraudulent practice” means a misrepresentation of facts in order to influence a procurement process or the execution of a contract to the detriment o the Government and includes collusive practice among Bidders (prior to or after Bid submission) designed to establish Bid prices at artificial non-competitive levels and to deprive the Government of the benefits of free and open competition.
+Notwithstanding the above the Department may terminate the contract for convenience.
+If the Contract is terminated, the Contractor shall stop work immediately, make the Site safe and secured leave the Site as soon as reasonably possible.
+Payment upon Termination:
+If the Contract is terminated because of a fundamental breach of Contract by the Contractor, the Employer/ Employer’s representative shall issue a certificate for the value of the work done less advance payments received upon the date of the issue of the certificate, less other recoveries due in terms of the Contract, less taxes due to be deducted at source as per applicable law and less the percentage to apply to the work not completed. Additional Liquidated Damages shall not apply. If the total amount due to the Department exceeds any payment due to the Contractor the difference shall be a debt payable to the Department.
+Property:
+All materials on the Site, Plant, Equipment, Temporary Works and Works are deemed to be the property of the Department if the Contract is terminated because of Contractor’s default.
+Release from Performance:
+If the Contract is frustrated by the outbreak of war or by any other event entirely outside the control of either the Department or the Contractor the Employer/ Employer’s representative shall certify that the contract has been frustrated. The Contractor shall make the site safe and stop work as quickly as possible after receiving this certificate and shall be paid for all works carried out before receiving it and for any work carried out after wards to which commitment was made.
+
+
+
