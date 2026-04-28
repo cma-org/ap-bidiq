@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { api, type EvalStatementResponse, type ValidationsResponse, type BidListItem, type TenderDetail } from "@/lib/api";
+import { api, apiBase, type EvalStatementResponse, type ValidationsResponse, type BidListItem, type TenderDetail } from "@/lib/api";
 import { Shell, PageHeader } from "@/components/Shell";
 import { Card, CardHeader, StatCard } from "@/components/Card";
 import { Badge, VerdictBadge } from "@/components/Badge";
@@ -42,7 +42,19 @@ export default async function BidPage({ params }: { params: Promise<{ id: string
             )}
           </span>
         }
-        actions={evalStmt && <VerdictBadge verdict={evalStmt.verdict} />}
+        actions={
+          <div className="flex items-center gap-2">
+            {evalStmt && (
+              <a
+                href={`${apiBase}/eval/by-bid/${bidId}/docx`}
+                className="rounded-lg border border-slate-300 bg-white hover:bg-slate-50 text-slate-800 text-sm font-medium px-3 py-1.5 shadow-sm transition"
+              >
+                ⬇ Export DOCX
+              </a>
+            )}
+            {evalStmt && <VerdictBadge verdict={evalStmt.verdict} />}
+          </div>
+        }
       />
 
       <div className="grid grid-cols-4 gap-4 mb-8">
@@ -50,7 +62,7 @@ export default async function BidPage({ params }: { params: Promise<{ id: string
           label="Total checks"
           value={totalChecks}
           tone="neutral"
-          hint="Layer 1 deterministic"
+          hint="L1 deterministic + L2 LLM clause-semantics"
         />
         <StatCard
           label="Passing"
