@@ -179,16 +179,28 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
             vendor_names=vendor_names,
         ))
 
-    # Check 2: JV joint-and-several
+    # Check 2: JV joint-and-several — only applies to true consortium bids (>=2 partners)
     mc = mcs.get("MAND-JV-AGREEMENT")
-    if mc and forms.get("Form-14"):
+    f14 = forms.get("Form-14") or {}
+    partners = f14.get("partners") or []
+    if mc and f14 and len(partners) >= 2:
         findings.append(_llm_check(
             check_id="FR-VAL-2.2",
             title="JV joint-and-several liability + share split",
             clause_text=mc.source_text,
-            bid_excerpt={"Form-14": forms.get("Form-14", {})},
+            bid_excerpt={"Form-14": f14},
             source_section=mc.source_section, source_clause="Form-14",
             vendor_names=vendor_names,
+        ))
+    elif mc and f14:
+        # Single-entity bidder — JV clause not applicable. Record as a clean pass.
+        findings.append(_ok(
+            "FR-VAL-2.2",
+            "JV joint-and-several liability + share split",
+            "Single-entity bidder — JV clause not applicable.",
+            citation_section=mc.source_section,
+            citation_clause="Form-14 / ITT 1.6.4",
+            citation_text="If consortium: signed JV agreement establishing joint and several liability.",
         ))
 
     # Check 3: No-exceptions declaration
