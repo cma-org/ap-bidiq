@@ -25,11 +25,28 @@ def _check(token: str | None) -> None:
 
 @router.post("/reseed")
 def reseed(
+    hard_reset: bool = False,
     x_admin_token: str | None = Header(None, alias="X-Admin-Token"),
     db: Session = Depends(get_db),
 ):
-    """Drop existing tender + bids, re-ingest corpus + load all synthetic bids."""
+    """Re-ingest corpus + load all synthetic bids.
+
+    Set hard_reset=true to drop ALL tenders + bids first (clean slate).
+    """
     _check(x_admin_token)
+
+    if hard_reset:
+        from app.models import (
+            ActiveRules, AuditLog, Bid, Corrigendum, CrossBidFlag, EvalStatement,
+            FormExtraction, FormRequired, MandatoryClause, Patch, Section, Tender,
+            Validation,
+        )
+        # Order matters for FK constraints
+        for model in [Validation, EvalStatement, CrossBidFlag, FormExtraction, Bid,
+                      Patch, Corrigendum, ActiveRules, Section, FormRequired,
+                      MandatoryClause, AuditLog, Tender]:
+            db.query(model).delete()
+        db.commit()
 
     settings = get_settings()
     candidates = [
@@ -46,6 +63,7 @@ def reseed(
 
     return {
         "ok": True,
+        "hard_reset": hard_reset,
         "tender_id": report.tender_id,
         "sections_loaded": report.sections_loaded,
         "corrigenda_loaded": report.corrigenda_loaded,
