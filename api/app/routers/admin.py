@@ -36,6 +36,7 @@ def reseed(
     _check(x_admin_token)
 
     if hard_reset:
+        from sqlalchemy import text
         from app.models import (
             ActiveRules, AuditLog, Bid, Corrigendum, CrossBidFlag, EvalStatement,
             FormExtraction, FormRequired, MandatoryClause, Patch, Section, Tender,
@@ -47,6 +48,20 @@ def reseed(
                       MandatoryClause, AuditLog, Tender]:
             db.query(model).delete()
         db.commit()
+        # Reset Postgres sequences so re-ingest produces id=1 again (keeps the
+        # hardcoded /tenders/1 URLs in the UI valid). Skip on SQLite.
+        if "postgres" in str(db.bind.url):
+            for seq in ["tenders_id_seq", "bids_id_seq", "sections_id_seq",
+                        "corrigenda_id_seq", "patches_id_seq", "active_rules_id_seq",
+                        "forms_required_id_seq", "mandatory_clauses_id_seq",
+                        "form_extractions_id_seq", "validations_id_seq",
+                        "cross_bid_flags_id_seq", "eval_statements_id_seq",
+                        "audit_log_id_seq"]:
+                try:
+                    db.execute(text(f"ALTER SEQUENCE {seq} RESTART WITH 1"))
+                except Exception:
+                    pass
+            db.commit()
 
     settings = get_settings()
     candidates = [
