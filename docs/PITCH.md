@@ -113,12 +113,14 @@ Tested on **5 vendor bids** (1 clean baseline + 4 with planted defects mirroring
 | Frontend | Next.js 16 + Tailwind | Officer dashboard; sub-second navigation |
 | API | FastAPI (Python 3.12) | Best ecosystem for doc parsing + LLM SDKs |
 | Database | Postgres (Neon) + SQLite for dev | Transparent dev/prod parity via SQLAlchemy |
-| AI | **Claude Sonnet 4.6** (clause semantics) + **Haiku 4.5** (batch extraction) | Strongest accuracy on Indian legal/procurement text; prompt caching cuts cost 90% on repeated tender context |
+| AI | **OpenAI GPT-4o** (clause semantics + drafting) + **GPT-4o-mini** (batch extraction) | Provider-flexible architecture — Claude / Llama / Mistral are single-file swaps. Built-in prompt caching cuts cost on repeated tender context. |
 | Audit | SHA-256 hash chain in Postgres | Tamper-evident; verifies in 1 SQL query |
 | Hosting | Vercel + Railway + Neon | All free tier for the demo; on-prem option available |
 
 **Cost per bid evaluated: ~₹2** (3 LLM calls × cached context).
 **Latency: < 60s end-to-end** for a fresh upload.
+
+**Six brief features, all built**: Drafting Assistant · Validation · Bid Evaluation · Document Comparison (cross-bid anomaly) · Officer Dashboard · Audit Trail. Plus PII redaction, English+Telugu UI, and OCR for scanned bids.
 
 ---
 

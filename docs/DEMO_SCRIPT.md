@@ -26,7 +26,7 @@
 >
 > One — we **ingest your tender plus corrigenda** and produce a versioned ActiveRules object. Every threshold, every clause, with provenance.
 >
-> Two — we run a **three-layer validator** on every vendor bid. Layer one is deterministic: arithmetic, formula compute, threshold compares. Layer two is LLM-driven, using Claude Sonnet 4.6, for clause-semantics that need text understanding. Layer three is cross-bid anomaly detection — collusion patterns. Every finding cites a quoted source.
+> Two — we run a **three-layer validator** on every vendor bid. Layer one is deterministic: arithmetic, formula compute, threshold compares. Layer two is LLM-driven, using OpenAI GPT-4o, for clause-semantics that need text understanding. Layer three is cross-bid anomaly detection — collusion patterns. Every finding cites a quoted source.
 >
 > Three — we generate an **Evaluation Statement** that mirrors the format your evaluators already use. Drop-in replacement for the manual checklist.
 >
@@ -130,7 +130,7 @@
 
 > "For the engineers in the room: Next.js 16, React 19 frontend on Vercel. FastAPI with SQLAlchemy on Railway. Postgres on Neon — Singapore region for AP latency.
 >
-> Claude Sonnet 4.6 for clause semantics. Haiku 4.5 for batch extraction. **Prompt caching cuts cost by ninety percent** on the shared tender context — each bid evaluation costs about two rupees.
+> OpenAI GPT-4o for clause semantics + drafting; GPT-4o-mini for batch extraction. **Prompt caching cuts cost by ninety percent** on the shared tender context — each bid evaluation costs about two rupees. Provider-flexible architecture — switching to Claude or self-hosted Llama is a single-file change.
 >
 > Audit log: SHA-256 hash chain in Postgres, verifiable in one SQL query. Sub-sixty-second latency per bid. Embarrassingly parallel — scales linearly to thousands of bids per day."
 

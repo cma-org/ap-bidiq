@@ -30,10 +30,14 @@ Tested across 5 vendor bids representing real Indian infrastructure firms (Megha
 
 2. **Three-layer validator:**
    - **L1 (Deterministic):** 10 hard checks — bid-capacity formula `A×N×3−B`, EMD validity, BG payee = JV name, bill arithmetic, threshold compares. No LLM, no ambiguity.
-   - **L2 (LLM clause-semantics):** 3 checks requiring text understanding — Integrity Pact signatory match, JV joint-and-several liability, no-deviations declaration. Uses **Claude Sonnet 4.6** with citation-required prompting.
-   - **L3 (Cross-bid anomaly):** Roadmap. Detects cartelisation, copy-paste collusion, shared subcontractors.
+   - **L2 (LLM clause-semantics):** 3 checks requiring text understanding — Integrity Pact signatory match, JV joint-and-several liability, no-deviations declaration. Uses **OpenAI GPT-4o** with citation-required prompting and PII-redacted payloads.
+   - **L3 (Cross-bid anomaly):** Pairwise rapidfuzz on experience claims, JV partner overlap, identical-bid-value detection. Surfaces cartel signals for officer review.
 
-3. **Evaluation Statement** — Generates output in the **exact column structure** of the human evaluator template (criterion / required / submitted / meets / remarks). Drop-in replacement for the manual checklist used by procurement officers today.
+3. **AI Drafting Assistant** — Generates a draft Section 1 (ITT) for a new project from a brief, grounded in your existing clause library and the EPCC tender's structural conventions. GPT-4o produces the draft; officer reviews and edits.
+
+4. **Evaluation Statement** — Generates output in the **exact column structure** of the human evaluator template (criterion / required / submitted / meets / remarks). DOCX export. Drop-in replacement for the manual checklist used by procurement officers today.
+
+5. **English + Telugu UI** with a one-click toggle, plus **OCR upload** (Tesseract eng+tel) for scanned vendor bids.
 
 ## Why this wins for AP
 
@@ -47,7 +51,7 @@ Tested across 5 vendor bids representing real Indian infrastructure firms (Megha
 
 | Concern | Our answer |
 |---|---|
-| **Vendor data privacy?** | Anonymisation at ingest (PII masked before LLM call). Claude API does not train on your data. Self-hosted Llama option available for data-residency mandates. |
+| **Vendor data privacy?** | PII redaction at ingest (PAN, GST, CIN, email, phone, vendor names regex-masked before any LLM call — count surfaced in audit log). OpenAI API contract excludes API data from training. Self-hosted Llama option available for data-residency mandates. |
 | **What if AI is wrong?** | Three safeguards: (a) source quote shown for every finding — officer verifies in seconds; (b) tamper-evident audit log with hash chain; (c) ground-truth benchmark catches regressions on every model update. |
 | **Scanned PDFs / older bids?** | OCR-ready pipeline. Toggle Tesseract pre-pass or Claude vision; v1 demo uses native text extraction. |
 | **Replaces officers?** | No. Removes the mechanical 70%, lets officers spend 100% of their time on judgment-grade decisions. |

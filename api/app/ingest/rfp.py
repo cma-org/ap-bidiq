@@ -354,15 +354,31 @@ def ingest_corpus(
     department: str = "Infrastructure & Investment Department, Government of Andhra Pradesh",
     code: str = "EPCC-FH-PII-2025",
 ) -> IngestReport:
-    """Idempotent ingest: drops existing tender with matching code first."""
-    existing = db.query(Tender).filter(Tender.code == code).first()
-    if existing:
-        db.delete(existing)
-        db.commit()
+    """Idempotent ingest. Re-uses existing tender row (preserves ID) and clears sub-rows."""
+    from app.models import (
+        ActiveRules,
+        Corrigendum,
+        FormRequired,
+        MandatoryClause,
+        Section,
+    )
 
-    tender = Tender(title=title, department=department, code=code)
-    db.add(tender)
-    db.flush()  # populate tender.id
+    tender = db.query(Tender).filter(Tender.code == code).first()
+    if tender:
+        # Clear children but keep the row so the tender_id stays stable.
+        db.query(Section).filter(Section.tender_id == tender.id).delete()
+        db.query(Corrigendum).filter(Corrigendum.tender_id == tender.id).delete()
+        db.query(MandatoryClause).filter(MandatoryClause.tender_id == tender.id).delete()
+        db.query(FormRequired).filter(FormRequired.tender_id == tender.id).delete()
+        db.query(ActiveRules).filter(ActiveRules.tender_id == tender.id).delete()
+        # title/department may have been edited — restore to canonical
+        tender.title = title
+        tender.department = department
+        db.commit()
+    else:
+        tender = Tender(title=title, department=department, code=code)
+        db.add(tender)
+        db.flush()
 
     report = IngestReport(tender_id=tender.id)
 
