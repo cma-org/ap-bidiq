@@ -376,7 +376,13 @@ def ingest_corpus(
         tender.department = department
         db.commit()
     else:
-        tender = Tender(title=title, department=department, code=code)
+        # Force id=1 so the hardcoded /tenders/1 URLs in the UI stay valid.
+        # If id=1 already exists (with a different code), use auto-increment.
+        existing_id_1 = db.query(Tender).filter(Tender.id == 1).first()
+        if existing_id_1:
+            tender = Tender(title=title, department=department, code=code)
+        else:
+            tender = Tender(id=1, title=title, department=department, code=code)
         db.add(tender)
         db.flush()
 
