@@ -48,7 +48,7 @@ This directly hits the hackathon brief's PoC success criteria:
 - **Real e-procurement integration.** No live API to AP's e-procurement portal. Mocked.
 - **Telugu / bilingual UI.** Corpus is English-only; English-only UI for v1.
 - **Auth / RBAC.** Single-officer demo; no login screen. Mention as roadmap.
-- **Real OCR for scanned PDFs.** v1 assumes text-extractable docs (Claude API handles native PDFs/DOCX). Roadmap if a judge asks about scanned bids.
+- **Real OCR for scanned PDFs.** v2: shipped Tesseract + poppler pipeline with English + Telugu language packs. Toggle in upload UI.
 - **Drafting assistant clause-suggestion RAG.** Not in v1.
 - **Production audit/security hardening.** Audit log is implemented (it's a brief requirement) but not pen-tested.
 
@@ -105,7 +105,7 @@ This directly hits the hackathon brief's PoC success criteria:
 - **FR-VAL-1.9**: Bill summation: Σ(Bills 1–5) = Grand Summary total (tolerance ≤ 0.1%).
 - **FR-VAL-1.10**: Performance Security validity covers contract end date + DLP + 90 days.
 
-**Layer 2 — LLM clause semantics (Claude API, must cite source):**
+**Layer 2 — LLM clause semantics (OpenAI GPT-4o, must cite source, PII redacted):**
 - **FR-VAL-2.1**: Integrity Pact present and signed by authorized signatory listed in Form-2 PoA.
 - **FR-VAL-2.2**: JV agreement contains explicit "joint and several liability" language.
 - **FR-VAL-2.3**: Power of Attorney scope covers bid signing + contract execution.

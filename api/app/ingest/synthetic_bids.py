@@ -43,7 +43,7 @@ def _form2(signatory_name: str, scope: str = "Authorised to sign and submit the 
     }
 
 
-def _bid_bond(payee: str, amount_cr: float = 7.6, valid_days: int = 210, issuer: str = "State Bank of India") -> dict[str, Any]:
+def _bid_bond(payee: str, amount_cr: float = 8.0, valid_days: int = 210, issuer: str = "State Bank of India") -> dict[str, Any]:
     return {
         "amount_inr_cr": amount_cr,
         "issuer_bank": issuer,
