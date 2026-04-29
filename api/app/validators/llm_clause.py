@@ -1,23 +1,23 @@
 """Layer-2 LLM clause-semantics validator.
 
-Uses Claude to verify clause-level requirements that need text understanding,
-not just field comparison. Every finding includes a quoted source citation
-that the officer can verify in 5 seconds.
+Uses an LLM (default: GPT-4o) to verify clause-level requirements that need
+text understanding, not just field comparison. Every finding includes a
+quoted source citation that the officer can verify in 5 seconds.
 
-Falls back to a deterministic stub when ANTHROPIC_API_KEY is not set, so the
-demo runs even without a key. The stub mirrors what the LLM would conclude
-on the synthetic bids — clearly labeled in the model_version field.
+PII (vendor names, PAN, GST, signatory names, contact info) is redacted from
+bid data before it leaves the boundary. The redaction count is surfaced in
+the finding so the audit trail records 'N PII tokens masked'.
+
+Falls back to deterministic stubs when no API key is set, so the demo runs
+even offline.
 """
 from __future__ import annotations
 
-import json
-import os
-from typing import Any
-
 from sqlalchemy.orm import Session
 
-from app.config import get_settings
-from app.models import Bid, FormExtraction, MandatoryClause, Validation, Section
+from app.models import Bid, FormExtraction, MandatoryClause, Validation
+from app.services.llm import LLMUnavailable, chat_json, get_strong_model_label, is_available
+from app.services.redact import redact_for_llm_call
 from app.validators.deterministic import Finding, _by_form, _ok, _fail
 
 
@@ -25,7 +25,7 @@ SYSTEM_PROMPT = """You are an expert evaluator of public-procurement bids for th
 
 You will be given:
 1. Excerpts of mandatory clauses from the tender document (the "active rules").
-2. The relevant extracted fields from a vendor's bid submission.
+2. The relevant extracted fields from a vendor's bid submission (with PII redacted).
 
 Your job is to evaluate ONE specific compliance check and return a JSON object with:
 - verdict: "pass" | "fail" | "warning"
@@ -33,9 +33,7 @@ Your job is to evaluate ONE specific compliance check and return a JSON object w
 - citation_text: an EXACT quoted phrase from the source clause that justifies your verdict (≤ 200 chars)
 - evidence_summary: brief description of what the bid showed (≤ 200 chars)
 
-Be conservative. If the bid demonstrably meets the requirement, pass. If a required element is missing or contradicts the rule, fail. If you're unsure, return warning with a clear explanation.
-
-Output ONLY valid JSON, no markdown fences, no commentary.
+Be conservative. If the bid demonstrably meets the requirement, pass. If a required element is missing or contradicts the rule, fail. If you're unsure, return warning with a clear explanation. Output JSON only.
 """
 
 
@@ -102,30 +100,10 @@ def _stub_no_exceptions(forms: dict, mc: MandatoryClause | None) -> Finding:
 
 # ---- LLM-driven validators ----------------------------------------------
 
-def _client():
-    """Lazy-import + lazy-init the Anthropic client. Returns None when no key."""
-    settings = get_settings()
-    key = settings.anthropic_api_key or os.environ.get("ANTHROPIC_API_KEY", "")
-    if not key:
-        return None, None
-    try:
-        from anthropic import Anthropic  # type: ignore
-        return Anthropic(api_key=key), settings.anthropic_model_strong
-    except Exception:
-        return None, None
-
-
-def _llm_check(client, model: str, *, check_id: str, title: str,
+def _llm_check(*, check_id: str, title: str,
                clause_text: str, bid_excerpt: dict, source_section: str, source_clause: str,
                vendor_names: list[str] | None = None) -> Finding:
-    """Make one LLM call for one compliance check.
-
-    PII (PAN, GST, vendor names, signatory names, contact info) is redacted
-    from `bid_excerpt` before it leaves the boundary. The redaction count is
-    surfaced in the finding so the audit trail records 'N PII tokens masked'.
-    """
-    from app.services.redact import redact_for_llm_call
-
+    """Make one LLM call for one compliance check, with PII redaction."""
     redacted_json, redaction_report = redact_for_llm_call(bid_excerpt, vendor_names or [])
 
     user_prompt = f"""Compliance check: {title}
@@ -137,41 +115,40 @@ Mandatory clause from tender:
 
 Source: {source_section} / {source_clause}
 
-Vendor bid excerpts (JSON, with PII redacted):
+Vendor bid excerpts (JSON, PII redacted):
 {redacted_json}
 
 Decide if the bid satisfies this clause. Output JSON only:
 {{"verdict": "...", "message": "...", "citation_text": "...", "evidence_summary": "..."}}"""
+
     try:
-        resp = client.messages.create(
-            model=model,
+        parsed = chat_json(
+            system_prompt=SYSTEM_PROMPT,
+            user_prompt=user_prompt,
             max_tokens=400,
-            system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": user_prompt}],
+            temperature=0.0,
         )
-        text = resp.content[0].text  # type: ignore[attr-defined]
-        parsed = json.loads(text)
-        verdict = parsed.get("verdict", "warning")
-        message = parsed.get("message", "(no message)")
-        citation_text = parsed.get("citation_text", clause_text[:200])
-        # Append PII-redaction note to message so audit trail captures it.
-        if redaction_report.total > 0:
-            message = f"{message} (PII masked before LLM call: {redaction_report.total} tokens — {dict(redaction_report.counts_by_type)})"
-        if verdict == "pass":
-            return _ok(check_id, title, message,
-                       citation_section=source_section, citation_clause=source_clause,
-                       citation_text=citation_text)
-        return _fail(check_id, title, message, severity="major" if verdict == "fail" else "minor",
-                     citation_section=source_section, citation_clause=source_clause,
-                     citation_text=citation_text)
-    except Exception as e:  # noqa: BLE001
-        return _fail(check_id, title, f"LLM check failed: {e}", severity="info",
+    except (LLMUnavailable, ValueError, Exception) as e:  # noqa: BLE001
+        return _fail(check_id, title, f"LLM check failed: {type(e).__name__}", severity="info",
                      citation_section=source_section, citation_clause=source_clause,
                      citation_text=clause_text[:200])
 
+    verdict = parsed.get("verdict", "warning")
+    message = parsed.get("message", "(no message)")
+    citation_text = parsed.get("citation_text", clause_text[:200])
+    if redaction_report.total > 0:
+        message = f"{message} (PII masked before LLM call: {redaction_report.total} tokens — {dict(redaction_report.counts_by_type)})"
+    if verdict == "pass":
+        return _ok(check_id, title, message,
+                   citation_section=source_section, citation_clause=source_clause,
+                   citation_text=citation_text)
+    return _fail(check_id, title, message, severity="major" if verdict == "fail" else "minor",
+                 citation_section=source_section, citation_clause=source_clause,
+                 citation_text=citation_text)
+
 
 def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
-    """Returns (findings, model_version). model_version distinguishes LLM vs stub."""
+    """Returns (findings, model_version). Falls back to stubs without an LLM key."""
     bid = db.get(Bid, bid_id)
     if bid is None:
         raise ValueError(f"bid {bid_id} not found")
@@ -179,10 +156,7 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
     forms = _by_form(bid.extractions)
     mcs = {m.code: m for m in db.query(MandatoryClause).filter(MandatoryClause.tender_id == bid.tender_id).all()}
 
-    client, model = _client()
-
-    if client is None:
-        # Run deterministic stubs that mimic the LLM's expected output shape.
+    if not is_available():
         findings = [
             _stub_integrity_pact(forms, mcs.get("MAND-INTEGRITY-PACT")),
             _stub_jv_joint_several(forms, mcs.get("MAND-JV-AGREEMENT")),
@@ -190,7 +164,6 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
         ]
         return findings, "llm-stub-v1"
 
-    # Real LLM calls — gated to keep cost bounded.
     findings: list[Finding] = []
     vendor_names = [bid.vendor_name] + (bid.jv_partners or [])
 
@@ -198,7 +171,6 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
     mc = mcs.get("MAND-INTEGRITY-PACT")
     if mc:
         findings.append(_llm_check(
-            client, model,
             check_id="FR-VAL-2.1",
             title="Integrity Pact signed by authorised signatory",
             clause_text=mc.source_text,
@@ -211,7 +183,6 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
     mc = mcs.get("MAND-JV-AGREEMENT")
     if mc and forms.get("Form-14"):
         findings.append(_llm_check(
-            client, model,
             check_id="FR-VAL-2.2",
             title="JV joint-and-several liability + share split",
             clause_text=mc.source_text,
@@ -224,7 +195,6 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
     mc = mcs.get("MAND-NO-EXCEPTIONS")
     if mc:
         findings.append(_llm_check(
-            client, model,
             check_id="FR-VAL-2.4",
             title="No-exceptions / no-deviations declaration",
             clause_text=mc.source_text,
@@ -233,7 +203,7 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
             vendor_names=vendor_names,
         ))
 
-    return findings, f"llm-{model}"
+    return findings, f"llm-{get_strong_model_label()}"
 
 
 def persist_llm_findings(db: Session, bid_id: int, findings: list[Finding], model_version: str) -> int:

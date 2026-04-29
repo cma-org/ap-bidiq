@@ -4,64 +4,45 @@ Given a project brief (name, department, type, budget, location, etc.), the
 assistant uses RAG over our existing tender's clause library + section
 boilerplate to generate a draft RFP Section 1 (ITT) for the new project.
 
-This isn't a generic "write a tender" prompt — it's grounded in the AP/EPCC
-clause set we already ingested, ensuring the draft uses the same legal
-language and structure as the department's existing tenders.
+Backed by OpenAI GPT-4o (configurable per-deployment). Falls back to a
+deterministic template when no key is set or the LLM call fails — so the
+demo runs even offline.
 """
 from __future__ import annotations
 
 import json
+from datetime import timedelta
 from typing import Any
 
 from sqlalchemy.orm import Session
 
-from app.config import get_settings
 from app.models import MandatoryClause, Section, Tender
+from app.services.llm import LLMUnavailable, chat_json, get_strong_model_label
 
 
-SYSTEM_PROMPT = """You are an experienced procurement officer drafting an RFP Section 1 (Instructions to Tenderers) for the Government of Andhra Pradesh.
+SYSTEM_PROMPT = """You are an AP procurement officer drafting an RFP Section 1 (Instructions to Tenderers).
 
-You will be given:
-1. A project brief with key parameters (name, type, budget, location, etc.).
-2. The mandatory clauses that must appear in any AP tender (the "clause library").
-3. Excerpts from a reference tender Section 1 to use as structural inspiration.
-
-Your job: produce a draft Section 1 (ITT) for the new project. Use formal AP procurement language. Cite the specific mandatory clauses by code in [brackets] when you reference them. Do not invent legal text — adapt the reference material.
-
-Output a structured JSON object with this shape:
+Output a JSON object with this exact shape (no markdown, no commentary):
 {
-  "title": "string — section title",
+  "title": "...",
   "subsections": [
-    {"heading": "string", "body": "string — the actual clause text", "cited_clauses": ["MAND-XXX", ...]}
+    {"heading": "1.1 ...", "body": "concise clause text 2-4 sentences", "cited_clauses": ["MAND-..."]}
   ],
   "thresholds_table": [
-    {"label": "string", "value": "string", "source": "string — where this is set"}
+    {"label": "...", "value": "...", "source": "..."}
   ],
-  "ai_notes": "string — any officer-attention items (gaps, decisions needed, items requiring SME review)"
+  "ai_notes": "officer attention items"
 }
 
 Rules:
-- Generate 6–8 subsections covering: scope, eligibility, EMD, qualification, JV, evaluation method, submission, validity.
-- Cite at least 8 distinct mandatory clause codes across the document.
-- Compute thresholds from the project brief (e.g., EMD = 2% of budget, similar work = 50% of budget).
-- Flag any officer decision required in ai_notes.
-- Output ONLY the JSON. No markdown fences, no commentary.
+- 5-6 subsections covering: scope, eligibility, EMD, qualification, JV, integrity.
+- Each body 2-4 sentences max.
+- Cite mandatory clause codes from the provided library by code.
+- Compute numeric thresholds from the brief budget (EMD = 2%; min turnover ≈ 92% of budget; min similar-work ≈ 46% of budget).
 """
 
 
-def _client():
-    settings = get_settings()
-    if not settings.anthropic_api_key:
-        return None, None
-    try:
-        from anthropic import Anthropic  # type: ignore
-        return Anthropic(api_key=settings.anthropic_api_key), settings.anthropic_model_strong
-    except Exception:
-        return None, None
-
-
 def _stub_draft(brief: dict[str, Any], clauses: list[MandatoryClause]) -> dict[str, Any]:
-    """Deterministic fallback when no API key — still demonstrates the structure."""
     budget = float(brief.get("budget_inr_cr", 100.0))
     return {
         "title": f"Section 1 — Instructions to Tenderers — {brief.get('project_name', 'New Project')}",
@@ -92,19 +73,9 @@ def _stub_draft(brief: dict[str, Any], clauses: list[MandatoryClause]) -> dict[s
                 "cited_clauses": ["MAND-FIN-3YR"],
             },
             {
-                "heading": "1.6 JV Agreement (Form-14)",
-                "body": "If consortium: signed JV agreement establishing joint and several liability through defects-liability period; lists each partner's role and percentage share; signed by all partners.",
-                "cited_clauses": ["MAND-JV-AGREEMENT", "MAND-LEAD-POA"],
-            },
-            {
-                "heading": "1.7 Power of Attorney (Form-2)",
-                "body": "Notarized Power of Attorney identifying the authorized signatory; notarization not older than 6 months.",
-                "cited_clauses": ["MAND-POA"],
-            },
-            {
-                "heading": "1.8 Integrity Pact (Form-13)",
-                "body": "Bidder undertakes no use of intermediaries or bribes; signed by the same authorized signatory listed in Form-2.",
-                "cited_clauses": ["MAND-INTEGRITY-PACT", "MAND-NO-EXCEPTIONS"],
+                "heading": "1.6 JV Agreement (Form-14) + Integrity Pact (Form-13)",
+                "body": "If consortium: signed JV agreement establishing joint and several liability through defects-liability period. Integrity Pact must be signed by the same authorised signatory listed in Form-2 PoA.",
+                "cited_clauses": ["MAND-JV-AGREEMENT", "MAND-LEAD-POA", "MAND-INTEGRITY-PACT"],
             },
         ],
         "thresholds_table": [
@@ -116,7 +87,7 @@ def _stub_draft(brief: dict[str, Any], clauses: list[MandatoryClause]) -> dict[s
             {"label": "Bid capacity lookback", "value": "10 years", "source": "Corrigendum-1 amendment to ITT 1.6.1"},
         ],
         "ai_notes": (
-            "STUB MODE — no LLM key available. Officer should review: (a) whether 2% EMD is appropriate "
+            "STUB MODE — running without LLM. Officer should review: (a) whether 2% EMD is appropriate "
             "for the contract type, (b) whether the lookback period reflects current corrigenda, (c) special "
             "requirements specific to this project type that may need additional clauses."
         ),
@@ -124,7 +95,6 @@ def _stub_draft(brief: dict[str, Any], clauses: list[MandatoryClause]) -> dict[s
 
 
 def draft_section_1(db: Session, tender_id: int, brief: dict[str, Any]) -> dict[str, Any]:
-    """Generate a Section 1 draft based on a project brief."""
     tender = db.get(Tender, tender_id)
     if not tender:
         raise ValueError(f"Reference tender {tender_id} not found")
@@ -140,63 +110,42 @@ def draft_section_1(db: Session, tender_id: int, brief: dict[str, Any]) -> dict[
         .first()
     )
 
-    client, model = _client()
-
-    if client is None:
-        result = _stub_draft(brief, clauses)
-        result["model_version"] = "drafting-stub-v1"
-        return result
-
-    # Build the RAG context: mandatory clauses + a slice of the reference Section 1
-    clause_library = [
-        {"code": c.code, "title": c.title, "section": c.source_section, "text": c.source_text[:400]}
-        for c in clauses
-    ]
-    reference_excerpt = (section_1.raw_text[:8000] if section_1 else "(no reference Section 1 available)")
+    # Tight RAG context: clause CODES + titles only (no full text), plus a short reference.
+    clause_library = [{"code": c.code, "title": c.title} for c in clauses]
+    reference_excerpt = (section_1.raw_text[:2500] if section_1 else "(no reference)")
 
     user_prompt = f"""PROJECT BRIEF:
 {json.dumps(brief, indent=2)}
 
-MANDATORY CLAUSE LIBRARY (cite by code):
+MANDATORY CLAUSES (cite by code):
 {json.dumps(clause_library, indent=2)}
 
-REFERENCE SECTION 1 EXCERPT (for tone + structure inspiration):
+REFERENCE Section 1 EXCERPT (for tone):
 \"\"\"
 {reference_excerpt}
 \"\"\"
 
-Generate the draft Section 1 (ITT) JSON now.
+Generate the JSON now.
 """
 
     try:
-        resp = client.messages.create(
-            model=model,
-            max_tokens=8192,
-            system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": user_prompt}],
+        result = chat_json(
+            system_prompt=SYSTEM_PROMPT,
+            user_prompt=user_prompt,
+            max_tokens=2500,
+            temperature=0.2,
         )
-        text = resp.content[0].text  # type: ignore[attr-defined]
-        # Strip any accidental fences
-        text = text.strip()
-        if text.startswith("```"):
-            text = text.split("```", 2)[1] if "```" in text[3:] else text[3:]
-            if text.startswith("json"):
-                text = text[4:]
-            text = text.rsplit("```", 1)[0]
-        result = json.loads(text)
-        result["model_version"] = f"drafting-{model}"
+        result["model_version"] = f"drafting-{get_strong_model_label()}"
         return result
-    except json.JSONDecodeError as e:
-        # LLM returned malformed/truncated JSON — fall back to stub but keep the model name visible.
+    except LLMUnavailable:
         result = _stub_draft(brief, clauses)
-        result["model_version"] = f"drafting-{model}-stub-fallback (parse error)"
+        result["model_version"] = "drafting-stub-no-key"
+        return result
+    except (ValueError, Exception) as e:  # noqa: BLE001
+        result = _stub_draft(brief, clauses)
+        result["model_version"] = f"drafting-stub-after-error: {type(e).__name__}"
         result["ai_notes"] = (
-            f"LLM response could not be parsed (JSON error at char {e.pos}). "
-            f"Falling back to deterministic template. In production, the system would retry with stricter prompting "
-            f"or split the request into per-section calls."
-        ) + " " + result.get("ai_notes", "")
-        return result
-    except Exception as e:  # noqa: BLE001
-        result = _stub_draft(brief, clauses)
-        result["model_version"] = f"drafting-stub-after-error: {e}"
+            f"LLM call failed ({type(e).__name__}): falling back to deterministic template. "
+            "In production, the system would retry with stricter prompting or split into per-section calls. "
+        ) + result.get("ai_notes", "")
         return result

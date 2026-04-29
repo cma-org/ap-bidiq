@@ -11,6 +11,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 _env_path = Path(__file__).resolve().parent.parent / ".env"
 if _env_path.exists():
     for k, v in dotenv_values(str(_env_path)).items():
+        # Override blank/missing — some hosts pre-set empty values for our keys.
         if v and not os.environ.get(k):
             os.environ[k] = v
 
@@ -24,7 +25,12 @@ class Settings(BaseSettings):
     # Defaults to local sqlite for dev; override with Neon Postgres URL in prod.
     database_url: str = "sqlite+pysqlite:///./bidiq.db"
 
-    # Anthropic
+    # OpenAI (primary LLM provider)
+    openai_api_key: str = ""
+    openai_model_strong: str = "gpt-4o"
+    openai_model_fast: str = "gpt-4o-mini"
+
+    # Anthropic (kept for optional fallback / future use)
     anthropic_api_key: str = ""
     anthropic_model_strong: str = "claude-sonnet-4-6"
     anthropic_model_fast: str = "claude-haiku-4-5"
