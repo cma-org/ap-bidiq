@@ -148,6 +148,19 @@ export type BenchmarkResponse = {
   }[];
 };
 
+export type AnomalyRow = {
+  id: number;
+  bid_a_id: number;
+  bid_b_id: number;
+  bid_a_vendor: string;
+  bid_b_vendor: string;
+  flag_type: string;
+  similarity: number;
+  severity: "info" | "minor" | "major" | "critical";
+  explanation: string;
+  evidence: Record<string, unknown>;
+};
+
 export type AuditRow = {
   id: number;
   ts: string;

@@ -116,8 +116,18 @@ def _client():
 
 
 def _llm_check(client, model: str, *, check_id: str, title: str,
-               clause_text: str, bid_excerpt: dict, source_section: str, source_clause: str) -> Finding:
-    """Make one LLM call for one compliance check."""
+               clause_text: str, bid_excerpt: dict, source_section: str, source_clause: str,
+               vendor_names: list[str] | None = None) -> Finding:
+    """Make one LLM call for one compliance check.
+
+    PII (PAN, GST, vendor names, signatory names, contact info) is redacted
+    from `bid_excerpt` before it leaves the boundary. The redaction count is
+    surfaced in the finding so the audit trail records 'N PII tokens masked'.
+    """
+    from app.services.redact import redact_for_llm_call
+
+    redacted_json, redaction_report = redact_for_llm_call(bid_excerpt, vendor_names or [])
+
     user_prompt = f"""Compliance check: {title}
 
 Mandatory clause from tender:
@@ -127,8 +137,8 @@ Mandatory clause from tender:
 
 Source: {source_section} / {source_clause}
 
-Vendor bid excerpts (JSON):
-{json.dumps(bid_excerpt, indent=2)}
+Vendor bid excerpts (JSON, with PII redacted):
+{redacted_json}
 
 Decide if the bid satisfies this clause. Output JSON only:
 {{"verdict": "...", "message": "...", "citation_text": "...", "evidence_summary": "..."}}"""
@@ -144,6 +154,9 @@ Decide if the bid satisfies this clause. Output JSON only:
         verdict = parsed.get("verdict", "warning")
         message = parsed.get("message", "(no message)")
         citation_text = parsed.get("citation_text", clause_text[:200])
+        # Append PII-redaction note to message so audit trail captures it.
+        if redaction_report.total > 0:
+            message = f"{message} (PII masked before LLM call: {redaction_report.total} tokens — {dict(redaction_report.counts_by_type)})"
         if verdict == "pass":
             return _ok(check_id, title, message,
                        citation_section=source_section, citation_clause=source_clause,
@@ -179,6 +192,7 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
 
     # Real LLM calls — gated to keep cost bounded.
     findings: list[Finding] = []
+    vendor_names = [bid.vendor_name] + (bid.jv_partners or [])
 
     # Check 1: Integrity Pact authorised signatory
     mc = mcs.get("MAND-INTEGRITY-PACT")
@@ -190,6 +204,7 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
             clause_text=mc.source_text,
             bid_excerpt={"Form-13": forms.get("Form-13", {}), "Form-12": forms.get("Form-12", {}), "Form-2_signatory": forms.get("Form-2", {}).get("signatory_name") if forms.get("Form-2") else None},
             source_section=mc.source_section, source_clause="Form-13",
+            vendor_names=vendor_names,
         ))
 
     # Check 2: JV joint-and-several
@@ -202,6 +217,7 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
             clause_text=mc.source_text,
             bid_excerpt={"Form-14": forms.get("Form-14", {})},
             source_section=mc.source_section, source_clause="Form-14",
+            vendor_names=vendor_names,
         ))
 
     # Check 3: No-exceptions declaration
@@ -214,6 +230,7 @@ def run_llm_validators(db: Session, bid_id: int) -> tuple[list[Finding], str]:
             clause_text=mc.source_text,
             bid_excerpt={"Form-12": forms.get("Form-12", {})},
             source_section=mc.source_section, source_clause="Form-12",
+            vendor_names=vendor_names,
         ))
 
     return findings, f"llm-{model}"

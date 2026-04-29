@@ -8,7 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.config import get_settings
 from app.db import Base, SessionLocal, engine
 from app.models import Tender
-from app.routers import tenders, bids, validations, eval as eval_router, benchmark, audit
+from app.routers import tenders, bids, validations, eval as eval_router, benchmark, audit, draft, anomalies, upload
 
 settings = get_settings()
 
@@ -60,6 +60,9 @@ app.include_router(validations.router)
 app.include_router(eval_router.router)
 app.include_router(benchmark.router)
 app.include_router(audit.router)
+app.include_router(draft.router)
+app.include_router(anomalies.router)
+app.include_router(upload.router)
 
 
 @app.get("/")

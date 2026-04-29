@@ -132,7 +132,7 @@ BID_01_CLEAN: dict[str, Any] = {
 BID_02_MISSING_BG: dict[str, Any] = {
     "vendor_name": "L&T Construction (Heavy Civil Infrastructure)",
     "jv_partners": ["Larsen & Toubro Limited"],
-    "bid_value_inr_cr": DEMO_BID_VALUE_CR,
+    "bid_value_inr_cr": 388.5,
     "submitted_at_iso": BID_DATE.isoformat(),
     "label": {
         "verdict": "Not Qualified",
@@ -202,7 +202,7 @@ BID_02_MISSING_BG: dict[str, Any] = {
 BID_03_BG_NAME_MISMATCH: dict[str, Any] = {
     "vendor_name": "Afcons-Tata Projects JV",
     "jv_partners": ["Afcons Infrastructure Ltd.", "Tata Projects Limited"],
-    "bid_value_inr_cr": DEMO_BID_VALUE_CR,
+    "bid_value_inr_cr": 392.1,
     "submitted_at_iso": BID_DATE.isoformat(),
     "label": {
         "verdict": "Not Qualified",
@@ -277,7 +277,7 @@ BID_03_BG_NAME_MISMATCH: dict[str, Any] = {
 BID_04_CAPACITY_SHORTFALL: dict[str, Any] = {
     "vendor_name": "Navayuga Engineering Company Ltd.",
     "jv_partners": ["Navayuga Engineering Company Ltd."],
-    "bid_value_inr_cr": DEMO_BID_VALUE_CR,
+    "bid_value_inr_cr": 376.2,
     "submitted_at_iso": BID_DATE.isoformat(),
     "label": {
         "verdict": "Not Qualified",
@@ -347,7 +347,7 @@ BID_04_CAPACITY_SHORTFALL: dict[str, Any] = {
 BID_05_STALE_AND_BILL_MISMATCH: dict[str, Any] = {
     "vendor_name": "Hindustan Construction Company (HCC)",
     "jv_partners": ["Hindustan Construction Company Ltd."],
-    "bid_value_inr_cr": DEMO_BID_VALUE_CR,
+    "bid_value_inr_cr": 384.3,
     "submitted_at_iso": BID_DATE.isoformat(),
     "label": {
         "verdict": "Not Qualified",
@@ -413,12 +413,91 @@ BID_05_STALE_AND_BILL_MISMATCH: dict[str, Any] = {
 }
 
 
+# ---- BID 06 — Cross-bid collusion signal --------------------------------
+# Same project listed by another bidder + identical bid value to bid 1 →
+# triggers Layer-3 cross-bid anomaly detection.
+
+BID_06_COLLUSION_SIGNAL: dict[str, Any] = {
+    "vendor_name": "Patel-IRCON Marine JV",
+    "jv_partners": ["Patel Engineering Ltd.", "IRCON International Ltd."],
+    "bid_value_inr_cr": DEMO_BID_VALUE_CR,  # identical to others — first signal
+    "submitted_at_iso": BID_DATE.isoformat(),
+    "label": {
+        "verdict": "Qualified",  # passes mandatory checks but raises anomaly flags
+        "expected_findings": [],
+        "narrative": "Mandatory checks pass, but cross-bid anomaly: same Dhamra Port project as Megha (different price/dates) — possible cartel signal.",
+        "expected_anomalies": ["similar_experience_claim"],
+    },
+    "extractions": {
+        "Form-3": {
+            "company_name": "Patel-IRCON Marine JV",
+            "registration_no": "JV-2025-PATEL-IRCON",
+            "address": "c/o Patel Engineering Ltd., Mumbai",
+            "pan": "AABCP9012E",
+            "gst": "27AABCP9012E1ZN",
+        },
+        "Form-4": {
+            "turnover_year_1_inr_cr": 4180.0,
+            "turnover_year_2_inr_cr": 3850.0,
+            "turnover_year_3_inr_cr": 3520.0,
+            "best_year_inr_cr": 4180.0,
+        },
+        "Form-5A": {
+            "projects": [
+                # Almost-identical claim to Megha's Dhamra Port project
+                {"name": "Dhamra Port Breakwater Extension", "value_inr_cr": 410.0, "client": "Dhamra Port Co. Ltd.", "completion_date": "2024-08-31"},
+                {"name": "Mumbai Port Trust Container Berth", "value_inr_cr": 280.0, "client": "Mumbai Port Trust", "completion_date": "2023-04-12"},
+            ],
+        },
+        "Form-5C": {
+            "breakwater_rmt": 1180.0,
+            "dredging_cum": 420000.0,
+            "piling": [{"diameter_mm": 1200, "length_rmt": 480.0}],
+        },
+        "Form-6A": {
+            "max_annual_value_inr_cr": 410.0,
+            "lookback_years": 10,
+            "ongoing_commitments_inr_cr": 350.0,
+            "contract_duration_years": DEMO_CONTRACT_DURATION_YEARS,
+            "net_worth_inr_cr": 1840.0,
+            "solvency_inr_cr": 350.0,
+            "solvency_cert_date": (BID_DATE - timedelta(days=80)).isoformat(),
+        },
+        "Form-2": _form2("Rupen Patel"),
+        "Form-12": {"signed": True, "signatory_name": "Rupen Patel", "no_deviations": True, "no_intermediaries": True},
+        "Form-13": {"signed": True, "signatory_name": "Rupen Patel"},
+        "Form-14": {
+            "jv_entity_name": "Patel-IRCON Marine JV",
+            "partners": [
+                {"name": "Patel Engineering Ltd.", "share_pct": 55.0, "lead": True, "role": "Lead — Marine breakwater works", "signed": True},
+                {"name": "IRCON International Ltd.", "share_pct": 45.0, "lead": False, "role": "Onshore civil and approach roads", "signed": True},
+            ],
+            "joint_and_several": True,
+            "all_partners_signed": True,
+            "valid_through_dlp": True,
+        },
+        "Form-19": _form19_checklist(
+            items_present=[
+                "Form-1", "Form-2", "Form-3", "Form-4", "Form-5A", "Form-5C", "Form-6A",
+                "Form-12", "Form-13", "Form-14", "Form-15", "Form-19", "Form-B Bid Bond",
+                "EPF Cert", "ESI Cert", "PAN", "GST", "Solvency Cert",
+                "Audited Financials Y1", "Audited Financials Y2", "Audited Financials Y3",
+            ],
+            items_missing=[],
+        ),
+        "Form-B": _bid_bond(payee="Patel-IRCON Marine JV"),
+        "Bills": {"bill_1_inr_cr": 95.0, "bill_2_inr_cr": 110.0, "bill_3_inr_cr": 78.0, "bill_4_inr_cr": 52.0, "bill_5_inr_cr": 45.0, "grand_summary_inr_cr": 380.0},
+    },
+}
+
+
 ALL_SYNTHETIC_BIDS = [
     BID_01_CLEAN,
     BID_02_MISSING_BG,
     BID_03_BG_NAME_MISMATCH,
     BID_04_CAPACITY_SHORTFALL,
     BID_05_STALE_AND_BILL_MISMATCH,
+    BID_06_COLLUSION_SIGNAL,
 ]
 
 

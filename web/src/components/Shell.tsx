@@ -1,5 +1,7 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
+import { LangSwitcher } from "@/components/LangSwitcher";
+import { I18nText } from "@/components/I18nText";
 
 export function Shell({ children }: { children: ReactNode }) {
   return (
@@ -25,11 +27,15 @@ function Header() {
           </div>
         </Link>
         <nav className="flex items-center gap-1">
-          <NavLink href="/">Tenders</NavLink>
-          <NavLink href="/tenders/1/bids">Bids</NavLink>
-          <NavLink href="/tenders/1/compare">Compare</NavLink>
-          <NavLink href="/tenders/1/benchmark">Benchmark</NavLink>
-          <NavLink href="/audit">Audit</NavLink>
+          <NavLink href="/"><I18nText k="nav_tenders" /></NavLink>
+          <NavLink href="/tenders/1/bids"><I18nText k="nav_bids" /></NavLink>
+          <NavLink href="/tenders/1/compare"><I18nText k="nav_compare" /></NavLink>
+          <NavLink href="/tenders/1/anomalies"><I18nText k="nav_anomalies" /></NavLink>
+          <NavLink href="/tenders/1/benchmark"><I18nText k="nav_benchmark" /></NavLink>
+          <NavLink href="/draft"><I18nText k="nav_drafting" /></NavLink>
+          <NavLink href="/upload">Upload</NavLink>
+          <NavLink href="/audit"><I18nText k="nav_audit" /></NavLink>
+          <LangSwitcher />
         </nav>
       </div>
     </header>

@@ -2,10 +2,14 @@ FROM python:3.12-slim
 
 WORKDIR /app
 
-# System deps for cffi/cryptography (needed by some transitive deps) + git for corpus fetch
+# System deps for cffi/cryptography + git for corpus fetch + tesseract/poppler for OCR
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     git \
+    tesseract-ocr \
+    tesseract-ocr-eng \
+    tesseract-ocr-tel \
+    poppler-utils \
     && rm -rf /var/lib/apt/lists/*
 
 # Install uv (fast pip replacement)
